@@ -81,7 +81,7 @@ python evaluate.py --tier all --corpus-dir corpus
 
 | Step | Time | Notes |
 |---|---|---|
-| Setup: venv + `requirements.txt` + spaCy model + upstream clones/LFS | 15–25 min | network-bound; RCT-Reviewer light LFS pull (bias + rct weights) ~90 MB, or ~2.6 GB full; RobotReviewer LFS pull adds its own weights |
+| Setup: venv + `requirements.txt` + spaCy model + upstream clones/LFS | 15–25 min | network-bound; RCT-Reviewer light LFS pull (bias + rct weights) ~2.6 GB full; RobotReviewer LFS pull adds its own weights |
 | `fetch_corpus.py --target 1000` | 1–2 h | only needed if you don't reuse a corpus; results for Tiers A/B/C do not depend on it |
 | `evaluate.py --tier all` - Tier A+B (751 benchmark records) | ~6 min | deterministic, seeded |
 | Tier C (1,003 documents × 6 domains, both pipelines) | ~70 min | the dominant cost: runs the original 2017 pipeline over every corpus document |

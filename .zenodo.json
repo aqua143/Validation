@@ -1,0 +1,48 @@
+{
+  "title": "RCT-Reviewer Validation Harness",
+  "version": "1.0",
+  "description": "A reproducible validation harness for RCT-Reviewer that bridges the original 2017 RobotReviewer implementation and the 2026 RCT-Reviewer refactoring. The suite evaluates mathematical and implementation fidelity, predictive validity, the impact of removing the legacy CNN component, risk-of-bias pipeline equivalence, and robustness of the modern PDF parsing infrastructure. It includes the validation scripts, compatibility shim, corpus metadata, validation results, provenance information, and reproducibility configuration. The harness does not redistribute the upstream repositories or publisher-copyrighted article PDFs. The exact 1,000-paper validation corpus is available separately through a restricted Zenodo deposit or may be reconstructed from the supplied audited metadata using Europe PMC.",
+  "creators": [
+    {
+      "name": "Sahu, Vihaan"
+    },
+    {
+      "name": "Sahu, Ajit"
+    }
+  ],
+  "keywords": [
+    "RCT-Reviewer",
+    "RobotReviewer",
+    "randomized controlled trials",
+    "RCTs",
+    "systematic reviews",
+    "risk of bias",
+    "evidence synthesis",
+    "machine learning",
+    "software validation",
+    "reproducibility",
+    "PDF parsing",
+    "research software"
+  ],
+  "license": "GPL-3.0-or-later",
+  "upload_type": "software",
+  "access_right": "open",
+  "notes": "The validation harness is released under GPL-3.0-or-later. Components originating from upstream projects remain subject to their respective licenses and copyright notices. The repository does not grant additional rights to third-party materials. The article PDFs used in the validation corpus are not redistributed in this repository because they are subject to third-party copyright and publisher licensing restrictions.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/RCT-Reviewer/Validation",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/aurumz-rgb/RCT-Reviewer",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/ijmarshall/robotreviewer",
+      "relation": "isBasedOn",
+      "resource_type": "software"
+    }
+  ]
+}
