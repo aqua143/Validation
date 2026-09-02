@@ -16,6 +16,7 @@ This suite provides validation for the RCT-Reviewer. It bridges the gap between 
 ## Environment
 Tested with: Python 3.12.12, numpy 2.5.2, scipy 1.18.1, scikit-learn 1.9.0, spaCy 3.8.16 (+ `en_core_web_sm` 3.8.0), PyMuPDF 1.28.2, matplotlib 3.11.1, seaborn 0.13.2, statsmodels 0.15.0, pandas 2.3.3, pydantic 2.13.5. `provenance.json` records the exact versions of every run.
 
+
 ## How to Run (Step-by-Step)
 
 1. Ensure you are in the `RCT-Reviewer-Validation` directory by cloning this repository:
@@ -23,6 +24,7 @@ Tested with: Python 3.12.12, numpy 2.5.2, scipy 1.18.1, scikit-learn 1.9.0, spaC
 ```bash
 git clone https://github.com/RCT-Reviewer/Validation.git
 ```
+---
 
 2. **Get the two upstream codebases (first time only).** This repo ships the harness, results, and corpus metadata - not the upstream code or the article PDFs. Place both repositories at these exact paths (the harness resolves `RCT-Reviewer/` and `robotreviewer-master/` relative to its own location):
 
@@ -38,6 +40,8 @@ git clone https://github.com/ijmarshall/robotreviewer.git robotreviewer-master
 cd robotreviewer-master && git lfs pull && cd ..
 ```
 
+---
+
 3. Make a .venv environment:
 
 ```bash
@@ -45,12 +49,16 @@ python3.12 -m venv .venv
 source .venv/bin/activate
 ```
 
+---
+
 4. Install dependencies:
 
 ```bash
 python -m pip install -r requirements.txt
 python -m spacy download en_core_web_sm
 ```
+
+---
 
 5. Corpus retrieval (three options)
 
@@ -66,6 +74,8 @@ The article PDFs are not redistributed in this repository (publisher licensing).
  
 -- **Fresh query (new comparable corpus, not identical).** `python fetch_corpus.py --target 1000` re-runs the Europe PMC search + SVM filter. Europe PMC result sets drift between searches, so this yields a comparable but not paper-identical corpus; Tier D statistics are descriptive and remain interpretable, while Tiers A/B/C do not use the corpus at all.
 
+---
+
 6. Execute the full validation suite (Tiers A, B, C, D):
 
 ```bash
@@ -74,7 +84,11 @@ python evaluate.py --tier all --corpus-dir corpus
 
    Useful flags: `--tier A|B|C|D` for a single tier
 
+---
+
 7. Check `validation_results/` for `report.md`, the CSV/JSON outputs, and the figures (`*.png`, `*.svg`, `*.pdf`).
+
+
 
 
 ## What reproducing takes (measured on an M1 Pro, 1,000-PDF corpus)
@@ -93,9 +107,9 @@ python evaluate.py --tier all --corpus-dir corpus
 
 GPL-3.0 - the same licence as both upstream repositories (`RCT-Reviewer` and `robotreviewer-master`). See [`LICENSE`](LICENSE). RCT-Reviewer is an independent refactoring of RobotReviewer by a different team; the original authors' model weights are redistributed here under the same licence with attribution, and all published performance claims cited in the results belong to the original evaluations.
 
-
 **Corpus:  The corpus is 1,000 recent (2025–2026) open-access PDFs from Europe PMC, all accepted by RCT-Reviewer's own SVM. Roughly a third of the titles mention "protocol" (trial protocols that the SVM also flags as RCT-like); they are retained as valid parse targets, and per-paper decisions are in `corpus/metadata.csv`. The corpus is intentionally self-selected, so Tier D measures robustness on tool-relevant PDFs, not a representative literature sample. Tier A/B/C do not depend on the corpus.
 
+---
 
 ## How the Code Works (The Architecture)
 
@@ -155,6 +169,7 @@ To guarantee the corpus contains strict RCTs, the fetcher:
 
 - **Tier D** (1,000 PDFs, 12,060 pages): parse success 100.0% (CI 99.6–100.0), median 1.66 s/PDF (IQR 1.32–2.06), longest PDF 7.0 s.
 
+---
 
 ## Conclusion
 
@@ -178,6 +193,8 @@ To guarantee the corpus contains strict RCTs, the fetcher:
 - Tier D sentence counts depend on the spaCy model version; upgrading spaCy can shift them slightly (results from a previous, older-package environment differed by a few sentences per PDF).
 
 - `validation_shim.py` and `evaluate.py` never modify either repository - everything new lives in this directory.
+
+---
 
 ## Troubleshooting
 `libmupdf.dylib` Error: run these three commands, one by one:
