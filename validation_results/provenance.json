@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-09-02T23:43:13",
+  "python": "3.12.12",
+  "platform": "macOS-15.7.3-arm64-arm-64bit",
+  "numpy": "2.5.2",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.0",
+  "spacy": "3.8.14",
+  "fitz": "1.28.2",
+  "pydantic": "2.13.4",
+  "weights_sha256": {
+    "bias/bias_doc_level.npz": "233e706a323aefec21ca17de531514cc401b5a45e0f690ecb03278fa6f2ea8d7",
+    "bias/bias_sent_level.npz": "659f967020c115af8e22b6e98495276f609087dbceb2f70ceb42b7120b582d5b",
+    "rct/rct_svm_weights.npz": "965279af5307d5ed7d9ea0685cd1a408bf5281b14b8c31468e688851bd266200",
+    "rct/rct_model_calibration.json": "37a167ecbf8fc178876ca8f8c80ba1130316cbecbb7d58655c674769d9f74b37"
+  },
+  "weight_identity_vs_original": {
+    "bias/bias_doc_level.npz": {
+      "rct_reviewer_sha256": "233e706a323aefec21ca17de531514cc401b5a45e0f690ecb03278fa6f2ea8d7",
+      "original": "lfs_oid:233e706a323aefec21ca17de531514cc401b5a45e0f690ecb03278fa6f2ea8d7",
+      "identical": true
+    },
+    "bias/bias_sent_level.npz": {
+      "rct_reviewer_sha256": "659f967020c115af8e22b6e98495276f609087dbceb2f70ceb42b7120b582d5b",
+      "original": "lfs_oid:659f967020c115af8e22b6e98495276f609087dbceb2f70ceb42b7120b582d5b",
+      "identical": true
+    },
+    "rct/rct_svm_weights.npz": {
+      "rct_reviewer_sha256": "965279af5307d5ed7d9ea0685cd1a408bf5281b14b8c31468e688851bd266200",
+      "original": "lfs_oid:965279af5307d5ed7d9ea0685cd1a408bf5281b14b8c31468e688851bd266200",
+      "identical": true
+    },
+    "rct/rct_model_calibration.json": {
+      "rct_reviewer_sha256": "37a167ecbf8fc178876ca8f8c80ba1130316cbecbb7d58655c674769d9f74b37",
+      "original": "sha256:37a167ecbf8fc178876ca8f8c80ba1130316cbecbb7d58655c674769d9f74b37",
+      "identical": true
+    },
+    "weights_identical_to_original": true
+  }
+}

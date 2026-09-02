@@ -1,0 +1,51 @@
+{
+  "corpus_dir": "corpus",
+  "n_pdfs": 1000,
+  "parse_success": [
+    1.0,
+    0.9961732414543059,
+    1.0
+  ],
+  "status_counts": {
+    "success": 1000
+  },
+  "median_seconds": 1.6552925109863281,
+  "iqr_seconds": [
+    1.323610246181488,
+    2.0628743767738342
+  ],
+  "median_chars": 51785.5,
+  "median_sentences": 394.0,
+  "keyword_hit_rate_by_domain": {
+    "Random sequence generation": {
+      "rate": 0.4046666666666667,
+      "snippets": 3000,
+      "hits": 1214
+    },
+    "Allocation concealment": {
+      "rate": 0.072,
+      "snippets": 3000,
+      "hits": 216
+    },
+    "Blinding of participants and personnel": {
+      "rate": 0.28633333333333333,
+      "snippets": 3000,
+      "hits": 859
+    },
+    "Blinding of outcome assessment": {
+      "rate": 0.01633333333333333,
+      "snippets": 3000,
+      "hits": 49
+    },
+    "Incomplete outcome data": {
+      "rate": 0.14233333333333334,
+      "snippets": 3000,
+      "hits": 427
+    },
+    "Selective reporting": {
+      "rate": 0.04533333333333334,
+      "snippets": 3000,
+      "hits": 136
+    }
+  }
+}

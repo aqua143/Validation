@@ -1,0 +1,95 @@
+{
+  "tier_a": {
+    "n_evaluated": 751,
+    "n_corpus_records": 751,
+    "n_medline_records": 1000,
+    "n_unique_pmids": 930,
+    "inclusion_note": "records with both title and abstract present in the MEDLINE export; duplicate PMIDs deduplicated",
+    "n_expected_rows_svm_balanced": 926,
+    "metrics_vs_hedges": {
+      "n": 751,
+      "tp": 397,
+      "fp": 39,
+      "fn": 25,
+      "tn": 290,
+      "sensitivity": "94.1 (91.4\u201396.0)",
+      "specificity": "88.1 (84.2\u201391.2)",
+      "accuracy": "91.5 (89.3\u201393.3)",
+      "ppv": "91.1 (88.0\u201393.4)",
+      "npv": "92.1 (88.5\u201394.6)",
+      "f1": "0.925 (0.907\u20130.943)",
+      "kappa": "0.826 (0.786\u20130.866)",
+      "_f1": 0.9254079254079254,
+      "_kappa": 0.8260907321238611
+    },
+    "fidelity_vs_stored": {
+      "max_abs_delta_score": 0.09253362861386494,
+      "mean_abs_delta_score": 0.015188111192102687,
+      "pearson_r_scores": 0.9999470021966185,
+      "decision_agreement": [
+        0.996005326231691,
+        0.9883216770716498,
+        0.998640540271471
+      ],
+      "kappa_decisions": 0.991786874309649
+    },
+    "old_code_direct_available": true,
+    "fidelity_vs_old_code_direct": {
+      "max_abs_delta_score": 0.0,
+      "mean_abs_delta_score": 0.0,
+      "decision_agreement": [
+        1.0,
+        0.9949109063418574,
+        1.0
+      ]
+    },
+    "advanced_stats": {
+      "roc_auc": 0.9657730592489088,
+      "brier_score_platt_calibrated": 0.06738578951152292,
+      "brier_score_raw_clipped": 0.10431397485637835,
+      "true_rct_prevalence": 0.5619174434087882,
+      "platt_slope": 2.0778896862334197,
+      "platt_intercept": -2.632027159224848
+    }
+  },
+  "tier_b": {
+    "n": 751,
+    "svm_only_vs_full_ensemble": {
+      "decision_agreement": [
+        0.9254327563249002,
+        0.9044031603431225,
+        0.9421322180223194
+      ],
+      "kappa": 0.8474286045971675
+    },
+    "svm_only_vs_hedges": {
+      "sensitivity": "94.1 (91.4\u201396.0)",
+      "specificity": "88.1 (84.2\u201391.2)",
+      "f1": "0.925 (0.907\u20130.943)",
+      "kappa": "0.826 (0.786\u20130.866)"
+    },
+    "full_ensemble_vs_hedges": {
+      "sensitivity": "97.6 (95.7\u201398.7)",
+      "specificity": "95.1 (92.2\u201397.0)",
+      "f1": "0.969 (0.957\u20130.980)",
+      "kappa": "0.930 (0.901\u20130.954)"
+    },
+    "svm_only_vs_svm_cnn_no_ptyp": {
+      "decision_agreement": [
+        0.9454061251664447,
+        0.9267747138970657,
+        0.9595041094620589
+      ],
+      "kappa": 0.8886381308884428
+    },
+    "svm_cnn_no_ptyp_vs_hedges": {
+      "sensitivity": "95.5 (93.1\u201397.1)",
+      "specificity": "94.5 (91.5\u201396.5)",
+      "f1": "0.956 (0.942\u20130.969)",
+      "kappa": "0.900 (0.869\u20130.930)"
+    },
+    "advanced_stats": {
+      "mcnemar_p_value_svm_vs_ensemble": 2.571572048082338e-07
+    }
+  }
+}

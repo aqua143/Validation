@@ -1,0 +1,22 @@
+
+.DS_Store
+**/.DS_Store
+__pycache__/
+**/__pycache__/
+*.pyc
+
+
+.venv/
+RCT-Reviewer/.venv/
+
+
+# Keep corpus/metadata.csv (the auditable inclusion decisions) in the repo.
+corpus/*.pdf
+
+
+
+
+
+# The two upstream repos have their own Git history; 
+RCT-Reviewer/
+robotreviewer-master/

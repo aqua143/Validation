@@ -1,0 +1,20 @@
+{
+  "example_pdf_pages": 10,
+  "pymupdf_chars": 62835,
+  "grobid_title_token_coverage": 0.48148148148148145,
+  "grobid_abstract_token_coverage": 0.6996699669966997,
+  "grobid_title_tokens_missing": 14,
+  "grobid_title_tokens_total": 27,
+  "grobid_title_missing_examples": [
+    "human",
+    "papillomavirus",
+    "hpv",
+    "hpv",
+    "antibody",
+    "responses",
+    "pseudovirus",
+    "neutralization"
+  ],
+  "missing_tokens_absent_as_substring": true,
+  "note": "Missing title tokens are absent even as substrings of the extracted text: the title font of this PDF maps no Unicode, so PyMuPDF silently loses the title while the GROBID parse recovered it \u2014 a genuine extraction gap, not a metric artifact."
+}

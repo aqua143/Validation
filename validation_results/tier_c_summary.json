@@ -1,0 +1,15 @@
+{
+  "n_comparisons": 6018,
+  "judgement_agreement": [
+    1.0,
+    0.9993620790405184,
+    1.0
+  ],
+  "kappa_low_vs_high_unclear": 1.0,
+  "max_abs_delta_sentence_score": 0.0,
+  "vectorizer_equivalence": {
+    "probes": 14,
+    "matrices_identical": true,
+    "max_abs_nnz_differences": 0
+  }
+}

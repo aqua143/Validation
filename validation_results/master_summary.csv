@@ -1,0 +1,16 @@
+tier,metric,value
+A,sensitivity,94.1 (91.4–96.0)
+A,specificity,88.1 (84.2–91.2)
+A,accuracy,91.5 (89.3–93.3)
+A,ppv,91.1 (88.0–93.4)
+A,npv,92.1 (88.5–94.6)
+A,f1,0.925 (0.907–0.943)
+A,kappa,0.826 (0.786–0.866)
+A,n,751
+A,max_abs_delta_vs_stored,0.09253362861386494
+B,agreement_vs_full_ensemble,92.5 (90.4–94.2)
+B,kappa_vs_full_ensemble,0.8474286045971675
+C,judgement_agreement,100.0 (99.9–100.0)
+C,vectorizer_identical,True
+D,parse_success,100.0 (99.6–100.0)
+D,n_pdfs,1000
