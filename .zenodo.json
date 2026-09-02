@@ -38,11 +38,6 @@
       "identifier": "https://github.com/aurumz-rgb/RCT-Reviewer",
       "relation": "isSupplementTo",
       "resource_type": "software"
-    },
-    {
-      "identifier": "https://github.com/ijmarshall/robotreviewer",
-      "relation": "isBasedOn",
-      "resource_type": "software"
     }
   ]
 }
