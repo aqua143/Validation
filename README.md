@@ -105,9 +105,12 @@ python evaluate.py --tier all --corpus-dir corpus
 
 ## License
 
+
+[![GNU GPL v3 License](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 GPL-3.0 - the same licence as both upstream repositories (`RCT-Reviewer` and `robotreviewer-master`). See [`LICENSE`](LICENSE). RCT-Reviewer is an independent refactoring of RobotReviewer by a different team; the original authors' model weights are redistributed here under the same licence with attribution, and all published performance claims cited in the results belong to the original evaluations.
 
-**Corpus:  The corpus is 1,000 recent (2025–2026) open-access PDFs from Europe PMC, all accepted by RCT-Reviewer's own SVM. Roughly a third of the titles mention "protocol" (trial protocols that the SVM also flags as RCT-like); they are retained as valid parse targets, and per-paper decisions are in `corpus/metadata.csv`. The corpus is intentionally self-selected, so Tier D measures robustness on tool-relevant PDFs, not a representative literature sample. Tier A/B/C do not depend on the corpus.
+**Corpus**:  The corpus is 1,000 recent (2025–2026) open-access PDFs from Europe PMC, all accepted by RCT-Reviewer's own SVM. Roughly a third of the titles mention "protocol" (trial protocols that the SVM also flags as RCT-like); they are retained as valid parse targets, and per-paper decisions are in `corpus/metadata.csv`. The corpus is intentionally self-selected, so Tier D measures robustness on tool-relevant PDFs, not a representative literature sample. Tier A/B/C do not depend on the corpus.
 
 ---
 
