@@ -90,8 +90,58 @@ python evaluate.py --tier all --corpus-dir corpus
 
 7. Check `validation_results/` for `report.md`, the CSV/JSON outputs, and the figures (`*.png`, `*.svg`, `*.pdf`).
 
+---
 
+## 8. Tier E - external validity against a human reference standard (Tian 2024)
 
+Tiers A–D validate the refactored tool against the *original tool* and against the *RCT screening benchmark*. Tier E adds what a methods journal expects for a risk-of-bias tool: agreement with **human reviewers**, using the public reference dataset of **Tian et al., Res Synth Methods 2024;15(6):1111–1119** (1,955 RCTs with human-consensus RoB on 4 domains, plus the original RobotReviewer's automatic labels; dataset: [https://osf.io/k6w9q](https://osf.io/k6w9q), snapshot stored at `reference_data/tian_rob.xlsx`).
+
+**How it works:** each trial's citation string is resolved to a PMID via NCBI eutils (journal + year + volume + first page; ~96% resolve), PMIDs are converted to PMC records, open-access PDFs are downloaded from Europe PMC into `tian_corpus/`, RCT-Reviewer judges the 4 domains, and agreement is computed against (a) the human consensus and (b) the original RobotReviewer's deposited labels on the identical subset - an external, third-party check of the fidelity claim.
+
+**Run it** (all phases cached and resumable; rerun simply continues where it stopped).
+
+**Pilot test first (recommended):** a 2-trial demo end-to-end - downloads, judging, and report generation in ~2 minutes:
+
+```bash
+python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com --limit 2
+```
+
+Then the full run (the 2 pilot PDFs are kept; the rest are fetched and the report is regenerated with the real n):
+
+```bash
+python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com
+```
+
+Other controls: `--phase analyze` resumes a specific phase; `--limit N` caps new downloads/expansions/analyses per phase.
+
+**Trial PDFs - two options:**
+
+1. **Zenodo archive (recommended).** Download the exact trial-PDF set used in this evaluation ([https://doi.org/10.5281/zenodo.22286385](https://doi.org/10.5281/zenodo.22286385)) and place the PDFs into `tian_corpus/`. This reproduces the published Tier E numbers 1:1 - no fetching needed; `evaluate_tian.py` detects the cached PDFs and skips straight to analysis.
+2. **Fetch like we did.** First set your Semantic Scholar API key (used by the `expand` phase to find open-access PDFs for trials that Europe PMC and Unpaywall cannot provide; get a free key at [semanticscholar.org/product/api](https://www.semanticscholar.org/product/api#api-key-form)). Set it once per shell and do **not** commit it to the repository:
+   ```bash
+   export S2_API_KEY=your_semantic_scholar_key   # or pass --s2-api-key instead
+   ```
+   Then run the full pipeline - resolve citations → PMC records → download open-access PDFs from Europe PMC → harvest OA copies via Unpaywall → Semantic Scholar:
+   ```bash
+   python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com
+   ```
+   This yields a comparable (slightly different) open-access subset, since availability changes over time. Without `S2_API_KEY` the Semantic Scholar pass is skipped (PMC + Unpaywall still run); the API rate-limits aggressively, so the harness backs off on HTTP 429 and any trials it misses can be picked up by rerunning the expand phase later.
+
+Use the same venv you run `evaluate.py` with (`RCT-Reviewer/.venv/bin/python`, or any venv with `requirements.txt` installed - the analyze phase needs spaCy/PyMuPDF/scikit-learn). The script holds a lock file while running: **run one instance at a time**, and if a run is interrupted, just rerun the same command - every phase resumes from its cached CSV.
+
+**Runtime:** ~1.5–2.5 h total (citation resolution ~40 min, downloads ~20 min, analysis ~45 min; network-bound). Outputs land in `validation_results_tian/` - `tian_report.md`, `tian_agreement.csv`, `tian_rr_judgments.csv`, `tian_resolution.csv`, and the figure in PNG/SVG/PDF. `validation_results/` is not touched by Tier E.
+
+**Control experiment (`--phase control`).** Tier E compares against Tian's labels, which were produced from *publisher* PDFs, while Tier E uses open-access PMC PDFs - so a residual gap vs the published numbers is expected from the input difference alone. To prove that gap is the PDF source and not the refactoring, the control phase re-runs the **original 2017 BiasRobot** (via the compatibility shim) on the *identical* PMC text that RCT-Reviewer judged:
+```bash
+python evaluate_tian.py --phase control    # ~30 min; appends to tian_report.md
+```
+Expected result: original-on-PMC-text agrees near-100% with RCT-Reviewer and shows the same reduced human κ as the refactored tool - isolating PDF source as the only variable (implementation held constant by Tier C).
+
+**Why Tier E evaluates fewer trials than Tian's 1,955:** Tian et al. assessed publisher PDFs obtained through their own review pipeline; this harness can only legitimately retrieve **open-access** full texts. Of 1,955 trials, ~93% resolve to PubMed records, ~427 have a PMC record, and an Unpaywall pass (`expand` phase) harvests further open-access copies by DOI - giving a final subset of roughly 400–700 trials (exact n is reported in `tian_report.md`). The remainder are paywalled (JAMA, NEJM, Ann Oncol, …) and are excluded rather than scraped. Bounded human-referenced evaluations are an established design - Hirt 2021 published with n=190, Armijo-Olivo 2020 with n=393.
+
+**Note on PMC records that could not be downloaded:** PMC contains two classes of full text. Open-access (CC-licensed) articles allow programmatic PDF delivery; *author manuscripts* deposited under funder policies (typical for Lancet, NEJM, JAMA) are publicly viewable on the PMC website but their publisher licence forbids programmatic PDF rendering - Europe PMC's render endpoint returns an HTTP 500 for them. So a trial can be visible in PMC yet yield no downloadable PDF; such trials are excluded from Tier E rather than scraped. The exclusion is licensing-driven, not a tool failure - the harness never receives those PDFs, so it cannot be the cause of any judgement difference.
+
+**Result (confirmed 2026-09-04):** on the 313-trial open-access subset, RCT-Reviewer agrees with the human consensus at κ 0.26/0.20/0.48/0.12 (concordance 60–76%) across the four domains - within the range Tian published for the original tool (κ 0.25–0.59, concordance 63–83% on publisher PDFs). The control phase confirmed the mechanism: the original 2017 implementation, run on the identical PMC text, agrees with RCT-Reviewer in **100.0% of domain judgements** and shows identical human κ - so the difference vs Tian's published values is attributable to the PDF source (open-access versions vs publisher PDFs), not the refactoring. External fidelity vs the original's deposited publisher-PDF labels: 78.9% of domain judgements.
 
 ## What reproducing takes (measured on an M1 Pro, 1,000-PDF corpus)
 
@@ -102,7 +152,8 @@ python evaluate.py --tier all --corpus-dir corpus
 | `evaluate.py --tier all` - Tier A+B (751 benchmark records) | ~6 min | deterministic, seeded |
 | Tier C (1,003 documents × 6 domains, both pipelines) | ~70 min | the dominant cost: runs the original 2017 pipeline over every corpus document |
 | Tier D (1,000 PDFs, 12,060 pages) | ~35 min | parse + annotate each PDF |
-| **Total** | **≈ 2 h** after setup | 6–8 GB disk (venv + models + corpus) |
+| Tier E (Tian 2024 human-reference arm, `evaluate_tian.py`) | ~1.5–2.5 h | optional; independent of the corpus, resumable per phase |
+| **Total** | **≈ 2 h** (Tiers A–D) / **≈ 4 h** with Tier E | 6–8 GB disk (venv + models + corpus) |
 
 
 ## License
@@ -153,6 +204,15 @@ To guarantee the corpus contains strict RCTs, the fetcher:
 
 - **Tier D (Parser robustness - descriptive, not accuracy)** - Parses every corpus PDF with the new PyMuPDF-based `PDFParser`, recording parse success/failure mode, pages, chars, sentences, and per-document time (Wilson CI on success rate, median + IQR timing). It also runs the refactored BiasRobot on each PDF and reports the **keyword hit-rate** of the top-3 highlighted sentences per RoB domain against hand-written methodological-term regex lexicons - a lexical plausibility check of the extracted evidence. Finally, an n=1 **PyMuPDF-vs-GROBID case study** compares PyMuPDF extraction of `example.pdf` against the stored GROBID parse (`pdffile.json`) via title/abstract token coverage.
 
+### `evaluate_tian.py` (Tier E - human-reference external validation)
+Separate from the four tiers above (and writing only to `validation_results_tian/`), this script measures agreement between RCT-Reviewer's RoB judgements and the **human consensus reference standard** of Tian et al. 2024 (Res Synth Methods; dataset on OSF, snapshot in `reference_data/tian_rob.xlsx`, 1,955 RCTs, 4 domains, binary low vs high/unclear):
+1. **Resolve** each trial's citation string to a PMID (NCBI eutils, journal+year+volume+first page; progressive fallbacks; ~96% resolve).
+2. **Convert** PMIDs to PMC records (NCBI ID converter, batched).
+3. **Download** open-access PDFs from Europe PMC into `tian_corpus/` (politeness delay, cached).
+4. **Analyze** each PDF with the same PDFParser + BiasRobot used in Tiers C/D; map judgements to low vs high/unclear.
+5. **Compare** per domain (n, concordance with Wilson CI, Cohen's kappa with seeded bootstrap CI, PPA, NPA): (a) RCT-Reviewer vs human consensus; (b) the original RobotReviewer's deposited labels vs the human consensus on the *identical subset* (matched-sample comparison); (c) RCT-Reviewer vs the original's deposited labels (external fidelity check on data this project never touched). Outputs: `tian_report.md`, `tian_agreement.csv`, `tian_rr_judgments.csv`, `tian_resolution.csv`, and `figure_tier_e_human_concordance.*`.
+Note on the reference data: all four of Tian's published kappas (0.46/0.25/0.59/0.27) and PPA/NPA values reproduce exactly from the deposited xlsx, confirming correct decoding; the running-text concordance percentages in the paper appear domain-shuffled relative to the deposited data, which the report footnotes.
+
 **Figures** - every figure is saved in **three formats (`.png`, `.svg`, `.pdf`)** by the `save_fig` helper.
 
 | figure | what it shows | how to read it |
@@ -173,6 +233,44 @@ To guarantee the corpus contains strict RCTs, the fetcher:
 - **Tier C**: 6,018/6,018 judgements agree across all 1,003 documents × 6 domains (kappa 1.0, CI 99.9–100.0), sentence scores identical, vectorizer matrices identical (14/14 probes).
 
 - **Tier D** (1,000 PDFs, 12,060 pages): parse success 100.0% (CI 99.6–100.0), median 1.66 s/PDF (IQR 1.32–2.06), longest PDF 7.0 s.
+
+---
+
+## Figures
+
+All figures are generated by `evaluate.py` / `evaluate_tian.py` and saved in **PNG + SVG + PDF** under `validation_results/` and `validation_results_tian/`.
+
+### Tier A - classifier vs human labels (Clinical Hedges, n=751)
+
+Confusion matrix of the refactored SVM classifier against human labels. Diagonal = correct calls (290 not-RCTs rejected, 397 RCTs accepted); off-diagonal = errors (39 wrongly retained, 25 missed). Cell percentages are the specificity (88.1%, top row) and sensitivity (94.1%, bottom row).
+
+![Tier A confusion matrix](validation_results/figure_tier_a_confusion_matrix.png)
+
+Reliability diagram of the SVM score after in-sample Platt scaling - points near the diagonal mean the calibrated score reads as a probability.
+
+![Tier A calibration](validation_results/figure_tier_a_calibration.png)
+
+### Tier B - CNN ablation (SVM-only vs original full ensemble)
+
+The measurable, attributed cost of removing the unmaintainable TensorFlow CNN: F1 0.925 vs 0.969 (McNemar p < 0.0001); most of the gap comes from the publication-type features.
+
+![Tier B ablation](validation_results/figure_tier_b_ablation.png)
+
+### Tier D - parser robustness on the 1,000-PDF corpus
+
+Keyword hit-rate of the top-3 highlighted evidence sentences per RoB domain (3,000 sentences per domain) - a lexical plausibility check of extracted evidence; low rates reflect how rarely papers describe those domains explicitly.
+
+![Tier D keywords](validation_results/figure_tier_d_keywords.png)
+
+Parse time vs document length across all 1,000 PDFs - linear scaling (Pearson r = 0.93), no blow-ups (max 7.0 s).
+
+![Tier D scale](validation_results/figure_tier_d_scale.png)
+
+### Tier E - agreement with human reviewers (Tian 2024 subset, n=313)
+
+Per-domain concordance with the human consensus on the Tian 2024 open-access subset: RCT-Reviewer (blue) vs the original RobotReviewer's deposited labels (green) on the identical trials. The control phase additionally showed the two implementations agree on 100% of judgements when given the same text.
+
+![Tier E human concordance](validation_results_tian/figure_tier_e_human_concordance.png)
 
 ---
 

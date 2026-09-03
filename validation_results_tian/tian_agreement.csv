@@ -1,0 +1,5 @@
+domain,n,rr_vs_human_concordance_pct,ci_lo,ci_hi,kappa,kappa_lo,kappa_hi,ppa,npa,orig_rr_vs_human_concordance_pct,orig_rr_kappa_same_subset,rr_vs_orig_agreement_pct,tian_published_kappa_full_sample,tian_published_ppa,tian_published_npa
+Random sequence generation,313,62.6,57.1,67.8,0.26,0.15227194465132848,0.36186765853067016,0.68,0.58,70.0,0.4,79.9,0.46,0.84,0.62
+Allocation concealment,313,60.4,54.9,65.6,0.2,0.10312327310691415,0.30445752300994955,0.58,0.66,61.7,0.25,80.2,0.25,0.62,0.65
+Blinding of participants and personnel,313,76.0,71.0,80.4,0.48,0.382313512543303,0.5715191353000552,0.72,0.9,83.4,0.58,78.6,0.59,0.85,0.8
+Blinding of outcome assessment,313,63.3,57.8,68.4,0.12,0.011319517470347238,0.23361565355062422,0.48,0.67,73.5,0.31,77.0,0.27,0.6,0.7

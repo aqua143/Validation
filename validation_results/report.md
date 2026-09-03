@@ -1,6 +1,6 @@
 # RCT-Reviewer validation — automated results
 
-Generated 2026-09-02T05:01:58. Python 3.12.12, numpy 2.5.2, scikit-learn 1.9.0, spaCy 3.8.16, PyMuPDF 1.28.2.
+Generated 2026-09-04T00:28:45. Python 3.12.12, numpy 2.5.2, scikit-learn 1.9.0, spaCy 3.8.16, PyMuPDF 1.28.2.
 
 Weight provenance (SHA-256 of the exact files loaded by the tool):
 - `bias/bias_doc_level.npz`: `233e706a323aefec…`
@@ -62,10 +62,10 @@ The max |Δ| of 9.3e-02 against the *stored* outputs reflects scikit-learn float
 
 ## Tier D — parser robustness on the open-access corpus (descriptive, not accuracy)
 
-**Corpus note:** Tier D ran on the 1000 open-access PDFs downloaded from Europe PMC via `fetch_corpus.py` into `corpus/` The fetcher reached its 1,000-PDF target. The corpus is intentionally self-selected: the fetcher kept only papers RCT-Reviewer's own SVM classified as RCTs, so Tier D measures robustness on tool-relevant open-access RCT-like PDFs, not on a representative literature sample. Trial protocols accepted by the SVM are retained as valid parse targets; the protocol share of the corpus can be estimated from corpus/metadata.csv.
+**Corpus note:** Tier D ran on the 1000 open-access PDFs downloaded from Europe PMC via `fetch_corpus.py` into `corpus/`. The fetcher reached its 1,000-PDF target. The corpus is intentionally self-selected: the fetcher kept only papers RCT-Reviewer's own SVM classified as RCTs, so Tier D measures robustness on tool-relevant open-access RCT-like PDFs, not on a representative literature sample. Trial protocols accepted by the SVM are retained as valid parse targets; the protocol share of the corpus can be estimated from corpus/metadata.csv.
 
 - PDFs: 1000, parse success 100.0 (99.6–100.0)
-- median time 1.66s (IQR 1.32–2.06)
+- median time 1.57s (IQR 1.26–1.95)
 - status counts: {'success': 1000}
 
 | domain | keyword hit-rate | snippets |
@@ -91,10 +91,8 @@ The max |Δ| of 9.3e-02 against the *stored* outputs reflects scikit-learn float
   RoB accuracy therefore transfers to the refactored tool by
   weight-identity, verified here by exact pipeline reproduction
   (Tier C). No new RoB ground truth was collected.
-
 - Tier D is a robustness/extraction-integrity check on modern
   open-access PDFs, explicitly not an accuracy validation.
-
 - Data and code availability: the full validation harness
   (validation_shim.py, fetch_corpus.py, evaluate.py), the
   per-tier CSV/JSON outputs, corpus metadata (corpus/metadata.csv,
@@ -103,7 +101,6 @@ The max |Δ| of 9.3e-02 against the *stored* outputs reflects scikit-learn float
   this repository. The Clinical Hedges benchmark and the stored
   original-model outputs are distributed with the original
   RobotReviewer data and are byte-identical copies.
-  
 - Positioning: the contribution is a maintained, Java-free
   refactoring of RobotReviewer with demonstrated input-output
   fidelity to the validated original — not a claim of new

@@ -1,0 +1,1253 @@
+row_id,domain,judgement,low
+11,Random sequence generation,low,1
+11,Allocation concealment,low,1
+11,Blinding of participants and personnel,high/unclear,0
+11,Blinding of outcome assessment,high/unclear,0
+12,Random sequence generation,high/unclear,0
+12,Allocation concealment,high/unclear,0
+12,Blinding of participants and personnel,high/unclear,0
+12,Blinding of outcome assessment,high/unclear,0
+13,Random sequence generation,high/unclear,0
+13,Allocation concealment,low,1
+13,Blinding of participants and personnel,low,1
+13,Blinding of outcome assessment,low,1
+14,Random sequence generation,high/unclear,0
+14,Allocation concealment,high/unclear,0
+14,Blinding of participants and personnel,low,1
+14,Blinding of outcome assessment,low,1
+16,Random sequence generation,high/unclear,0
+16,Allocation concealment,high/unclear,0
+16,Blinding of participants and personnel,high/unclear,0
+16,Blinding of outcome assessment,high/unclear,0
+18,Random sequence generation,low,1
+18,Allocation concealment,high/unclear,0
+18,Blinding of participants and personnel,low,1
+18,Blinding of outcome assessment,high/unclear,0
+19,Random sequence generation,low,1
+19,Allocation concealment,low,1
+19,Blinding of participants and personnel,low,1
+19,Blinding of outcome assessment,low,1
+55,Random sequence generation,low,1
+55,Allocation concealment,low,1
+55,Blinding of participants and personnel,low,1
+55,Blinding of outcome assessment,high/unclear,0
+62,Random sequence generation,low,1
+62,Allocation concealment,low,1
+62,Blinding of participants and personnel,high/unclear,0
+62,Blinding of outcome assessment,high/unclear,0
+86,Random sequence generation,high/unclear,0
+86,Allocation concealment,high/unclear,0
+86,Blinding of participants and personnel,high/unclear,0
+86,Blinding of outcome assessment,high/unclear,0
+105,Random sequence generation,low,1
+105,Allocation concealment,low,1
+105,Blinding of participants and personnel,low,1
+105,Blinding of outcome assessment,low,1
+111,Random sequence generation,high/unclear,0
+111,Allocation concealment,low,1
+111,Blinding of participants and personnel,low,1
+111,Blinding of outcome assessment,high/unclear,0
+114,Random sequence generation,high/unclear,0
+114,Allocation concealment,high/unclear,0
+114,Blinding of participants and personnel,high/unclear,0
+114,Blinding of outcome assessment,high/unclear,0
+115,Random sequence generation,low,1
+115,Allocation concealment,low,1
+115,Blinding of participants and personnel,low,1
+115,Blinding of outcome assessment,low,1
+116,Random sequence generation,high/unclear,0
+116,Allocation concealment,high/unclear,0
+116,Blinding of participants and personnel,low,1
+116,Blinding of outcome assessment,high/unclear,0
+117,Random sequence generation,low,1
+117,Allocation concealment,low,1
+117,Blinding of participants and personnel,low,1
+117,Blinding of outcome assessment,low,1
+118,Random sequence generation,low,1
+118,Allocation concealment,low,1
+118,Blinding of participants and personnel,low,1
+118,Blinding of outcome assessment,low,1
+119,Random sequence generation,high/unclear,0
+119,Allocation concealment,high/unclear,0
+119,Blinding of participants and personnel,low,1
+119,Blinding of outcome assessment,high/unclear,0
+120,Random sequence generation,high/unclear,0
+120,Allocation concealment,high/unclear,0
+120,Blinding of participants and personnel,low,1
+120,Blinding of outcome assessment,low,1
+121,Random sequence generation,low,1
+121,Allocation concealment,low,1
+121,Blinding of participants and personnel,low,1
+121,Blinding of outcome assessment,low,1
+122,Random sequence generation,low,1
+122,Allocation concealment,low,1
+122,Blinding of participants and personnel,low,1
+122,Blinding of outcome assessment,low,1
+123,Random sequence generation,high/unclear,0
+123,Allocation concealment,high/unclear,0
+123,Blinding of participants and personnel,low,1
+123,Blinding of outcome assessment,low,1
+129,Random sequence generation,low,1
+129,Allocation concealment,high/unclear,0
+129,Blinding of participants and personnel,high/unclear,0
+129,Blinding of outcome assessment,high/unclear,0
+133,Random sequence generation,high/unclear,0
+133,Allocation concealment,high/unclear,0
+133,Blinding of participants and personnel,high/unclear,0
+133,Blinding of outcome assessment,high/unclear,0
+134,Random sequence generation,high/unclear,0
+134,Allocation concealment,high/unclear,0
+134,Blinding of participants and personnel,high/unclear,0
+134,Blinding of outcome assessment,high/unclear,0
+143,Random sequence generation,high/unclear,0
+143,Allocation concealment,low,1
+143,Blinding of participants and personnel,high/unclear,0
+143,Blinding of outcome assessment,high/unclear,0
+149,Random sequence generation,high/unclear,0
+149,Allocation concealment,low,1
+149,Blinding of participants and personnel,high/unclear,0
+149,Blinding of outcome assessment,high/unclear,0
+150,Random sequence generation,high/unclear,0
+150,Allocation concealment,high/unclear,0
+150,Blinding of participants and personnel,high/unclear,0
+150,Blinding of outcome assessment,high/unclear,0
+151,Random sequence generation,high/unclear,0
+151,Allocation concealment,high/unclear,0
+151,Blinding of participants and personnel,low,1
+151,Blinding of outcome assessment,high/unclear,0
+152,Random sequence generation,low,1
+152,Allocation concealment,low,1
+152,Blinding of participants and personnel,high/unclear,0
+152,Blinding of outcome assessment,high/unclear,0
+153,Random sequence generation,high/unclear,0
+153,Allocation concealment,high/unclear,0
+153,Blinding of participants and personnel,low,1
+153,Blinding of outcome assessment,high/unclear,0
+157,Random sequence generation,high/unclear,0
+157,Allocation concealment,high/unclear,0
+157,Blinding of participants and personnel,high/unclear,0
+157,Blinding of outcome assessment,high/unclear,0
+158,Random sequence generation,high/unclear,0
+158,Allocation concealment,high/unclear,0
+158,Blinding of participants and personnel,high/unclear,0
+158,Blinding of outcome assessment,high/unclear,0
+160,Random sequence generation,high/unclear,0
+160,Allocation concealment,high/unclear,0
+160,Blinding of participants and personnel,high/unclear,0
+160,Blinding of outcome assessment,low,1
+161,Random sequence generation,high/unclear,0
+161,Allocation concealment,high/unclear,0
+161,Blinding of participants and personnel,high/unclear,0
+161,Blinding of outcome assessment,low,1
+165,Random sequence generation,high/unclear,0
+165,Allocation concealment,high/unclear,0
+165,Blinding of participants and personnel,low,1
+165,Blinding of outcome assessment,high/unclear,0
+174,Random sequence generation,low,1
+174,Allocation concealment,high/unclear,0
+174,Blinding of participants and personnel,low,1
+174,Blinding of outcome assessment,high/unclear,0
+175,Random sequence generation,low,1
+175,Allocation concealment,low,1
+175,Blinding of participants and personnel,low,1
+175,Blinding of outcome assessment,low,1
+366,Random sequence generation,high/unclear,0
+366,Allocation concealment,high/unclear,0
+366,Blinding of participants and personnel,low,1
+366,Blinding of outcome assessment,low,1
+374,Random sequence generation,low,1
+374,Allocation concealment,low,1
+374,Blinding of participants and personnel,low,1
+374,Blinding of outcome assessment,low,1
+375,Random sequence generation,low,1
+375,Allocation concealment,low,1
+375,Blinding of participants and personnel,low,1
+375,Blinding of outcome assessment,low,1
+380,Random sequence generation,low,1
+380,Allocation concealment,high/unclear,0
+380,Blinding of participants and personnel,low,1
+380,Blinding of outcome assessment,low,1
+399,Random sequence generation,high/unclear,0
+399,Allocation concealment,high/unclear,0
+399,Blinding of participants and personnel,high/unclear,0
+399,Blinding of outcome assessment,high/unclear,0
+401,Random sequence generation,high/unclear,0
+401,Allocation concealment,high/unclear,0
+401,Blinding of participants and personnel,high/unclear,0
+401,Blinding of outcome assessment,high/unclear,0
+403,Random sequence generation,high/unclear,0
+403,Allocation concealment,high/unclear,0
+403,Blinding of participants and personnel,low,1
+403,Blinding of outcome assessment,high/unclear,0
+417,Random sequence generation,high/unclear,0
+417,Allocation concealment,high/unclear,0
+417,Blinding of participants and personnel,high/unclear,0
+417,Blinding of outcome assessment,high/unclear,0
+418,Random sequence generation,high/unclear,0
+418,Allocation concealment,high/unclear,0
+418,Blinding of participants and personnel,low,1
+418,Blinding of outcome assessment,high/unclear,0
+419,Random sequence generation,low,1
+419,Allocation concealment,high/unclear,0
+419,Blinding of participants and personnel,low,1
+419,Blinding of outcome assessment,high/unclear,0
+420,Random sequence generation,high/unclear,0
+420,Allocation concealment,high/unclear,0
+420,Blinding of participants and personnel,high/unclear,0
+420,Blinding of outcome assessment,high/unclear,0
+421,Random sequence generation,low,1
+421,Allocation concealment,high/unclear,0
+421,Blinding of participants and personnel,low,1
+421,Blinding of outcome assessment,high/unclear,0
+433,Random sequence generation,low,1
+433,Allocation concealment,low,1
+433,Blinding of participants and personnel,low,1
+433,Blinding of outcome assessment,low,1
+434,Random sequence generation,low,1
+434,Allocation concealment,low,1
+434,Blinding of participants and personnel,low,1
+434,Blinding of outcome assessment,low,1
+436,Random sequence generation,low,1
+436,Allocation concealment,low,1
+436,Blinding of participants and personnel,low,1
+436,Blinding of outcome assessment,high/unclear,0
+437,Random sequence generation,low,1
+437,Allocation concealment,low,1
+437,Blinding of participants and personnel,low,1
+437,Blinding of outcome assessment,low,1
+440,Random sequence generation,high/unclear,0
+440,Allocation concealment,high/unclear,0
+440,Blinding of participants and personnel,low,1
+440,Blinding of outcome assessment,high/unclear,0
+469,Random sequence generation,low,1
+469,Allocation concealment,low,1
+469,Blinding of participants and personnel,high/unclear,0
+469,Blinding of outcome assessment,low,1
+473,Random sequence generation,high/unclear,0
+473,Allocation concealment,low,1
+473,Blinding of participants and personnel,low,1
+473,Blinding of outcome assessment,high/unclear,0
+476,Random sequence generation,high/unclear,0
+476,Allocation concealment,low,1
+476,Blinding of participants and personnel,low,1
+476,Blinding of outcome assessment,low,1
+477,Random sequence generation,low,1
+477,Allocation concealment,low,1
+477,Blinding of participants and personnel,low,1
+477,Blinding of outcome assessment,low,1
+481,Random sequence generation,high/unclear,0
+481,Allocation concealment,low,1
+481,Blinding of participants and personnel,low,1
+481,Blinding of outcome assessment,low,1
+482,Random sequence generation,high/unclear,0
+482,Allocation concealment,low,1
+482,Blinding of participants and personnel,high/unclear,0
+482,Blinding of outcome assessment,high/unclear,0
+483,Random sequence generation,low,1
+483,Allocation concealment,low,1
+483,Blinding of participants and personnel,low,1
+483,Blinding of outcome assessment,low,1
+484,Random sequence generation,high/unclear,0
+484,Allocation concealment,low,1
+484,Blinding of participants and personnel,high/unclear,0
+484,Blinding of outcome assessment,high/unclear,0
+491,Random sequence generation,low,1
+491,Allocation concealment,low,1
+491,Blinding of participants and personnel,low,1
+491,Blinding of outcome assessment,low,1
+496,Random sequence generation,low,1
+496,Allocation concealment,high/unclear,0
+496,Blinding of participants and personnel,low,1
+496,Blinding of outcome assessment,low,1
+512,Random sequence generation,low,1
+512,Allocation concealment,low,1
+512,Blinding of participants and personnel,high/unclear,0
+512,Blinding of outcome assessment,low,1
+519,Random sequence generation,high/unclear,0
+519,Allocation concealment,low,1
+519,Blinding of participants and personnel,high/unclear,0
+519,Blinding of outcome assessment,high/unclear,0
+525,Random sequence generation,high/unclear,0
+525,Allocation concealment,high/unclear,0
+525,Blinding of participants and personnel,high/unclear,0
+525,Blinding of outcome assessment,high/unclear,0
+531,Random sequence generation,low,1
+531,Allocation concealment,low,1
+531,Blinding of participants and personnel,high/unclear,0
+531,Blinding of outcome assessment,high/unclear,0
+561,Random sequence generation,low,1
+561,Allocation concealment,low,1
+561,Blinding of participants and personnel,low,1
+561,Blinding of outcome assessment,high/unclear,0
+567,Random sequence generation,high/unclear,0
+567,Allocation concealment,low,1
+567,Blinding of participants and personnel,low,1
+567,Blinding of outcome assessment,high/unclear,0
+570,Random sequence generation,high/unclear,0
+570,Allocation concealment,high/unclear,0
+570,Blinding of participants and personnel,high/unclear,0
+570,Blinding of outcome assessment,high/unclear,0
+571,Random sequence generation,low,1
+571,Allocation concealment,high/unclear,0
+571,Blinding of participants and personnel,low,1
+571,Blinding of outcome assessment,high/unclear,0
+576,Random sequence generation,high/unclear,0
+576,Allocation concealment,low,1
+576,Blinding of participants and personnel,low,1
+576,Blinding of outcome assessment,low,1
+577,Random sequence generation,low,1
+577,Allocation concealment,low,1
+577,Blinding of participants and personnel,low,1
+577,Blinding of outcome assessment,low,1
+580,Random sequence generation,high/unclear,0
+580,Allocation concealment,high/unclear,0
+580,Blinding of participants and personnel,high/unclear,0
+580,Blinding of outcome assessment,high/unclear,0
+587,Random sequence generation,high/unclear,0
+587,Allocation concealment,low,1
+587,Blinding of participants and personnel,low,1
+587,Blinding of outcome assessment,low,1
+588,Random sequence generation,high/unclear,0
+588,Allocation concealment,low,1
+588,Blinding of participants and personnel,low,1
+588,Blinding of outcome assessment,high/unclear,0
+599,Random sequence generation,high/unclear,0
+599,Allocation concealment,high/unclear,0
+599,Blinding of participants and personnel,high/unclear,0
+599,Blinding of outcome assessment,high/unclear,0
+615,Random sequence generation,high/unclear,0
+615,Allocation concealment,high/unclear,0
+615,Blinding of participants and personnel,high/unclear,0
+615,Blinding of outcome assessment,high/unclear,0
+616,Random sequence generation,high/unclear,0
+616,Allocation concealment,high/unclear,0
+616,Blinding of participants and personnel,high/unclear,0
+616,Blinding of outcome assessment,high/unclear,0
+617,Random sequence generation,high/unclear,0
+617,Allocation concealment,high/unclear,0
+617,Blinding of participants and personnel,high/unclear,0
+617,Blinding of outcome assessment,high/unclear,0
+618,Random sequence generation,high/unclear,0
+618,Allocation concealment,high/unclear,0
+618,Blinding of participants and personnel,high/unclear,0
+618,Blinding of outcome assessment,high/unclear,0
+625,Random sequence generation,low,1
+625,Allocation concealment,high/unclear,0
+625,Blinding of participants and personnel,low,1
+625,Blinding of outcome assessment,high/unclear,0
+626,Random sequence generation,high/unclear,0
+626,Allocation concealment,high/unclear,0
+626,Blinding of participants and personnel,high/unclear,0
+626,Blinding of outcome assessment,high/unclear,0
+627,Random sequence generation,high/unclear,0
+627,Allocation concealment,high/unclear,0
+627,Blinding of participants and personnel,high/unclear,0
+627,Blinding of outcome assessment,high/unclear,0
+647,Random sequence generation,low,1
+647,Allocation concealment,low,1
+647,Blinding of participants and personnel,low,1
+647,Blinding of outcome assessment,low,1
+682,Random sequence generation,high/unclear,0
+682,Allocation concealment,high/unclear,0
+682,Blinding of participants and personnel,high/unclear,0
+682,Blinding of outcome assessment,high/unclear,0
+693,Random sequence generation,low,1
+693,Allocation concealment,high/unclear,0
+693,Blinding of participants and personnel,high/unclear,0
+693,Blinding of outcome assessment,high/unclear,0
+703,Random sequence generation,low,1
+703,Allocation concealment,high/unclear,0
+703,Blinding of participants and personnel,high/unclear,0
+703,Blinding of outcome assessment,high/unclear,0
+711,Random sequence generation,high/unclear,0
+711,Allocation concealment,low,1
+711,Blinding of participants and personnel,low,1
+711,Blinding of outcome assessment,high/unclear,0
+718,Random sequence generation,low,1
+718,Allocation concealment,low,1
+718,Blinding of participants and personnel,low,1
+718,Blinding of outcome assessment,low,1
+723,Random sequence generation,low,1
+723,Allocation concealment,low,1
+723,Blinding of participants and personnel,low,1
+723,Blinding of outcome assessment,high/unclear,0
+726,Random sequence generation,low,1
+726,Allocation concealment,low,1
+726,Blinding of participants and personnel,low,1
+726,Blinding of outcome assessment,low,1
+767,Random sequence generation,high/unclear,0
+767,Allocation concealment,high/unclear,0
+767,Blinding of participants and personnel,high/unclear,0
+767,Blinding of outcome assessment,high/unclear,0
+770,Random sequence generation,high/unclear,0
+770,Allocation concealment,low,1
+770,Blinding of participants and personnel,high/unclear,0
+770,Blinding of outcome assessment,high/unclear,0
+773,Random sequence generation,high/unclear,0
+773,Allocation concealment,low,1
+773,Blinding of participants and personnel,low,1
+773,Blinding of outcome assessment,high/unclear,0
+776,Random sequence generation,low,1
+776,Allocation concealment,low,1
+776,Blinding of participants and personnel,low,1
+776,Blinding of outcome assessment,low,1
+777,Random sequence generation,high/unclear,0
+777,Allocation concealment,low,1
+777,Blinding of participants and personnel,low,1
+777,Blinding of outcome assessment,low,1
+779,Random sequence generation,low,1
+779,Allocation concealment,low,1
+779,Blinding of participants and personnel,high/unclear,0
+779,Blinding of outcome assessment,high/unclear,0
+794,Random sequence generation,high/unclear,0
+794,Allocation concealment,high/unclear,0
+794,Blinding of participants and personnel,high/unclear,0
+794,Blinding of outcome assessment,high/unclear,0
+804,Random sequence generation,low,1
+804,Allocation concealment,low,1
+804,Blinding of participants and personnel,low,1
+804,Blinding of outcome assessment,low,1
+814,Random sequence generation,high/unclear,0
+814,Allocation concealment,high/unclear,0
+814,Blinding of participants and personnel,low,1
+814,Blinding of outcome assessment,high/unclear,0
+820,Random sequence generation,low,1
+820,Allocation concealment,high/unclear,0
+820,Blinding of participants and personnel,low,1
+820,Blinding of outcome assessment,high/unclear,0
+821,Random sequence generation,low,1
+821,Allocation concealment,low,1
+821,Blinding of participants and personnel,high/unclear,0
+821,Blinding of outcome assessment,high/unclear,0
+826,Random sequence generation,low,1
+826,Allocation concealment,high/unclear,0
+826,Blinding of participants and personnel,high/unclear,0
+826,Blinding of outcome assessment,high/unclear,0
+856,Random sequence generation,low,1
+856,Allocation concealment,low,1
+856,Blinding of participants and personnel,high/unclear,0
+856,Blinding of outcome assessment,low,1
+857,Random sequence generation,low,1
+857,Allocation concealment,low,1
+857,Blinding of participants and personnel,low,1
+857,Blinding of outcome assessment,low,1
+865,Random sequence generation,high/unclear,0
+865,Allocation concealment,high/unclear,0
+865,Blinding of participants and personnel,low,1
+865,Blinding of outcome assessment,high/unclear,0
+871,Random sequence generation,low,1
+871,Allocation concealment,low,1
+871,Blinding of participants and personnel,high/unclear,0
+871,Blinding of outcome assessment,high/unclear,0
+879,Random sequence generation,high/unclear,0
+879,Allocation concealment,high/unclear,0
+879,Blinding of participants and personnel,high/unclear,0
+879,Blinding of outcome assessment,high/unclear,0
+881,Random sequence generation,low,1
+881,Allocation concealment,low,1
+881,Blinding of participants and personnel,low,1
+881,Blinding of outcome assessment,low,1
+887,Random sequence generation,high/unclear,0
+887,Allocation concealment,high/unclear,0
+887,Blinding of participants and personnel,high/unclear,0
+887,Blinding of outcome assessment,high/unclear,0
+890,Random sequence generation,high/unclear,0
+890,Allocation concealment,high/unclear,0
+890,Blinding of participants and personnel,high/unclear,0
+890,Blinding of outcome assessment,high/unclear,0
+895,Random sequence generation,high/unclear,0
+895,Allocation concealment,high/unclear,0
+895,Blinding of participants and personnel,high/unclear,0
+895,Blinding of outcome assessment,high/unclear,0
+896,Random sequence generation,low,1
+896,Allocation concealment,low,1
+896,Blinding of participants and personnel,low,1
+896,Blinding of outcome assessment,low,1
+902,Random sequence generation,low,1
+902,Allocation concealment,high/unclear,0
+902,Blinding of participants and personnel,low,1
+902,Blinding of outcome assessment,low,1
+915,Random sequence generation,low,1
+915,Allocation concealment,high/unclear,0
+915,Blinding of participants and personnel,high/unclear,0
+915,Blinding of outcome assessment,high/unclear,0
+921,Random sequence generation,high/unclear,0
+921,Allocation concealment,high/unclear,0
+921,Blinding of participants and personnel,high/unclear,0
+921,Blinding of outcome assessment,high/unclear,0
+929,Random sequence generation,low,1
+929,Allocation concealment,low,1
+929,Blinding of participants and personnel,low,1
+929,Blinding of outcome assessment,low,1
+932,Random sequence generation,low,1
+932,Allocation concealment,high/unclear,0
+932,Blinding of participants and personnel,low,1
+932,Blinding of outcome assessment,low,1
+933,Random sequence generation,low,1
+933,Allocation concealment,low,1
+933,Blinding of participants and personnel,low,1
+933,Blinding of outcome assessment,low,1
+936,Random sequence generation,high/unclear,0
+936,Allocation concealment,high/unclear,0
+936,Blinding of participants and personnel,high/unclear,0
+936,Blinding of outcome assessment,high/unclear,0
+942,Random sequence generation,high/unclear,0
+942,Allocation concealment,high/unclear,0
+942,Blinding of participants and personnel,high/unclear,0
+942,Blinding of outcome assessment,high/unclear,0
+956,Random sequence generation,low,1
+956,Allocation concealment,low,1
+956,Blinding of participants and personnel,high/unclear,0
+956,Blinding of outcome assessment,high/unclear,0
+972,Random sequence generation,high/unclear,0
+972,Allocation concealment,high/unclear,0
+972,Blinding of participants and personnel,high/unclear,0
+972,Blinding of outcome assessment,high/unclear,0
+979,Random sequence generation,low,1
+979,Allocation concealment,low,1
+979,Blinding of participants and personnel,low,1
+979,Blinding of outcome assessment,low,1
+983,Random sequence generation,low,1
+983,Allocation concealment,low,1
+983,Blinding of participants and personnel,high/unclear,0
+983,Blinding of outcome assessment,high/unclear,0
+991,Random sequence generation,low,1
+991,Allocation concealment,low,1
+991,Blinding of participants and personnel,high/unclear,0
+991,Blinding of outcome assessment,high/unclear,0
+994,Random sequence generation,low,1
+994,Allocation concealment,low,1
+994,Blinding of participants and personnel,high/unclear,0
+994,Blinding of outcome assessment,low,1
+1008,Random sequence generation,low,1
+1008,Allocation concealment,high/unclear,0
+1008,Blinding of participants and personnel,low,1
+1008,Blinding of outcome assessment,low,1
+1020,Random sequence generation,low,1
+1020,Allocation concealment,low,1
+1020,Blinding of participants and personnel,low,1
+1020,Blinding of outcome assessment,low,1
+1026,Random sequence generation,high/unclear,0
+1026,Allocation concealment,high/unclear,0
+1026,Blinding of participants and personnel,low,1
+1026,Blinding of outcome assessment,high/unclear,0
+1032,Random sequence generation,low,1
+1032,Allocation concealment,low,1
+1032,Blinding of participants and personnel,high/unclear,0
+1032,Blinding of outcome assessment,low,1
+1034,Random sequence generation,low,1
+1034,Allocation concealment,high/unclear,0
+1034,Blinding of participants and personnel,high/unclear,0
+1034,Blinding of outcome assessment,high/unclear,0
+1035,Random sequence generation,low,1
+1035,Allocation concealment,low,1
+1035,Blinding of participants and personnel,low,1
+1035,Blinding of outcome assessment,low,1
+1046,Random sequence generation,high/unclear,0
+1046,Allocation concealment,high/unclear,0
+1046,Blinding of participants and personnel,high/unclear,0
+1046,Blinding of outcome assessment,high/unclear,0
+1063,Random sequence generation,low,1
+1063,Allocation concealment,low,1
+1063,Blinding of participants and personnel,low,1
+1063,Blinding of outcome assessment,high/unclear,0
+1067,Random sequence generation,low,1
+1067,Allocation concealment,high/unclear,0
+1067,Blinding of participants and personnel,high/unclear,0
+1067,Blinding of outcome assessment,high/unclear,0
+1075,Random sequence generation,high/unclear,0
+1075,Allocation concealment,high/unclear,0
+1075,Blinding of participants and personnel,low,1
+1075,Blinding of outcome assessment,high/unclear,0
+1095,Random sequence generation,high/unclear,0
+1095,Allocation concealment,low,1
+1095,Blinding of participants and personnel,high/unclear,0
+1095,Blinding of outcome assessment,high/unclear,0
+1104,Random sequence generation,low,1
+1104,Allocation concealment,high/unclear,0
+1104,Blinding of participants and personnel,low,1
+1104,Blinding of outcome assessment,low,1
+1105,Random sequence generation,high/unclear,0
+1105,Allocation concealment,high/unclear,0
+1105,Blinding of participants and personnel,low,1
+1105,Blinding of outcome assessment,high/unclear,0
+1111,Random sequence generation,low,1
+1111,Allocation concealment,high/unclear,0
+1111,Blinding of participants and personnel,low,1
+1111,Blinding of outcome assessment,high/unclear,0
+1114,Random sequence generation,high/unclear,0
+1114,Allocation concealment,high/unclear,0
+1114,Blinding of participants and personnel,high/unclear,0
+1114,Blinding of outcome assessment,high/unclear,0
+1116,Random sequence generation,high/unclear,0
+1116,Allocation concealment,high/unclear,0
+1116,Blinding of participants and personnel,low,1
+1116,Blinding of outcome assessment,high/unclear,0
+1122,Random sequence generation,high/unclear,0
+1122,Allocation concealment,high/unclear,0
+1122,Blinding of participants and personnel,high/unclear,0
+1122,Blinding of outcome assessment,high/unclear,0
+1124,Random sequence generation,low,1
+1124,Allocation concealment,low,1
+1124,Blinding of participants and personnel,low,1
+1124,Blinding of outcome assessment,low,1
+1125,Random sequence generation,low,1
+1125,Allocation concealment,low,1
+1125,Blinding of participants and personnel,low,1
+1125,Blinding of outcome assessment,low,1
+1139,Random sequence generation,low,1
+1139,Allocation concealment,low,1
+1139,Blinding of participants and personnel,low,1
+1139,Blinding of outcome assessment,low,1
+1142,Random sequence generation,high/unclear,0
+1142,Allocation concealment,high/unclear,0
+1142,Blinding of participants and personnel,low,1
+1142,Blinding of outcome assessment,high/unclear,0
+1144,Random sequence generation,high/unclear,0
+1144,Allocation concealment,high/unclear,0
+1144,Blinding of participants and personnel,high/unclear,0
+1144,Blinding of outcome assessment,high/unclear,0
+1148,Random sequence generation,high/unclear,0
+1148,Allocation concealment,high/unclear,0
+1148,Blinding of participants and personnel,high/unclear,0
+1148,Blinding of outcome assessment,high/unclear,0
+1149,Random sequence generation,low,1
+1149,Allocation concealment,low,1
+1149,Blinding of participants and personnel,high/unclear,0
+1149,Blinding of outcome assessment,high/unclear,0
+1151,Random sequence generation,low,1
+1151,Allocation concealment,low,1
+1151,Blinding of participants and personnel,low,1
+1151,Blinding of outcome assessment,high/unclear,0
+1155,Random sequence generation,low,1
+1155,Allocation concealment,high/unclear,0
+1155,Blinding of participants and personnel,high/unclear,0
+1155,Blinding of outcome assessment,high/unclear,0
+1174,Random sequence generation,high/unclear,0
+1174,Allocation concealment,high/unclear,0
+1174,Blinding of participants and personnel,high/unclear,0
+1174,Blinding of outcome assessment,high/unclear,0
+1177,Random sequence generation,high/unclear,0
+1177,Allocation concealment,low,1
+1177,Blinding of participants and personnel,low,1
+1177,Blinding of outcome assessment,high/unclear,0
+1178,Random sequence generation,high/unclear,0
+1178,Allocation concealment,high/unclear,0
+1178,Blinding of participants and personnel,high/unclear,0
+1178,Blinding of outcome assessment,high/unclear,0
+1181,Random sequence generation,low,1
+1181,Allocation concealment,low,1
+1181,Blinding of participants and personnel,low,1
+1181,Blinding of outcome assessment,low,1
+1185,Random sequence generation,low,1
+1185,Allocation concealment,low,1
+1185,Blinding of participants and personnel,low,1
+1185,Blinding of outcome assessment,low,1
+1187,Random sequence generation,low,1
+1187,Allocation concealment,low,1
+1187,Blinding of participants and personnel,low,1
+1187,Blinding of outcome assessment,high/unclear,0
+1190,Random sequence generation,high/unclear,0
+1190,Allocation concealment,high/unclear,0
+1190,Blinding of participants and personnel,low,1
+1190,Blinding of outcome assessment,high/unclear,0
+1191,Random sequence generation,high/unclear,0
+1191,Allocation concealment,high/unclear,0
+1191,Blinding of participants and personnel,low,1
+1191,Blinding of outcome assessment,high/unclear,0
+1194,Random sequence generation,high/unclear,0
+1194,Allocation concealment,low,1
+1194,Blinding of participants and personnel,high/unclear,0
+1194,Blinding of outcome assessment,high/unclear,0
+1199,Random sequence generation,low,1
+1199,Allocation concealment,low,1
+1199,Blinding of participants and personnel,low,1
+1199,Blinding of outcome assessment,high/unclear,0
+1203,Random sequence generation,low,1
+1203,Allocation concealment,low,1
+1203,Blinding of participants and personnel,low,1
+1203,Blinding of outcome assessment,low,1
+1209,Random sequence generation,high/unclear,0
+1209,Allocation concealment,high/unclear,0
+1209,Blinding of participants and personnel,low,1
+1209,Blinding of outcome assessment,high/unclear,0
+1210,Random sequence generation,low,1
+1210,Allocation concealment,low,1
+1210,Blinding of participants and personnel,low,1
+1210,Blinding of outcome assessment,low,1
+1212,Random sequence generation,low,1
+1212,Allocation concealment,low,1
+1212,Blinding of participants and personnel,low,1
+1212,Blinding of outcome assessment,low,1
+1218,Random sequence generation,high/unclear,0
+1218,Allocation concealment,high/unclear,0
+1218,Blinding of participants and personnel,high/unclear,0
+1218,Blinding of outcome assessment,high/unclear,0
+1220,Random sequence generation,high/unclear,0
+1220,Allocation concealment,high/unclear,0
+1220,Blinding of participants and personnel,high/unclear,0
+1220,Blinding of outcome assessment,high/unclear,0
+1223,Random sequence generation,low,1
+1223,Allocation concealment,low,1
+1223,Blinding of participants and personnel,high/unclear,0
+1223,Blinding of outcome assessment,high/unclear,0
+1228,Random sequence generation,low,1
+1228,Allocation concealment,low,1
+1228,Blinding of participants and personnel,low,1
+1228,Blinding of outcome assessment,low,1
+1230,Random sequence generation,low,1
+1230,Allocation concealment,high/unclear,0
+1230,Blinding of participants and personnel,high/unclear,0
+1230,Blinding of outcome assessment,high/unclear,0
+1234,Random sequence generation,low,1
+1234,Allocation concealment,low,1
+1234,Blinding of participants and personnel,high/unclear,0
+1234,Blinding of outcome assessment,high/unclear,0
+1236,Random sequence generation,high/unclear,0
+1236,Allocation concealment,high/unclear,0
+1236,Blinding of participants and personnel,low,1
+1236,Blinding of outcome assessment,high/unclear,0
+1256,Random sequence generation,high/unclear,0
+1256,Allocation concealment,high/unclear,0
+1256,Blinding of participants and personnel,high/unclear,0
+1256,Blinding of outcome assessment,high/unclear,0
+1263,Random sequence generation,low,1
+1263,Allocation concealment,high/unclear,0
+1263,Blinding of participants and personnel,high/unclear,0
+1263,Blinding of outcome assessment,high/unclear,0
+1276,Random sequence generation,low,1
+1276,Allocation concealment,low,1
+1276,Blinding of participants and personnel,low,1
+1276,Blinding of outcome assessment,low,1
+1282,Random sequence generation,low,1
+1282,Allocation concealment,low,1
+1282,Blinding of participants and personnel,low,1
+1282,Blinding of outcome assessment,high/unclear,0
+1284,Random sequence generation,high/unclear,0
+1284,Allocation concealment,high/unclear,0
+1284,Blinding of participants and personnel,low,1
+1284,Blinding of outcome assessment,high/unclear,0
+1289,Random sequence generation,high/unclear,0
+1289,Allocation concealment,high/unclear,0
+1289,Blinding of participants and personnel,high/unclear,0
+1289,Blinding of outcome assessment,high/unclear,0
+1290,Random sequence generation,high/unclear,0
+1290,Allocation concealment,high/unclear,0
+1290,Blinding of participants and personnel,high/unclear,0
+1290,Blinding of outcome assessment,high/unclear,0
+1294,Random sequence generation,high/unclear,0
+1294,Allocation concealment,high/unclear,0
+1294,Blinding of participants and personnel,low,1
+1294,Blinding of outcome assessment,high/unclear,0
+1296,Random sequence generation,low,1
+1296,Allocation concealment,low,1
+1296,Blinding of participants and personnel,low,1
+1296,Blinding of outcome assessment,high/unclear,0
+1299,Random sequence generation,low,1
+1299,Allocation concealment,low,1
+1299,Blinding of participants and personnel,low,1
+1299,Blinding of outcome assessment,high/unclear,0
+1301,Random sequence generation,high/unclear,0
+1301,Allocation concealment,high/unclear,0
+1301,Blinding of participants and personnel,low,1
+1301,Blinding of outcome assessment,high/unclear,0
+1307,Random sequence generation,high/unclear,0
+1307,Allocation concealment,low,1
+1307,Blinding of participants and personnel,low,1
+1307,Blinding of outcome assessment,high/unclear,0
+1308,Random sequence generation,high/unclear,0
+1308,Allocation concealment,low,1
+1308,Blinding of participants and personnel,low,1
+1308,Blinding of outcome assessment,high/unclear,0
+1309,Random sequence generation,low,1
+1309,Allocation concealment,low,1
+1309,Blinding of participants and personnel,high/unclear,0
+1309,Blinding of outcome assessment,high/unclear,0
+1311,Random sequence generation,low,1
+1311,Allocation concealment,high/unclear,0
+1311,Blinding of participants and personnel,high/unclear,0
+1311,Blinding of outcome assessment,high/unclear,0
+1315,Random sequence generation,low,1
+1315,Allocation concealment,low,1
+1315,Blinding of participants and personnel,low,1
+1315,Blinding of outcome assessment,high/unclear,0
+1322,Random sequence generation,high/unclear,0
+1322,Allocation concealment,low,1
+1322,Blinding of participants and personnel,high/unclear,0
+1322,Blinding of outcome assessment,high/unclear,0
+1325,Random sequence generation,low,1
+1325,Allocation concealment,high/unclear,0
+1325,Blinding of participants and personnel,low,1
+1325,Blinding of outcome assessment,high/unclear,0
+1327,Random sequence generation,low,1
+1327,Allocation concealment,low,1
+1327,Blinding of participants and personnel,low,1
+1327,Blinding of outcome assessment,low,1
+1329,Random sequence generation,low,1
+1329,Allocation concealment,low,1
+1329,Blinding of participants and personnel,low,1
+1329,Blinding of outcome assessment,high/unclear,0
+1332,Random sequence generation,high/unclear,0
+1332,Allocation concealment,high/unclear,0
+1332,Blinding of participants and personnel,high/unclear,0
+1332,Blinding of outcome assessment,high/unclear,0
+1336,Random sequence generation,low,1
+1336,Allocation concealment,low,1
+1336,Blinding of participants and personnel,low,1
+1336,Blinding of outcome assessment,high/unclear,0
+1337,Random sequence generation,low,1
+1337,Allocation concealment,low,1
+1337,Blinding of participants and personnel,low,1
+1337,Blinding of outcome assessment,high/unclear,0
+1341,Random sequence generation,low,1
+1341,Allocation concealment,low,1
+1341,Blinding of participants and personnel,low,1
+1341,Blinding of outcome assessment,high/unclear,0
+1370,Random sequence generation,high/unclear,0
+1370,Allocation concealment,high/unclear,0
+1370,Blinding of participants and personnel,low,1
+1370,Blinding of outcome assessment,high/unclear,0
+1372,Random sequence generation,low,1
+1372,Allocation concealment,low,1
+1372,Blinding of participants and personnel,low,1
+1372,Blinding of outcome assessment,high/unclear,0
+1399,Random sequence generation,low,1
+1399,Allocation concealment,high/unclear,0
+1399,Blinding of participants and personnel,low,1
+1399,Blinding of outcome assessment,low,1
+1400,Random sequence generation,low,1
+1400,Allocation concealment,low,1
+1400,Blinding of participants and personnel,low,1
+1400,Blinding of outcome assessment,low,1
+1401,Random sequence generation,low,1
+1401,Allocation concealment,low,1
+1401,Blinding of participants and personnel,low,1
+1401,Blinding of outcome assessment,low,1
+1425,Random sequence generation,low,1
+1425,Allocation concealment,low,1
+1425,Blinding of participants and personnel,high/unclear,0
+1425,Blinding of outcome assessment,low,1
+1438,Random sequence generation,low,1
+1438,Allocation concealment,low,1
+1438,Blinding of participants and personnel,high/unclear,0
+1438,Blinding of outcome assessment,high/unclear,0
+1460,Random sequence generation,low,1
+1460,Allocation concealment,high/unclear,0
+1460,Blinding of participants and personnel,high/unclear,0
+1460,Blinding of outcome assessment,high/unclear,0
+1461,Random sequence generation,high/unclear,0
+1461,Allocation concealment,high/unclear,0
+1461,Blinding of participants and personnel,low,1
+1461,Blinding of outcome assessment,low,1
+1464,Random sequence generation,low,1
+1464,Allocation concealment,high/unclear,0
+1464,Blinding of participants and personnel,low,1
+1464,Blinding of outcome assessment,high/unclear,0
+1488,Random sequence generation,low,1
+1488,Allocation concealment,low,1
+1488,Blinding of participants and personnel,low,1
+1488,Blinding of outcome assessment,low,1
+1489,Random sequence generation,high/unclear,0
+1489,Allocation concealment,high/unclear,0
+1489,Blinding of participants and personnel,low,1
+1489,Blinding of outcome assessment,high/unclear,0
+1490,Random sequence generation,high/unclear,0
+1490,Allocation concealment,high/unclear,0
+1490,Blinding of participants and personnel,high/unclear,0
+1490,Blinding of outcome assessment,high/unclear,0
+1496,Random sequence generation,low,1
+1496,Allocation concealment,low,1
+1496,Blinding of participants and personnel,low,1
+1496,Blinding of outcome assessment,low,1
+1497,Random sequence generation,high/unclear,0
+1497,Allocation concealment,low,1
+1497,Blinding of participants and personnel,low,1
+1497,Blinding of outcome assessment,low,1
+1498,Random sequence generation,low,1
+1498,Allocation concealment,low,1
+1498,Blinding of participants and personnel,low,1
+1498,Blinding of outcome assessment,low,1
+1508,Random sequence generation,high/unclear,0
+1508,Allocation concealment,high/unclear,0
+1508,Blinding of participants and personnel,high/unclear,0
+1508,Blinding of outcome assessment,high/unclear,0
+1619,Random sequence generation,low,1
+1619,Allocation concealment,low,1
+1619,Blinding of participants and personnel,high/unclear,0
+1619,Blinding of outcome assessment,low,1
+1622,Random sequence generation,low,1
+1622,Allocation concealment,low,1
+1622,Blinding of participants and personnel,high/unclear,0
+1622,Blinding of outcome assessment,high/unclear,0
+1666,Random sequence generation,low,1
+1666,Allocation concealment,low,1
+1666,Blinding of participants and personnel,high/unclear,0
+1666,Blinding of outcome assessment,high/unclear,0
+1667,Random sequence generation,high/unclear,0
+1667,Allocation concealment,high/unclear,0
+1667,Blinding of participants and personnel,low,1
+1667,Blinding of outcome assessment,low,1
+1670,Random sequence generation,low,1
+1670,Allocation concealment,high/unclear,0
+1670,Blinding of participants and personnel,low,1
+1670,Blinding of outcome assessment,high/unclear,0
+1816,Random sequence generation,low,1
+1816,Allocation concealment,low,1
+1816,Blinding of participants and personnel,low,1
+1816,Blinding of outcome assessment,high/unclear,0
+1870,Random sequence generation,high/unclear,0
+1870,Allocation concealment,low,1
+1870,Blinding of participants and personnel,high/unclear,0
+1870,Blinding of outcome assessment,high/unclear,0
+1871,Random sequence generation,high/unclear,0
+1871,Allocation concealment,high/unclear,0
+1871,Blinding of participants and personnel,high/unclear,0
+1871,Blinding of outcome assessment,high/unclear,0
+1872,Random sequence generation,high/unclear,0
+1872,Allocation concealment,high/unclear,0
+1872,Blinding of participants and personnel,high/unclear,0
+1872,Blinding of outcome assessment,high/unclear,0
+1873,Random sequence generation,low,1
+1873,Allocation concealment,low,1
+1873,Blinding of participants and personnel,high/unclear,0
+1873,Blinding of outcome assessment,high/unclear,0
+1874,Random sequence generation,high/unclear,0
+1874,Allocation concealment,high/unclear,0
+1874,Blinding of participants and personnel,high/unclear,0
+1874,Blinding of outcome assessment,high/unclear,0
+1875,Random sequence generation,high/unclear,0
+1875,Allocation concealment,high/unclear,0
+1875,Blinding of participants and personnel,high/unclear,0
+1875,Blinding of outcome assessment,high/unclear,0
+1876,Random sequence generation,high/unclear,0
+1876,Allocation concealment,high/unclear,0
+1876,Blinding of participants and personnel,high/unclear,0
+1876,Blinding of outcome assessment,high/unclear,0
+1877,Random sequence generation,low,1
+1877,Allocation concealment,low,1
+1877,Blinding of participants and personnel,high/unclear,0
+1877,Blinding of outcome assessment,high/unclear,0
+1878,Random sequence generation,low,1
+1878,Allocation concealment,low,1
+1878,Blinding of participants and personnel,high/unclear,0
+1878,Blinding of outcome assessment,high/unclear,0
+1879,Random sequence generation,low,1
+1879,Allocation concealment,low,1
+1879,Blinding of participants and personnel,high/unclear,0
+1879,Blinding of outcome assessment,high/unclear,0
+1884,Random sequence generation,high/unclear,0
+1884,Allocation concealment,high/unclear,0
+1884,Blinding of participants and personnel,low,1
+1884,Blinding of outcome assessment,low,1
+1885,Random sequence generation,low,1
+1885,Allocation concealment,low,1
+1885,Blinding of participants and personnel,low,1
+1885,Blinding of outcome assessment,low,1
+1887,Random sequence generation,high/unclear,0
+1887,Allocation concealment,high/unclear,0
+1887,Blinding of participants and personnel,low,1
+1887,Blinding of outcome assessment,low,1
+1888,Random sequence generation,low,1
+1888,Allocation concealment,high/unclear,0
+1888,Blinding of participants and personnel,low,1
+1888,Blinding of outcome assessment,low,1
+1889,Random sequence generation,low,1
+1889,Allocation concealment,high/unclear,0
+1889,Blinding of participants and personnel,low,1
+1889,Blinding of outcome assessment,high/unclear,0
+1890,Random sequence generation,low,1
+1890,Allocation concealment,low,1
+1890,Blinding of participants and personnel,low,1
+1890,Blinding of outcome assessment,high/unclear,0
+1891,Random sequence generation,high/unclear,0
+1891,Allocation concealment,high/unclear,0
+1891,Blinding of participants and personnel,low,1
+1891,Blinding of outcome assessment,low,1
+1893,Random sequence generation,low,1
+1893,Allocation concealment,high/unclear,0
+1893,Blinding of participants and personnel,high/unclear,0
+1893,Blinding of outcome assessment,high/unclear,0
+1904,Random sequence generation,low,1
+1904,Allocation concealment,low,1
+1904,Blinding of participants and personnel,high/unclear,0
+1904,Blinding of outcome assessment,high/unclear,0
+1906,Random sequence generation,low,1
+1906,Allocation concealment,low,1
+1906,Blinding of participants and personnel,high/unclear,0
+1906,Blinding of outcome assessment,low,1
+1909,Random sequence generation,low,1
+1909,Allocation concealment,low,1
+1909,Blinding of participants and personnel,low,1
+1909,Blinding of outcome assessment,high/unclear,0
+1910,Random sequence generation,low,1
+1910,Allocation concealment,low,1
+1910,Blinding of participants and personnel,low,1
+1910,Blinding of outcome assessment,high/unclear,0
+1947,Random sequence generation,high/unclear,0
+1947,Allocation concealment,high/unclear,0
+1947,Blinding of participants and personnel,high/unclear,0
+1947,Blinding of outcome assessment,low,1
+1948,Random sequence generation,high/unclear,0
+1948,Allocation concealment,high/unclear,0
+1948,Blinding of participants and personnel,low,1
+1948,Blinding of outcome assessment,high/unclear,0
+1955,Random sequence generation,low,1
+1955,Allocation concealment,low,1
+1955,Blinding of participants and personnel,low,1
+1955,Blinding of outcome assessment,low,1
+1956,Random sequence generation,high/unclear,0
+1956,Allocation concealment,high/unclear,0
+1956,Blinding of participants and personnel,high/unclear,0
+1956,Blinding of outcome assessment,high/unclear,0
+1957,Random sequence generation,low,1
+1957,Allocation concealment,low,1
+1957,Blinding of participants and personnel,low,1
+1957,Blinding of outcome assessment,high/unclear,0
+1958,Random sequence generation,low,1
+1958,Allocation concealment,high/unclear,0
+1958,Blinding of participants and personnel,low,1
+1958,Blinding of outcome assessment,high/unclear,0
+1959,Random sequence generation,low,1
+1959,Allocation concealment,low,1
+1959,Blinding of participants and personnel,low,1
+1959,Blinding of outcome assessment,low,1
+1963,Random sequence generation,low,1
+1963,Allocation concealment,low,1
+1963,Blinding of participants and personnel,low,1
+1963,Blinding of outcome assessment,low,1
+1964,Random sequence generation,low,1
+1964,Allocation concealment,low,1
+1964,Blinding of participants and personnel,low,1
+1964,Blinding of outcome assessment,low,1
+1966,Random sequence generation,low,1
+1966,Allocation concealment,high/unclear,0
+1966,Blinding of participants and personnel,low,1
+1966,Blinding of outcome assessment,low,1
+1967,Random sequence generation,low,1
+1967,Allocation concealment,low,1
+1967,Blinding of participants and personnel,low,1
+1967,Blinding of outcome assessment,low,1
+1968,Random sequence generation,high/unclear,0
+1968,Allocation concealment,high/unclear,0
+1968,Blinding of participants and personnel,high/unclear,0
+1968,Blinding of outcome assessment,high/unclear,0
+1969,Random sequence generation,low,1
+1969,Allocation concealment,high/unclear,0
+1969,Blinding of participants and personnel,low,1
+1969,Blinding of outcome assessment,low,1
+1970,Random sequence generation,low,1
+1970,Allocation concealment,low,1
+1970,Blinding of participants and personnel,low,1
+1970,Blinding of outcome assessment,low,1
+1972,Random sequence generation,low,1
+1972,Allocation concealment,high/unclear,0
+1972,Blinding of participants and personnel,low,1
+1972,Blinding of outcome assessment,low,1
+1974,Random sequence generation,low,1
+1974,Allocation concealment,low,1
+1974,Blinding of participants and personnel,low,1
+1974,Blinding of outcome assessment,low,1
+1975,Random sequence generation,low,1
+1975,Allocation concealment,low,1
+1975,Blinding of participants and personnel,low,1
+1975,Blinding of outcome assessment,low,1
+1979,Random sequence generation,low,1
+1979,Allocation concealment,low,1
+1979,Blinding of participants and personnel,low,1
+1979,Blinding of outcome assessment,low,1
+1983,Random sequence generation,low,1
+1983,Allocation concealment,low,1
+1983,Blinding of participants and personnel,high/unclear,0
+1983,Blinding of outcome assessment,high/unclear,0
+1984,Random sequence generation,high/unclear,0
+1984,Allocation concealment,low,1
+1984,Blinding of participants and personnel,high/unclear,0
+1984,Blinding of outcome assessment,high/unclear,0
+2025,Random sequence generation,low,1
+2025,Allocation concealment,low,1
+2025,Blinding of participants and personnel,high/unclear,0
+2025,Blinding of outcome assessment,high/unclear,0
+2069,Random sequence generation,high/unclear,0
+2069,Allocation concealment,high/unclear,0
+2069,Blinding of participants and personnel,low,1
+2069,Blinding of outcome assessment,low,1
+2070,Random sequence generation,low,1
+2070,Allocation concealment,low,1
+2070,Blinding of participants and personnel,low,1
+2070,Blinding of outcome assessment,low,1
+2088,Random sequence generation,low,1
+2088,Allocation concealment,low,1
+2088,Blinding of participants and personnel,high/unclear,0
+2088,Blinding of outcome assessment,high/unclear,0
+2089,Random sequence generation,high/unclear,0
+2089,Allocation concealment,high/unclear,0
+2089,Blinding of participants and personnel,high/unclear,0
+2089,Blinding of outcome assessment,high/unclear,0
+2091,Random sequence generation,high/unclear,0
+2091,Allocation concealment,high/unclear,0
+2091,Blinding of participants and personnel,low,1
+2091,Blinding of outcome assessment,high/unclear,0
+2105,Random sequence generation,high/unclear,0
+2105,Allocation concealment,high/unclear,0
+2105,Blinding of participants and personnel,high/unclear,0
+2105,Blinding of outcome assessment,high/unclear,0
+2107,Random sequence generation,high/unclear,0
+2107,Allocation concealment,high/unclear,0
+2107,Blinding of participants and personnel,high/unclear,0
+2107,Blinding of outcome assessment,high/unclear,0
+2123,Random sequence generation,high/unclear,0
+2123,Allocation concealment,high/unclear,0
+2123,Blinding of participants and personnel,high/unclear,0
+2123,Blinding of outcome assessment,high/unclear,0
+2124,Random sequence generation,high/unclear,0
+2124,Allocation concealment,high/unclear,0
+2124,Blinding of participants and personnel,high/unclear,0
+2124,Blinding of outcome assessment,high/unclear,0
+2126,Random sequence generation,low,1
+2126,Allocation concealment,low,1
+2126,Blinding of participants and personnel,high/unclear,0
+2126,Blinding of outcome assessment,high/unclear,0
+2128,Random sequence generation,high/unclear,0
+2128,Allocation concealment,high/unclear,0
+2128,Blinding of participants and personnel,high/unclear,0
+2128,Blinding of outcome assessment,high/unclear,0
+2131,Random sequence generation,high/unclear,0
+2131,Allocation concealment,high/unclear,0
+2131,Blinding of participants and personnel,high/unclear,0
+2131,Blinding of outcome assessment,high/unclear,0
+2212,Random sequence generation,low,1
+2212,Allocation concealment,high/unclear,0
+2212,Blinding of participants and personnel,low,1
+2212,Blinding of outcome assessment,low,1
+2232,Random sequence generation,low,1
+2232,Allocation concealment,high/unclear,0
+2232,Blinding of participants and personnel,low,1
+2232,Blinding of outcome assessment,high/unclear,0
+2234,Random sequence generation,high/unclear,0
+2234,Allocation concealment,high/unclear,0
+2234,Blinding of participants and personnel,high/unclear,0
+2234,Blinding of outcome assessment,high/unclear,0
+2235,Random sequence generation,high/unclear,0
+2235,Allocation concealment,low,1
+2235,Blinding of participants and personnel,low,1
+2235,Blinding of outcome assessment,high/unclear,0
+2240,Random sequence generation,high/unclear,0
+2240,Allocation concealment,high/unclear,0
+2240,Blinding of participants and personnel,high/unclear,0
+2240,Blinding of outcome assessment,high/unclear,0
+2254,Random sequence generation,high/unclear,0
+2254,Allocation concealment,low,1
+2254,Blinding of participants and personnel,low,1
+2254,Blinding of outcome assessment,high/unclear,0
+2259,Random sequence generation,low,1
+2259,Allocation concealment,low,1
+2259,Blinding of participants and personnel,low,1
+2259,Blinding of outcome assessment,high/unclear,0
+2260,Random sequence generation,low,1
+2260,Allocation concealment,low,1
+2260,Blinding of participants and personnel,low,1
+2260,Blinding of outcome assessment,low,1
+2261,Random sequence generation,low,1
+2261,Allocation concealment,low,1
+2261,Blinding of participants and personnel,low,1
+2261,Blinding of outcome assessment,low,1
+2263,Random sequence generation,high/unclear,0
+2263,Allocation concealment,high/unclear,0
+2263,Blinding of participants and personnel,high/unclear,0
+2263,Blinding of outcome assessment,high/unclear,0
+2271,Random sequence generation,high/unclear,0
+2271,Allocation concealment,high/unclear,0
+2271,Blinding of participants and personnel,high/unclear,0
+2271,Blinding of outcome assessment,high/unclear,0
+2272,Random sequence generation,low,1
+2272,Allocation concealment,high/unclear,0
+2272,Blinding of participants and personnel,high/unclear,0
+2272,Blinding of outcome assessment,high/unclear,0
+2275,Random sequence generation,low,1
+2275,Allocation concealment,low,1
+2275,Blinding of participants and personnel,low,1
+2275,Blinding of outcome assessment,low,1
+2279,Random sequence generation,high/unclear,0
+2279,Allocation concealment,high/unclear,0
+2279,Blinding of participants and personnel,low,1
+2279,Blinding of outcome assessment,high/unclear,0
+2290,Random sequence generation,high/unclear,0
+2290,Allocation concealment,low,1
+2290,Blinding of participants and personnel,high/unclear,0
+2290,Blinding of outcome assessment,low,1
+2291,Random sequence generation,low,1
+2291,Allocation concealment,high/unclear,0
+2291,Blinding of participants and personnel,low,1
+2291,Blinding of outcome assessment,low,1
+2318,Random sequence generation,high/unclear,0
+2318,Allocation concealment,high/unclear,0
+2318,Blinding of participants and personnel,high/unclear,0
+2318,Blinding of outcome assessment,low,1
+2319,Random sequence generation,low,1
+2319,Allocation concealment,high/unclear,0
+2319,Blinding of participants and personnel,low,1
+2319,Blinding of outcome assessment,low,1
+2320,Random sequence generation,low,1
+2320,Allocation concealment,low,1
+2320,Blinding of participants and personnel,low,1
+2320,Blinding of outcome assessment,low,1
+2321,Random sequence generation,high/unclear,0
+2321,Allocation concealment,high/unclear,0
+2321,Blinding of participants and personnel,low,1
+2321,Blinding of outcome assessment,high/unclear,0
+2322,Random sequence generation,high/unclear,0
+2322,Allocation concealment,high/unclear,0
+2322,Blinding of participants and personnel,high/unclear,0
+2322,Blinding of outcome assessment,high/unclear,0
+2368,Random sequence generation,low,1
+2368,Allocation concealment,low,1
+2368,Blinding of participants and personnel,low,1
+2368,Blinding of outcome assessment,low,1
+2369,Random sequence generation,high/unclear,0
+2369,Allocation concealment,high/unclear,0
+2369,Blinding of participants and personnel,high/unclear,0
+2369,Blinding of outcome assessment,high/unclear,0
+2370,Random sequence generation,low,1
+2370,Allocation concealment,low,1
+2370,Blinding of participants and personnel,low,1
+2370,Blinding of outcome assessment,low,1
+2371,Random sequence generation,low,1
+2371,Allocation concealment,low,1
+2371,Blinding of participants and personnel,low,1
+2371,Blinding of outcome assessment,high/unclear,0
+2372,Random sequence generation,low,1
+2372,Allocation concealment,low,1
+2372,Blinding of participants and personnel,low,1
+2372,Blinding of outcome assessment,low,1
+2373,Random sequence generation,low,1
+2373,Allocation concealment,low,1
+2373,Blinding of participants and personnel,low,1
+2373,Blinding of outcome assessment,low,1
+2374,Random sequence generation,high/unclear,0
+2374,Allocation concealment,high/unclear,0
+2374,Blinding of participants and personnel,low,1
+2374,Blinding of outcome assessment,high/unclear,0
+2375,Random sequence generation,high/unclear,0
+2375,Allocation concealment,high/unclear,0
+2375,Blinding of participants and personnel,low,1
+2375,Blinding of outcome assessment,high/unclear,0
+2376,Random sequence generation,low,1
+2376,Allocation concealment,low,1
+2376,Blinding of participants and personnel,low,1
+2376,Blinding of outcome assessment,low,1
+2386,Random sequence generation,low,1
+2386,Allocation concealment,high/unclear,0
+2386,Blinding of participants and personnel,low,1
+2386,Blinding of outcome assessment,low,1
+2387,Random sequence generation,high/unclear,0
+2387,Allocation concealment,low,1
+2387,Blinding of participants and personnel,low,1
+2387,Blinding of outcome assessment,low,1
+2396,Random sequence generation,high/unclear,0
+2396,Allocation concealment,low,1
+2396,Blinding of participants and personnel,low,1
+2396,Blinding of outcome assessment,high/unclear,0
+2408,Random sequence generation,high/unclear,0
+2408,Allocation concealment,high/unclear,0
+2408,Blinding of participants and personnel,low,1
+2408,Blinding of outcome assessment,high/unclear,0

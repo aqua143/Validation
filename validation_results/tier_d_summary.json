@@ -9,10 +9,10 @@
   "status_counts": {
     "success": 1000
   },
-  "median_seconds": 1.6552925109863281,
+  "median_seconds": 1.5692838430404663,
   "iqr_seconds": [
-    1.323610246181488,
-    2.0628743767738342
+    1.2574715614318848,
+    1.948532223701477
   ],
   "median_chars": 51785.5,
   "median_sentences": 394.0,

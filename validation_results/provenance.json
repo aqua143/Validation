@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-09-02T23:43:13",
+  "timestamp": "2026-09-03T22:46:13",
   "python": "3.12.12",
   "platform": "macOS-15.7.3-arm64-arm-64bit",
   "numpy": "2.5.2",
-  "scipy": "1.17.1",
+  "scipy": "1.18.1",
   "sklearn": "1.9.0",
-  "spacy": "3.8.14",
+  "spacy": "3.8.16",
   "fitz": "1.28.2",
-  "pydantic": "2.13.4",
+  "pydantic": "2.13.5",
   "weights_sha256": {
     "bias/bias_doc_level.npz": "233e706a323aefec21ca17de531514cc401b5a45e0f690ecb03278fa6f2ea8d7",
     "bias/bias_sent_level.npz": "659f967020c115af8e22b6e98495276f609087dbceb2f70ceb42b7120b582d5b",

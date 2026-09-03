@@ -20,3 +20,6 @@ corpus/*.pdf
 # The two upstream repos have their own Git history; 
 RCT-Reviewer/
 robotreviewer-master/
+
+# Tier E: downloaded article PDFs (publisher licensing, same as corpus/)
+tian_corpus/*.pdf

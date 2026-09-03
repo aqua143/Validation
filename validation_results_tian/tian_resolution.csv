@@ -1,0 +1,1956 @@
+row_id,citation,journal,year,vol,fp,pmid,strategy,pmcid,pdf_status
+1,JAMA 2012 Apr 4;307(13):1383-93,JAMA,2012,307,1383,22474202,s1,3442260,download_error
+2,JAMA 2006 Apr 5;295(13):1531-8,JAMA,2006,295,1531,16533938,s1,,no_oa
+4,Arthritis Rheum 2002 Mar;46(3):614-24,Arthritis Rheum,2002,46,614,11920396,s1,,no_oa
+5,Arthritis Rheum 2003 Apr;48(4):927-34,Arthritis Rheum,2003,48,927,12687534,s1,,no_oa
+6,Arthritis Rheum 2010 Apr;62(4):929-39,Arthritis Rheum,2010,62,929,20131262,s1,,no_oa
+7,Arthritis Rheum 2012 Mar;64(3):876-84,Arthritis Rheum,2012,64,876,22223180,s1,,no_oa
+8,Arthritis Rheumatol 2014 Jul;66(7):1693-704,Arthritis Rheumatol,2014,66,1693,24623718,s1,,no_oa
+9,Cancer 2017 Jan 1;123(2):303-311,Cancer,2017,123,303,27583688,s1,,no_oa
+11,Gastric Cancer 2015; 18(4): 824–832,Gastric Cancer,2015,18,824,25185971,s1,4572054,cached
+12,J Neurooncol 2017 Jan;131(1):105-115,J Neurooncol,2017,131,105,27655223,s1,5258788,cached
+13,Adv Ther 2015 Apr;32(4):319-40,Adv Ther,2015,32,319,25855342,s1,4415995,cached
+14,Diabetes Ther 2013 Dec;4(2):331-45,Diabetes Ther,2013,4,331,23838841,s1,3889329,cached
+16,Diabetes Ther 2018 Feb;9(1):193-207,Diabetes Ther,2018,9,193,29282633,s1,5801240,cached
+17,"Diabetol Int 6, 8–18 (2015)",Diabetol Int,2015,6,8,,unresolved,,
+18,Rheumatol Ther 2017 Dec;4(2):475-488,Rheumatol Ther,2017,4,475,29138986,s1,5696298,cached
+19,Rheumatol Ther 2018 Dec;5(2):447-462,Rheumatol Ther,2018,5,447,30121827,s1,6251842,cached
+20,Am J Cardiol 1994 Dec 1;74(11):1166-70,Am J Cardiol,1994,74,1166,7977081,s1,,no_oa
+21,Clin Ther 2014 Jan 1;36(1):84-100e9,Clin Ther,2014,36,84,24378206,s1,,no_oa
+22,Diabetes Res Clin Pract 2014 Oct;106(1):50-6,Diabetes Res Clin Pract,2014,106,50,25149596,s1,,no_oa
+24,Eur J Cancer 2012 Mar;48(4):527-37,Eur J Cancer,2012,48,527,22285180,s1,,no_oa
+25,Eur J Cancer 2015 Aug;51(12):1511-28,Eur J Cancer,2015,51,1511,26074395,s1,,no_oa
+26,J Allergy Clin Immunol 2019 Apr;143(4):1395-1402,J Allergy Clin Immunol,2019,143,1395,30537475,s1,,no_oa
+30,Lung Cancer 2012 Jun;76(3):362-7,Lung Cancer,2012,76,362,22244743,s1,,no_oa
+32,Pulm Pharmacol Ther 2008;21(1):152-9,Pulm Pharmacol Ther,2008,21,152,17376722,s1,,no_oa
+33,Respir Med 2006 Dec;100(12):2151-9,Respir Med,2006,100,2151,16701989,s1,,no_oa
+34,Respiratory Medicine 2015;109(2):170-9,Respiratory Medicine,2015,109,170,25596138,s1,,no_oa
+36,Lancet 2001 Jun 16;357(9272):1915-24,Lancet,2001,357,1915,11425411,s1,,no_oa
+37,Lancet 2009 May 2;373(9674):1525-31,Lancet,2009,373,1525,19410716,s1,,no_oa
+38,Lancet 2011 May 28;377(9780):1846-54,Lancet,2011,377,1846,21621716,s1,4134127,no_open_pdf
+41,Lancet 2013 Nov 23;382(9906):1705-13,Lancet,2013,382,1705,24035250,s1,,no_oa
+42,Lancet 2014 Jan 4;383(9911):31-39,Lancet,2014,383,31,24094768,s1,,no_oa
+47,Lancet 2018 Dec 8;392(10163):2441-2451,Lancet,2018,392,2441,30360964,s1,,no_oa
+48,Lancet 1997 May 17;349(9063):1429-35,Lancet,1997,349,1429,9164316,s1,,
+49,Lancet Oncol 2011 Apr;12(4):369-76,Lancet Oncol,2011,12,369,21429799,s1,,no_oa
+51,Lancet Oncol 2013 May;14(6):490-9,Lancet Oncol,2013,14,490,23594786,s1,,no_oa
+52,Lancet Oncol 2013 Jun;14(7):627-37,Lancet Oncol,2013,14,627,23623280,s1,,no_oa
+53,Lancet Oncol 2013 Dec;14(13):1326-36,Lancet Oncol,2013,14,1326,24231627,s1,,no_oa
+54,Lancet Oncol 2014 Jul;15(8):852-61,Lancet Oncol,2014,15,852,24882434,s1,,no_oa
+55,Lancet Oncol 2015 Aug;16(8):967-78,Lancet Oncol,2015,16,967,26179201,s1,4648082,cached
+57,Lancet Oncol 2015 Dec;16(16):1691-9,Lancet Oncol,2015,16,1691,26549589,s1,,no_oa
+58,Lancet Oncol 2016 Jan;17(1):78-89,Lancet Oncol,2016,17,78,26590673,s1,,no_oa
+59,Lancet Oncol 2015 Jun;16(6):619-29,Lancet Oncol,2015,16,619,25981818,s1,,no_oa
+60,Lancet Oncol 2017 Apr;18(4):486-499,Lancet Oncol,2017,18,486,28259610,s1,,no_oa
+62,Br J Cancer 2016 Nov 8;115(10):1193-1200,Br J Cancer,2016,115,1193,27711083,s1,5104891,cached
+63,England Jourl of Medicine 1997;337(20):1405-11,England Jourl of Medicine,1997,337,1405,9358137,s5,,no_oa
+64,N Engl J Med 1998 May 21;338(21):1488-97,N Engl J Med,1998,338,1488,9599103,s1,,no_oa
+65,N Engl J Med 1998 May 21;338(21):1498-505,N Engl J Med,1998,338,1498,9599104,s1,,no_oa
+66,N Engl J Med 2000 May 4;342(18):1316-24,N Engl J Med,2000,342,1316,10793164,s1,,no_oa
+67,N Engl J Med 2002 Mar 28;346(13):957-66,N Engl J Med,2002,346,957,11919304,s1,,no_oa
+68,N Engl J Med 2007; 356:125-134,N Engl J Med,2007,356,125,17215530,s1,,no_oa
+70,N Engl J Med 2011 Nov 24;365(21):1980-9,N Engl J Med,2011,365,1980,22077909,s1,,no_oa
+71,N Engl J Med 2012 Dec 20;367(25):2385-95,N Engl J Med,2012,367,2385,23252525,s1,,no_oa
+72,N Engl J Med 2015; 372:621-630,N Engl J Med,2015,372,621,25671254,s1,,no_oa
+76,N Engl J Med 2016 Sep 1;375(9):850-60,N Engl J Med,2016,375,850,27579635,s1,,no_oa
+77,N Engl J Med 2016 Jul 7;375(1):23-34,N Engl J Med,2016,375,23,27406347,s1,5259561,no_open_pdf
+79,N Engl J Med 2016 Dec 1;375(22):2154-2164,N Engl J Med,2016,375,2154,27717299,s1,,no_oa
+80,Diabetes Technol Ther 2014 Mar;16(3):137-44,Diabetes Technol Ther,2014,16,137,24237386,s1,,no_oa
+81,Ann Oncol 2012 Apr;23(4):933-41,Ann Oncol,2012,23,933,21828378,s1,,no_oa
+83,Ann Oncol 2014 Jul;25(7):1346-1355,Ann Oncol,2014,25,1346,24718886,s1,,no_oa
+85,Ann Oncol 2015 Dec;26(12):2457-63,Ann Oncol,2015,26,2457,26386123,s1,,no_oa
+86,Ann Oncol 2018 Jan; 29(1): 154–161,Ann Oncol,2018,29,154,29045554,s1,5834075,cached
+89,J Thorac Oncol 2013 Dec;8(12):1510-8,J Thorac Oncol,2013,8,1510,24389433,s1,,no_oa
+91,Diabetes Obes Metab 2013 Jul;15(7):613-21,Diabetes Obes Metab,2013,15,613,23356556,s1,,no_oa
+94,Diabetes Obes Metab 2014 Feb;16(2):124-36,Diabetes Obes Metab,2014,16,124,23911013,s1,,no_oa
+96,Diabetes Obes Metab 2014 Nov;16(11):1102-10,Diabetes Obes Metab,2014,16,1102,24909293,s1,,no_oa
+99,Diabetes Obes Metab 2015 Jan;17(1):94-7,Diabetes Obes Metab,2015,17,94,25223369,s1,,no_oa
+100,Diabetes Obes Metab 2015 Jan;17(1):98-101,Diabetes Obes Metab,2015,17,98,25238025,s1,,no_oa
+104,Diabetes Obes Metab 2017 May;19(5):721-728,Diabetes Obes Metab,2017,19,721,28116776,s1,,no_oa
+105,Diabetes Obes Metab 2017 Oct;19(10):1397-1407,Diabetes Obes Metab,2017,19,1397,28371205,s1,5637911,cached
+106,Pediatr Allergy Immunol 2006 Sep;17(6):458-65,Pediatr Allergy Immunol,2006,17,458,16925692,s1,,no_oa
+107,Respirology 2006 May;11(3):276-86,Respirology,2006,11,276,16635085,s1,,no_oa
+109,Int J Clin Pract 2012 May;66(5):446-56,Int J Clin Pract,2012,66,446,22413962,s1,,no_oa
+111,J Diabetes Investig 2016 Jul;7(4):555-64,J Diabetes Investig,2016,7,555,27181422,s1,4931206,cached
+113,Ann Rheum Dis 2014 Feb;73(2):349-56,Ann Rheum Dis,2014,73,349,23361084,s1,,no_oa
+114,Ann Rheum Dis 2014 Sep;73(9):1607-15,Ann Rheum Dis,2014,73,1607,24641941,s1,4145439,cached
+115,Ann Rheum Dis 2015 Jun;74(6):1051-7,Ann Rheum Dis,2015,74,1051,24550171,s1,4431338,cached
+116,Ann Rheum Dis 2014 Sep;73(9):1616-25,Ann Rheum Dis,2014,73,1616,24699939,s1,4145446,cached
+117,Ann Rheum Dis 2017 Jan;76(1):79-87,Ann Rheum Dis,2017,76,79,27553214,s1,5264219,cached
+118,Ann Rheum Dis 2017 May;76(5):831-839,Ann Rheum Dis,2017,76,831,28087506,s1,5530337,cached
+119,Ann Rheum Dis 2017 Jul;76(7):1279-1284,Ann Rheum Dis,2017,76,1279,28389552,s1,5530348,cached
+120,Ann Rheum Dis 2017 Dec;76(12):2001-2008,Ann Rheum Dis,2017,76,2001,28855173,s1,5705845,cached
+121,Ann Rheum Dis 2018 Jun;77(6):890-897,Ann Rheum Dis,2018,77,890,29550766,s1,5965348,cached
+122,Ann Rheum Dis 2011 May;70(5):747-54,Ann Rheum Dis,2011,70,747,21173013,s1,3070271,cached
+123,Thorax<U+00A0>2002 Sep; 57(9): 791–798,Thorax,2002,57,791,12200524,s1,1746437,cached
+124,Clin Cancer Res 2015 Aug 15;21(16):3610-8,Clin Cancer Res,2015,21,3610,25910950,s1,4790106,no_open_pdf
+125,Clin Cancer Res 2017 Apr 15;23(8):1937-1944,Clin Cancer Res,2017,23,1937,27803064,s1,,no_oa
+126,Circulation 2000 Jul 11;102(2):149-56,Circulation,2000,102,149,10889124,s1,,no_oa
+127,Circulation 1997 Sep 2;96(5):1445-53,Circulation,1997,96,1445,9315530,s1,,no_oa
+128,Circulation 1998 Jun 23;97(24):2386-95,Circulation,1998,97,2386,9641689,s1,,no_oa
+129,Ther Adv Respir Dis Jan-Dec 2018;12:1753466618777924,Ther Adv Respir Dis,2018,12,1753466618777924,29857783,s1,5985608,cached
+130,Eur Respir J 2001 Aug;18(2):262-8,Eur Respir J,2001,18,262,11529282,s1,,no_oa
+131,Current Medical Research and Opinion 2013;29(10):1357-69,Current Medical Research and Opinion,2013,29,1357,23865726,s1,,no_oa
+132,Curr Med Res Opin 2014 Jul;30(7):1231-44,Curr Med Res Opin,2014,30,1231,24673496,s1,,no_oa
+133,Cardiovasc Diabetol 2014 Mar 28;13:65,Cardiovasc Diabetol,2014,13,65,24678906,s1,4021346,cached
+134,Cardiovasc Diabetol 2015 Jan 30;14:11,Cardiovasc Diabetol,2015,14,11,25633683,s1,4339254,cached
+135,J Clin Oncol 2007 Oct 20;25(30):4743-50,J Clin Oncol,2007,25,4743,17909199,s1,,no_oa
+143,J Clin Oncol 2011 Aug 10;29(23):3120-5,J Clin Oncol,2011,29,3120,21747084,s1,3157978,cached
+148,J Clin Oncol 2013 Jul 1;31(19):2477-84,J Clin Oncol,2013,31,2477,23690424,s1,,no_oa
+149,J Clin Oncol 2013 Jul 10;31(20):2586-92,J Clin Oncol,2013,31,2586,23733761,s1,5705191,cached
+150,J Clin Oncol 2013 Sep 10;31(26):3212-8,J Clin Oncol,2013,31,3212,23940216,s1,4021043,cached
+151,J Clin Oncol 2013 Oct 10;31(29):3639-46,J Clin Oncol,2013,31,3639,24002501,s1,4164813,cached
+152,J Clin Oncol 2014 Sep 20;32(27):2940-50,J Clin Oncol,2014,32,2940,25154822,s1,4162493,cached
+153,J Clin Oncol 2015 Feb 10;33(5):433-41,J Clin Oncol,2015,33,433,25559798,s1,5478045,cached
+154,J Clin Oncol 2015 Jan 10;33(2):141-8,J Clin Oncol,2015,33,141,25185099,s1,,no_oa
+155,J Clin Oncol 2015 Nov 20;33(33):3858-65,J Clin Oncol,2015,33,3858,26282658,s1,,no_oa
+156,J Clin Oncol 2016 Nov 1;34(31):3740-3748,J Clin Oncol,2016,34,3740,27458307,s1,,no_oa
+157,J Clin Oncol 2018 Aug 10;36(23):2386-2394,J Clin Oncol,2018,36,2386,29906251,s1,6085179,cached
+158,Onco Targets Ther 2013;6:125-34,Onco Targets Ther,2013,6,125,23467839,s1,3589083,cached
+159,Drugs 2006;66(17):2235-54,Drugs,2006,66,2235,17137405,s1,,no_oa
+160,Diabetes Care 2009 Apr; 32(4): 650–657,Diabetes Care,2009,32,650,19114612,s1,2660449,cached
+161,Diabetes Care 2010 Oct;33(10):2217-24,Diabetes Care,2010,33,2217,20566676,s1,2945163,cached
+165,Diabetes Care 2015 Mar;38(3):431-8,Diabetes Care,2015,38,431,25216510,s1,5131876,cached
+166,Diabetes Care 2015 Nov;38(11):2009-17,Diabetes Care,2015,38,2009,26246458,s1,,no_oa
+167,Diabetes Care 2016 Mar;39(3):353-62,Diabetes Care,2016,39,353,26786577,s1,,no_oa
+168,Diabetes Care 2017 Feb;40(2):201-209,Diabetes Care,2017,40,201,27913576,s1,,no_oa
+169,Allergy Asthma Proc Jan-Feb 2010;31(1):26-39,Allergy Asthma Proc,2010,31,26,20167143,s1,,no_oa
+170,Allergy Asthma Proc Jul-Aug 2010;31(4):280-9,Allergy Asthma Proc,2010,31,280,20687982,s1,,no_oa
+171,J Asthma 2012 Feb;49(1):70-7,J Asthma,2012,49,70,22133208,s1,,no_oa
+173,J Rheumatol 2014 Aug;41(8):1703-11,J Rheumatol,2014,41,1703,25028379,s1,,downloaded
+174,Korean J Intern Med 2019 Jul;34(4):917-931,Korean J Intern Med,2019,34,917,29334721,s1,6610180,cached
+175,Indian J Endocrinol Metab Mar-Apr 2017;21(2):286-292,Indian J Endocrinol Metab,2017,21,286,28459027,s1,5367232,cached
+177,Chest 2009;136(4):8S,Chest,2009,136,8S,19265071,s2,,no_oa
+178,Clin Exp Rheumatol Jul-Aug 2016;34(4):625-33,Clin Exp Rheumatol,2016,34,625,27087059,s1,,
+356,J Rheumatol 2016 Mar;43(3):504-11,J Rheumatol,2016,43,504,26834213,s1,,downloaded
+357,J Rheumatol 2014 Apr;41(4):648-57,J Rheumatol,2014,41,648,24584918,s1,,downloaded
+358,J Rheumatol 2009 Sep;36(9):1991-9,J Rheumatol,2009,36,1991,19648310,s1,,downloaded
+359,J Rheumatol 2009 Jun;36(6):1273-82,J Rheumatol,2009,36,1273,19286847,s1,,downloaded
+360,J Rheumatol 2009 Aug;36(8):1705-14,J Rheumatol,2009,36,1705,19487264,s1,,downloaded
+361,J Rheumatol 2007 May;34(5):1040-50,J Rheumatol,2007,34,1040,17444593,s1,,
+362,J Rheumatol 2005 Dec;32(12):2384-92,J Rheumatol,2005,32,2384,16331769,s1,,
+363,J Rheumatol 2004 Mar;31(3):565-72,J Rheumatol,2004,31,565,14994406,s1,,
+364,J Rheumatol 2003 Dec;30(12):2563-71,J Rheumatol,2003,30,2563,14719195,s1,,
+366,"J Res Pharm Pract, 2012, 1: 55-9",J Res Pharm Pract,2012,1,55,24991590,s1,4076863,cached
+367,"J Psychiatr Res, 2012, 46: 574-81",J Psychiatr Res,2012,46,574,22364892,s1,,no_oa
+368,"J Periodontol, 2017, 88: 1244-1252",J Periodontol,2017,88,1244,28671507,s1,,no_oa
+369,"J Perinatol, 2012, 32: 123-8",J Perinatol,2012,32,123,21566568,s1,,no_oa
+370,"J Perinatol, 2007, 27: 39-43",J Perinatol,2007,27,39,17036029,s1,,no_oa
+371,"J Pediatr, 2006, 148: 600-5",J Pediatr,2006,148,600,16737869,s1,,no_oa
+372,"J Pain, 2014, 15: 835-44",J Pain,2014,15,835,24846822,s1,,no_oa
+373,J Pain Symptom Manage 2015 Feb;49(2):161-72,J Pain Symptom Manage,2015,49,161,24975432,s1,,no_oa
+374,J Pain Res 2017 Apr 11;10:867-880,J Pain Res,2017,10,867,28442928,s1,5396977,cached
+375,J Pain Res 2013 Oct 25;6:743-53,J Pain Res,2013,6,743,24187510,s1,3810344,cached
+376,J Pain Palliat Care Pharmacother 2010 Dec;24(4):349-55,J Pain Palliat Care Pharmacother,2010,24,349,21133742,s1,,no_oa
+377,J Oral Maxillofac Surg 2012 Mar;70(3):537-46,J Oral Maxillofac Surg,2012,70,537,22177821,s1,,no_oa
+378,J Neurol Sci 2013 Jul 15;330(1-2):94-9,,,,,,unparsed_citation,,
+379,J Neurol Neurosurg Psychiatry 2011 Sep;82(9):970-7,J Neurol Neurosurg Psychiatry,2011,82,970,21784757,s1,,downloaded
+380,"J Negat Results Biomed, 2015, 14: 15",J Negat Results Biomed,2015,14,15,26346300,s1,4562194,cached
+381,J Natl Cancer Inst 2003 Sep 3;95(17):1320-9,J Natl Cancer Inst,2003,95,1320,12953086,s1,,no_oa
+382,J Natl Cancer Inst 1996 Nov 6;88(21):1529-42,J Natl Cancer Inst,1996,88,1529,8901851,s1,,no_oa
+384,J Minim Invasive Gynecol May-Jun 2010;17(3):325-30,J Minim Invasive Gynecol,2010,17,325,20417423,s1,,no_oa
+385,"J Med Econ, 2013, 16: 1061-70",J Med Econ,2013,16,1061,23730943,s1,,no_oa
+386,"J Med Assoc Thai, 2001, null: S669-75",,,,,,unparsed_citation,,
+388,"J Intern Med, 2015, 277: 137-50",J Intern Med,2015,277,137,25039675,s1,,no_oa
+389,J Int Med Res 2013 Jun;41(3):697-704,J Int Med Res,2013,41,697,23669294,s1,,no_oa
+390,"J Infect, 2010, 61: 410-8",J Infect,2010,61,410,20797407,s1,,no_oa
+391,"J Infect Dis, 2001, 183: 907-12",J Infect Dis,2001,183,907,11237807,s1,,no_oa
+392,"J Hypertens, 2003, 21: 1771; author reply 1771-2",,,,,,unparsed_citation,,
+393,J Hum Hypertens 2015 Apr;29(4):229-35,J Hum Hypertens,2015,29,229,25231512,s1,,no_oa
+394,J Hum Hypertens 2003 Jun;17(6):425-32,J Hum Hypertens,2003,17,425,12764406,s1,,no_oa
+395,J Hum Hypertens 2001 Jul;15(7):495-8,J Hum Hypertens,2001,15,495,11464260,s1,,no_oa
+396,J Hepatol 2016 May;64(5):1090-1098,J Hepatol,2016,64,1090,26809111,s1,,no_oa
+397,J Hepatol 2016 Dec;65(6):1112-1119,J Hepatol,2016,65,1112,27542322,s1,,no_oa
+398,J Hepatol 2012 May;56(5):1097-1103,J Hepatol,2012,56,1097,22245891,s1,,no_oa
+399,J Hematol Oncol 2012 Nov 29;5:71,J Hematol Oncol,2012,5,71,23190430,s1,3520696,cached
+400,"J Hand Surg Am, 2008, 33: 40-8",J Hand Surg Am,2008,33,40,18261664,s1,,no_oa
+401,"J Gen Intern Med, 1997, 12: 95-101",J Gen Intern Med,1997,12,95,9051558,s1,1497066,cached
+402,J Gastrointest Cancer 2012 Dec;43(4):562-9,J Gastrointest Cancer,2012,43,562,22294255,s1,3400721,no_open_pdf
+403,J Gastroenterol 2014 Feb;49(2):283-94,J Gastroenterol,2014,49,283,24363029,s1,3925299,cached
+404,J Formos Med Assoc 2009 Apr;108(4):310-9,J Formos Med Assoc,2009,108,310,19369178,s1,,no_oa
+405,J Fam Pract 2005 Feb;54(2):144-51,J Fam Pract,2005,54,144,15689289,s1,,
+408,J Exp Clin Cancer Res 2007 Mar;26(1):51-60,J Exp Clin Cancer Res,2007,26,51,17550132,s1,,
+409,J Eur Acad Dermatol Venereol 2015 Jun;29(6):1082-90,J Eur Acad Dermatol Venereol,2015,29,1082,25243910,s1,,no_oa
+410,"J Endod, 2011, 37: 1353-8",J Endod,2011,37,1353,21924181,s1,,no_oa
+411,"J Emerg Med, 2017, 53: 1-9",J Emerg Med,2017,53,1,28433211,s1,,no_oa
+415,J Diabetes 2017 Apr;9(4):412-422,J Diabetes,2017,9,412,27229178,s1,,no_oa
+416,J Diabetes 2016 Nov;8(6):796-808,J Diabetes,2016,8,796,26589253,s1,,no_oa
+417,J Diabetes Investig 2014 May 4; 5(3): 320–326,J Diabetes Investig,2014,5,320,24843781,s1,4020337,cached
+418,J Diabetes Investig 2014 Jul;5(4):382-91,J Diabetes Investig,2014,5,382,25411597,s1,4210070,cached
+419,J Diabetes Investig 2012 Dec 20;3(6):517-25,J Diabetes Investig,2012,3,517,24843617,s1,4015431,cached
+420,J Diabetes Investig 2011 Nov 30;2(6):441-7,J Diabetes Investig,2011,2,441,24843528,s1,4014903,cached
+421,"J Diabetes Investig, 2011, 2: 210-7",J Diabetes Investig,2011,2,210,24843486,s1,4014921,cached
+422,J Diabetes Complications Mar-Apr 2013;27(2):177-83,J Diabetes Complications,2013,27,177,23116881,s1,,no_oa
+423,"J Diabetes Complications, 2017, 31: 1283-1285",J Diabetes Complications,2017,31,1283,28587789,s1,,no_oa
+424,"J Diabetes Complications, 2015, 29: 1287-94",J Diabetes Complications,2015,29,1287,26264399,s1,4656068,no_open_pdf
+425,"J Dermatolog Treat, 2014, 25: 57-60",J Dermatolog Treat,2014,25,57,22834968,s1,,no_oa
+426,"J Dermatolog Treat, 2013, 24: 70-4",J Dermatolog Treat,2013,24,70,21923567,s1,,no_oa
+427,"J Dermatol, 2012, 39: 242-52",J Dermatol,2012,39,242,21955098,s1,,no_oa
+428,J Dermatol Sci 2016 Jan;81(1):44-52,J Dermatol Sci,2016,81,44,26547109,s1,,no_oa
+429,"J Dermatol Sci, 2011, 63: 154-63",J Dermatol Sci,2011,63,154,21741220,s1,,no_oa
+430,"J Dent, 2018, 72: 76-79",J Dent,2018,72,76,29571953,s1,,no_oa
+431,"J Dent Res, 2008, 87: 635-9",J Dent Res,2008,87,635,18573982,s1,,no_oa
+432,J Crohns Colitis 2017 Jul 1;11(7):811-819,J Crohns Colitis,2017,11,811,28333187,s1,,no_oa
+433,J Crohns Colitis 2017 Jul 1;11(7):785-791,J Crohns Colitis,2017,11,785,28333362,s1,5881669,cached
+434,J Crohns Colitis 2016 Nov;10(11):1294-1302,J Crohns Colitis,2016,10,1294,27208386,s1,5091328,cached
+435,J Crohns Colitis 2016 Jun;10(6):631-40,J Crohns Colitis,2016,10,631,26822613,s1,,no_oa
+436,J Crohns Colitis 2016 Jul;10(7):828-36,J Crohns Colitis,2016,10,828,26577683,s1,4955911,cached
+437,J Crohns Colitis 2016 Apr;10(4):418-28,J Crohns Colitis,2016,10,418,26721935,s1,4946756,cached
+438,J Crohns Colitis 2013 Apr;7(3):239-47,J Crohns Colitis,2013,7,239,22766525,s1,,no_oa
+439,J Crohns Colitis 2012 Mar;6(2):160-73,J Crohns Colitis,2012,6,160,22325170,s1,,no_oa
+440,J Clin Transl Endocrinol 2014 May 5;1(2):54-60,J Clin Transl Endocrinol,2014,1,54,29159083,s1,5685027,cached
+441,J Clin Rheumatol 2011 Jun;17(4 Suppl 2):S44-9,,,,,,unparsed_citation,,
+442,J Clin Rheumatol 2011 Jun;17(4 Suppl 2):S35-43,,,,,,unparsed_citation,,
+443,J Clin Rheumatol 2011 Jun;17(4 Suppl 2):S19-26,,,,,,unparsed_citation,,
+444,J Clin Rheumatol 2011 Jun;17(4 Suppl 2):S13-8,,,,,,unparsed_citation,,
+445,J Clin Rheumatol 2007 Oct;13(5):251-5,J Clin Rheumatol,2007,13,251,17921791,s1,,no_oa
+446,J Clin Psychopharmacol 2015;35(4):367–73,J Clin Psychopharmacol,2015,35,367,26075487,s1,,no_oa
+447,J Clin Psychopharmacol 2014 Aug;34(4):426-34,J Clin Psychopharmacol,2014,34,426,24781441,s1,,no_oa
+448,J Clin Psychopharmacol 2013 Apr;33(2):243-7,J Clin Psychopharmacol,2013,33,243,23422399,s1,,no_oa
+449,J Clin Psychiatry 2016;77(3):371–8,J Clin Psychiatry,2016,77,371,27046309,s1,,no_oa
+450,J Clin Psychiatry 2015;76(3):284–92,J Clin Psychiatry,2015,76,284,25562205,s1,,no_oa
+451,J Clin Psychiatry 2015;76(12):e1574–82,,,,,,unparsed_citation,,
+452,J Clin Psychiatry 2014 Jul;75(7):765-72,J Clin Psychiatry,2014,75,765,25006684,s1,,no_oa
+453,J Clin Psychiatry 2012 May;73(5):654-60,J Clin Psychiatry,2012,73,654,22697191,s1,,no_oa
+454,J Clin Psychiatry 2007 Aug;68(8):1218-25,J Clin Psychiatry,2007,68,1218,17854246,s1,,no_oa
+455,"J Clin Psychiatry, 2004, 65: 1708-14",J Clin Psychiatry,2004,65,1708,15641877,s1,,no_oa
+457,J Clin Pharmacol 2006 Nov;46(11):1234-40,J Clin Pharmacol,2006,46,1234,17050788,s1,,no_oa
+458,J Clin Pharmacol 1995 Nov;35(11):1060-6,J Clin Pharmacol,1995,35,1060,8626878,s1,,no_oa
+459,"J Clin Pharmacol, 2002, 42: 395-402",J Clin Pharmacol,2002,42,395,11936564,s1,,
+460,"J Clin Pharm Ther, 2012, 37: 652-6",J Clin Pharm Ther,2012,37,652,22725946,s1,,no_oa
+461,"J Clin Periodontol, 2011, 38: 838-46",J Clin Periodontol,2011,38,838,21770996,s1,,no_oa
+463,J Clin Oncol 2017 Sep 1;35(25):2875-2884,J Clin Oncol,2017,35,2875,28580882,s1,,no_oa
+464,J Clin Oncol 2017 Jan 20;35(3):343-351,J Clin Oncol,2017,35,343,27918718,s1,,no_oa
+465,J Clin Oncol 2017 Feb;35(4):412-420,J Clin Oncol,2017,35,412,27937096,s1,,no_oa
+466,J Clin Oncol 2017 Feb 20;35(6):591-597,J Clin Oncol,2017,35,591,28199818,s1,5455807,no_open_pdf
+467,J Clin Oncol 2016 Sep 1;34(25):3005-13,J Clin Oncol,2016,34,3005,27400947,s1,,no_oa
+468,J Clin Oncol 2016 Feb 10;34(5):427-35,J Clin Oncol,2016,34,427,26644536,s1,,no_oa
+469,J Clin Oncol 2016 Apr 1;34(10):1034-42,J Clin Oncol,2016,34,1034,26598744,s1,4872016,cached
+470,J Clin Oncol 2015 Aug 20;33(24):2667-74,J Clin Oncol,2015,33,2667,26169611,s1,,no_oa
+471,J Clin Oncol 2014 Oct 20;32(30):3374-82,J Clin Oncol,2014,32,3374,25225436,s1,,no_oa
+472,J Clin Oncol 2014 May 1;32(13):1302-8,J Clin Oncol,2014,32,1302,24637997,s1,,no_oa
+473,J Clin Oncol 2014 Mar 10;32(8):760-7,J Clin Oncol,2014,32,760,24297950,s1,5569683,cached
+474,J Clin Oncol 2014 Mar 10;32(8):752-9,J Clin Oncol,2014,32,752,24297945,s1,,no_oa
+475,J Clin Oncol 2014 Jul 20;32(21):2240-7,J Clin Oncol,2014,32,2240,24687833,s1,,no_oa
+476,J Clin Oncol 2013 Nov 10;31(32):4105-14,J Clin Oncol,2013,31,4105,24101053,s1,4878106,cached
+477,J Clin Oncol 2013 Nov 1;31(31):3935-43,J Clin Oncol,2013,31,3935,24043745,s1,5950503,cached
+478,J Clin Oncol 2013 May 10;31(14):1719-25,J Clin Oncol,2013,31,1719,23569311,s1,,no_oa
+479,J Clin Oncol 2013 May 1;31(13):1640-8,J Clin Oncol,2013,31,1640,23547081,s1,,no_oa
+480,J Clin Oncol 2013 Jul 1;31(19):2485-92,J Clin Oncol,2013,31,2485,23715582,s1,,no_oa
+481,J Clin Oncol 2013 Jan 20;31(3):373-9,J Clin Oncol,2013,31,373,23248256,s1,4878104,cached
+482,J Clin Oncol 2013 Jan 20;31(3):359-64,J Clin Oncol,2013,31,359,23233715,s1,3732014,cached
+483,J Clin Oncol 2013 Jan 10;31(2):195-202,J Clin Oncol,2013,31,195,23233719,s1,3532391,cached
+484,J Clin Oncol 2013 Feb 10;31(5):616-22,J Clin Oncol,2013,31,616,23295794,s1,4878048,cached
+485,J Clin Oncol 2013 Aug 20;31(24):3004-11,J Clin Oncol,2013,31,3004,23835708,s1,,no_oa
+486,J Clin Oncol 2013 Aug 10;31(23):2870-8,J Clin Oncol,2013,31,2870,23857972,s1,,no_oa
+487,J Clin Oncol 2013 Apr 1;31(10):1341-7,J Clin Oncol,2013,31,1341,23358972,s1,,no_oa
+488,J Clin Oncol 2012 Sep 1;30(25):3084-92,J Clin Oncol,2012,30,3084,22851564,s1,,no_oa
+489,J Clin Oncol 2012 Oct 10;30(29):3596-603,J Clin Oncol,2012,30,3596,22965965,s1,,no_oa
+490,J Clin Oncol 2012 May 10;30(14):1620-7,J Clin Oncol,2012,30,1620,22473163,s1,,no_oa
+491,J Clin Oncol 2012 May 1;30(13):1534-40,J Clin Oncol,2012,30,1534,22454414,s1,3383121,cached
+492,J Clin Oncol 2012 May 1;30(13):1484-91,J Clin Oncol,2012,30,1484,22412143,s1,,no_oa
+493,J Clin Oncol 2012 Jun 10;30(17):2070-8,J Clin Oncol,2012,30,2070,22564989,s1,,no_oa
+494,J Clin Oncol 2012 Jun 1;30(16):1989-95,J Clin Oncol,2012,30,1989,22493419,s1,,no_oa
+495,J Clin Oncol 2012 Jul 20;30(21):2585-92,J Clin Oncol,2012,30,2585,22689807,s1,,no_oa
+496,J Clin Oncol 2012 Jan 10;30(2):134-41,J Clin Oncol,2012,30,134,22025146,s1,3675689,cached
+497,J Clin Oncol 2012 Aug 10;30(23):2829-36,J Clin Oncol,2012,30,2829,22753922,s1,,no_oa
+499,J Clin Oncol 2012 Apr 1;30(10):1122-8,J Clin Oncol,2012,30,1122,22370314,s1,,no_oa
+500,J Clin Oncol 2012 Apr 1;30(10):1114-21,J Clin Oncol,2012,30,1114,22370318,s1,,no_oa
+501,J Clin Oncol 2011 Oct 20;29(30):3968-76,J Clin Oncol,2011,29,3968,21844504,s1,,no_oa
+502,J Clin Oncol 2011 May 20;29(15):2011-9,J Clin Oncol,2011,29,2011,21502544,s1,,no_oa
+503,J Clin Oncol 2011 May 1;29(13):1657-63,J Clin Oncol,2011,29,1657,21422412,s1,,no_oa
+504,J Clin Oncol 2011 Mar 20;29(9):1125-32,J Clin Oncol,2011,29,1125,21343556,s1,,no_oa
+505,J Clin Oncol 2011 Mar 10;29(8):1067-74,J Clin Oncol,2011,29,1067,21282537,s1,,no_oa
+506,J Clin Oncol 2011 Mar 10;29(8):1059-66,J Clin Oncol,2011,29,1059,21282542,s1,,no_oa
+507,J Clin Oncol 2011 Jun 20;29(18):2582-9,J Clin Oncol,2011,29,2582,21576636,s1,,no_oa
+508,J Clin Oncol 2011 Jun 20;29(18):2459-65,J Clin Oncol,2011,29,2459,21555686,s1,,no_oa
+510,J Clin Oncol 2010 Nov 1;28(31):4706-13,J Clin Oncol,2010,28,4706,20921462,s1,,no_oa
+511,J Clin Oncol 2010 Nov 1;28(31):4697-705,J Clin Oncol,2010,28,4697,20921465,s1,,no_oa
+512,J Clin Oncol 2010 May 1;28(13):2137-43,J Clin Oncol,2010,28,2137,20368558,s1,2860433,cached
+513,J Clin Oncol 2010 Mar 20;28(9):1547-53,J Clin Oncol,2010,28,1547,20159816,s1,,no_oa
+514,J Clin Oncol 2010 Jul 10;28(20):3239-47,J Clin Oncol,2010,28,3239,20498403,s1,,no_oa
+515,J Clin Oncol 2010 Jul 1;28(19):3191-8,J Clin Oncol,2010,28,3191,20516443,s1,,no_oa
+516,J Clin Oncol 2010 Feb 10;28(5):753-60,J Clin Oncol,2010,28,753,20038730,s1,,no_oa
+517,J Clin Oncol 2010 Dec 20;28(36):5240-6,J Clin Oncol,2010,28,5240,21079147,s1,,no_oa
+518,J Clin Oncol 2010 Apr 20;28(12):2024-31,J Clin Oncol,2010,28,2024,20308670,s1,,no_oa
+519,J Clin Oncol 2009 Sep 20;27(27):4487-91,J Clin Oncol,2009,27,4487,19704058,s1,2754901,cached
+520,J Clin Oncol 2009 Sep 10;27(26):4378-84,J Clin Oncol,2009,27,4378,19652068,s1,,no_oa
+521,J Clin Oncol 2009 Nov 20;27(33):5529-37,J Clin Oncol,2009,27,5529,19786670,s1,,no_oa
+522,J Clin Oncol 2009 May 20;27(15):2523-9,J Clin Oncol,2009,27,2523,19332730,s1,,no_oa
+523,J Clin Oncol 2009 Jun 10;27(17):2823-30,J Clin Oncol,2009,27,2823,19349552,s1,,no_oa
+524,J Clin Oncol 2009 Jun 1;27(16):2630-7,J Clin Oncol,2009,27,2630,19380449,s1,,no_oa
+525,J Clin Oncol 2009 Jul 10;27(20):3385-90,J Clin Oncol,2009,27,3385,19414665,s1,2717026,cached
+526,J Clin Oncol 2009 Jul 10;27(20):3312-8,J Clin Oncol,2009,27,3312,19451442,s1,,no_oa
+527,J Clin Oncol 2009 Feb 10;27(5):672-80,J Clin Oncol,2009,27,672,19114685,s1,,no_oa
+528,J Clin Oncol 2009 Aug 10;27(23):3822-9,J Clin Oncol,2009,27,3822,19581539,s1,,no_oa
+529,J Clin Oncol 2009 Apr 20;27(12):1999-2006,J Clin Oncol,2009,27,1999,19289619,s1,,no_oa
+530,J Clin Oncol 2008 Sep 10;26(26):4244-52,J Clin Oncol,2008,26,4244,18779611,s1,,no_oa
+531,J Clin Oncol 2008 Oct 20;26(30):4883-90,J Clin Oncol,2008,26,4883,18794551,s1,2652082,cached
+532,J Clin Oncol 2008 Nov 20;26(33):5407-15,J Clin Oncol,2008,26,5407,18936474,s1,,no_oa
+533,J Clin Oncol 2008 May 10;26(14):2285-91,J Clin Oncol,2008,26,2285,18467719,s1,,no_oa
+534,J Clin Oncol 2008 May 1;26(13):2178-85,J Clin Oncol,2008,26,2178,18445842,s1,,no_oa
+535,J Clin Oncol 2008 Mar 20;26(9):1435-42,J Clin Oncol,2008,26,1435,18349393,s1,,no_oa
+536,J Clin Oncol 2008 Apr 20;26(12):2013-9,J Clin Oncol,2008,26,2013,18421054,s1,,no_oa
+537,J Clin Oncol 2008 Apr 1;26(10):1642-9,J Clin Oncol,2008,26,1642,18375893,s1,,no_oa
+538,J Clin Oncol 2007 Sep 20;25(27):4278-84,J Clin Oncol,2007,25,4278,17878480,s1,,no_oa
+539,J Clin Oncol 2007 Jul 1;25(19):2664-70,J Clin Oncol,2007,25,2664,17563395,s1,,no_oa
+540,J Clin Oncol 2007 Dec 20;25(36):5777-84,J Clin Oncol,2007,25,5777,18089875,s1,,no_oa
+541,J Clin Oncol 2007 Apr 20;25(12):1539-44,J Clin Oncol,2007,25,1539,17442997,s1,,no_oa
+542,J Clin Oncol 2005 May 20;23(15):3502-8,J Clin Oncol,2005,23,3502,15908660,s1,,no_oa
+543,J Clin Oncol 2005 Jun 1;23(16):3676-85,J Clin Oncol,2005,23,3676,15738535,s1,,no_oa
+544,J Clin Oncol 2005 Jul 1;23(19):4265-74,J Clin Oncol,2005,23,4265,15911866,s1,,no_oa
+545,J Clin Oncol 2005 Jan 20;23(3):494-501,J Clin Oncol,2005,23,494,15659494,s1,,no_oa
+546,J Clin Oncol 2005 Feb 1;23(4):792-9,J Clin Oncol,2005,23,792,15681523,s1,,no_oa
+547,J Clin Oncol 2005 Aug 1;23(22):5138-47,J Clin Oncol,2005,23,5138,16009955,s1,,no_oa
+548,J Clin Oncol 2004 Jun 15;22(12):2348-56,J Clin Oncol,2004,22,2348,15197195,s1,,no_oa
+549,J Clin Oncol 2004 Jul 1;22(13):2602-9,J Clin Oncol,2004,22,2602,15226327,s1,,no_oa
+550,J Clin Oncol 2003 Jun 15;21(12):2276-81,J Clin Oncol,2003,21,2276,12805326,s1,,no_oa
+551,J Clin Oncol 2003 Jan 1;21(1):60-5,J Clin Oncol,2003,21,60,12506171,s1,,no_oa
+552,J Clin Oncol 2003 Aug 15;21(16):3025-34,J Clin Oncol,2003,21,3025,12837810,s1,,no_oa
+553,J Clin Oncol 2002 Oct 15;20(20):4150-9,J Clin Oncol,2002,20,4150,12377958,s1,,no_oa
+554,J Clin Oncol 2002 Nov 1;20(21):4285-91,J Clin Oncol,2002,20,4285,12409326,s1,,no_oa
+555,J Clin Oncol 1999 Sep;17(9):2745-51,J Clin Oncol,1999,17,2745,10561349,s1,,no_oa
+556,J Clin Oncol 1997 May;15(5):2097-102,J Clin Oncol,1997,15,2097,9164223,s1,,no_oa
+557,J Clin Oncol 1997 Jan;15(1):261-7,J Clin Oncol,1997,15,261,8996151,s1,,no_oa
+558,J Clin Oncol 1996 Jan;14(1):127-34,J Clin Oncol,1996,14,127,8558187,s1,,no_oa
+559,J Clin Oncol 1993 Oct;11(10):1858-65,J Clin Oncol,1993,11,1858,8410110,s1,,no_oa
+560,J Clin Oncol 1993 Jan;11(1):29-35,J Clin Oncol,1993,11,29,8418238,s1,,no_oa
+561,"J Clin Oncol, 2019, 37: 2974-2986",J Clin Oncol,2019,37,2974,31329516,s1,6839905,cached
+562,"J Clin Oncol, 2017, 35: 48-55",J Clin Oncol,2017,35,48,28034079,s1,,downloaded
+563,J Clin Oncol 2017 35: 40-47,,,,,,unparsed_citation,,
+564,"J Clin Oncol, 2017, 35: 3449-3457",J Clin Oncol,2017,35,3449,28854067,s1,,downloaded
+566,"J Clin Oncol, 2016, 34: 2098-106",J Clin Oncol,2016,34,2098,26811535,s1,,no_oa
+567,"J Clin Oncol, 2015, 33: 723-31",J Clin Oncol,2015,33,723,25624429,s1,4879718,cached
+568,"J Clin Oncol, 2015, 33: 4202-9",J Clin Oncol,2015,33,4202,26527790,s1,,no_oa
+569,"J Clin Oncol, 2015, 33: 4007-14",J Clin Oncol,2015,33,4007,26324372,s1,,no_oa
+570,"J Clin Oncol, 2014, 32: 2463-70",J Clin Oncol,2014,32,2463,25002722,s1,4121504,cached
+571,"J Clin Oncol, 2013, 31: 3320-6",J Clin Oncol,2013,31,3320,23980091,s1,3770864,cached
+573,"J Clin Oncol, 2012, 30: 3640-7",J Clin Oncol,2012,30,3640,22965962,s1,,no_oa
+574,"J Clin Oncol, 2012, 30: 362-71",J Clin Oncol,2012,30,362,22184370,s1,,no_oa
+575,"J Clin Oncol, 2012, 30: 3499-506",J Clin Oncol,2012,30,3499,22949147,s1,,no_oa
+576,"J Clin Oncol, 2012, 30: 34-41",J Clin Oncol,2012,30,34,22124101,s1,4669379,cached
+577,"J Clin Oncol, 2012, 30: 2509-15",J Clin Oncol,2012,30,2509,22665541,s1,3397785,cached
+578,J Clin Oncol 2012 30: 2046-54,,,,,,unparsed_citation,,
+579,J Clin Oncol 2012 30: 2039-45,,,,,,unparsed_citation,,
+580,"J Clin Oncol, 2011, 29: 884-9",J Clin Oncol,2011,29,884,21189384,s1,3646323,cached
+581,"J Clin Oncol, 2011, 29: 4286-93",J Clin Oncol,2011,29,4286,21990397,s1,,no_oa
+582,"J Clin Oncol, 2011, 29: 3307-15",J Clin Oncol,2011,29,3307,21768463,s1,,no_oa
+583,"J Clin Oncol, 2011, 29: 2215-22",J Clin Oncol,2011,29,2215,21502556,s1,,no_oa
+584,"J Clin Oncol, 2011, 29: 2004-10",J Clin Oncol,2011,29,2004,21464401,s1,,no_oa
+585,"J Clin Oncol, 2011, 29: 1997-2003",J Clin Oncol,2011,29,1997,21464406,s1,,no_oa
+586,J Clin Oncol 2011 29: 1252-60,,,,,,unparsed_citation,,
+587,"J Clin Oncol, 2010, 28: 3617-22",J Clin Oncol,2010,28,3617,20606091,s1,2917317,cached
+588,"J Clin Oncol, 2009, 27: 2253-60",J Clin Oncol,2009,27,2253,19289623,s1,4886538,downloaded
+589,"J Clin Oncol, 2009, 27: 2231-7",J Clin Oncol,2009,27,2231,19307500,s1,,no_oa
+590,"J Clin Oncol, 2005, 23: 3697-705",J Clin Oncol,2005,23,3697,15738537,s1,,no_oa
+591,J Clin Oncol 2010 Sep 1;28(25):3945-50,J Clin Oncol,2010,28,3945,20679619,s1,,no_oa
+592,J Clin Lipidol Nov-Dec 2015;9(6):758-769,J Clin Lipidol,2015,9,758,26687696,s1,,no_oa
+593,J Clin Lipidol Jul-Aug 2010;4(4):272-8,J Clin Lipidol,2010,4,272,21122660,s1,,no_oa
+594,J Clin Hypertens (Greenwich) 2006 Aug;8(8):571-81; quiz 582-3,,,,,,unparsed_citation,,
+595,J Clin Gastroenterol 2016 Apr;50(4):318-25,J Clin Gastroenterol,2016,50,318,26368296,s1,,no_oa
+596,J Clin Gastroenterol 2015 Aug;49(7):582-8,J Clin Gastroenterol,2015,49,582,25844841,s1,,no_oa
+598,J Clin Endocrinol Metab 2016 Jun;101(6):2528-35,J Clin Endocrinol Metab,2016,101,2528,27144930,s1,,no_oa
+599,J Clin Endocrinol Metab 2015 Aug;100(8):3140-8,J Clin Endocrinol Metab,2015,100,3140,26030325,s1,4524987,cached
+600,J Clin Endocrinol Metab 2012 May;97(5):1615-22,J Clin Endocrinol Metab,2012,97,1615,22419732,s1,,no_oa
+601,J Clin Endocrinol Metab 2012 Jan;97(1):286-92,J Clin Endocrinol Metab,2012,97,286,22072741,s1,,no_oa
+602,J Clin Endocrinol Metab 2009 Feb;94(2):538-44,J Clin Endocrinol Metab,2009,94,538,19050050,s1,,no_oa
+603,J Clin Endocrinol Metab 2002 Jun;87(6):2792-7,J Clin Endocrinol Metab,2002,87,2792,12050252,s1,,no_oa
+604,J Clin Endocrinol Metab 2002 Apr;87(4):1502-8,J Clin Endocrinol Metab,2002,87,1502,11932272,s1,,no_oa
+605,J Clin Endocrinol Metab 2001 Nov;86(11):5491-7,J Clin Endocrinol Metab,2001,86,5491,11701727,s1,,no_oa
+606,J Clin Endocrinol Metab 2000 May;85(5):1783-8,J Clin Endocrinol Metab,2000,85,1783,10843152,s1,,no_oa
+607,J Clin Endocrinol Metab 1999 Sep;84(9):3076-81,J Clin Endocrinol Metab,1999,84,3076,10487668,s1,,no_oa
+608,J Clin Endocrinol Metab 1998 May;83(5):1515-22,J Clin Endocrinol Metab,1998,83,1515,9589648,s1,,no_oa
+609,J Clin Endocrinol Metab 1998 Apr;83(4):1128-33,J Clin Endocrinol Metab,1998,83,1128,9543129,s1,,no_oa
+610,J Clin Endocrinol Metab 1997 Jan;82(1):265-74,J Clin Endocrinol Metab,1997,82,265,8989272,s1,,no_oa
+611,"J Clin Endocrinol Metab, 2007, 92: 4671-7",J Clin Endocrinol Metab,2007,92,4671,17726081,s1,,no_oa
+612,J Child Psychol Psychiatry 2015 Apr;56(4):444-52,J Child Psychol Psychiatry,2015,56,444,25087908,s1,,no_oa
+613,J Child Psychol Psychiatry 2013 May;54(5):527-35,J Child Psychol Psychiatry,2013,54,527,22676856,s1,,downloaded
+614,J Child Psychol Psychiatry 1996 Jul;37(5):587-95,J Child Psychol Psychiatry,1996,37,587,8807439,s1,,no_oa
+615,J Child Adolesc Psychopharmacol 2017 Feb;27(1):66-74,J Child Adolesc Psychopharmacol,2017,27,66,27183299,s1,5326982,cached
+616,J Child Adolesc Psychopharmacol 2015 Jun;25(5):402-14,J Child Adolesc Psychopharmacol,2015,25,402,25692608,s1,4491157,cached
+617,J Child Adolesc Psychopharmacol 2013 Feb;23(1):3-10,J Child Adolesc Psychopharmacol,2013,23,3,23289899,s1,3696913,cached
+618,J Child Adolesc Psychopharmacol 2011 Dec;21(6):581-8,J Child Adolesc Psychopharmacol,2011,21,581,22136094,s1,3243461,cached
+619,J Child Adolesc Psychopharmacol 2009 Dec;19(6):683-90,J Child Adolesc Psychopharmacol,2009,19,683,20035586,s1,,no_oa
+620,J Child Adolesc Psychopharmacol 2009 Aug;19(4):351-61,J Child Adolesc Psychopharmacol,2009,19,351,19702487,s1,,no_oa
+621,J Child Adolesc Psychopharmacol 2008 Feb;18(1):11-24,J Child Adolesc Psychopharmacol,2008,18,11,18294084,s1,,no_oa
+622,J Child Adolesc Psychopharmacol 1998;8(1):13-25,J Child Adolesc Psychopharmacol,1998,8,13,9639076,s1,,no_oa
+624,J Card Fail 2005 Feb;11(1):12-20,J Card Fail,2005,11,12,15704058,s1,,no_oa
+625,J Cancer Res Clin Oncol 2013 Dec;139(12):2047-56,J Cancer Res Clin Oncol,2013,139,2047,24072232,s1,11824442,cached
+626,J Cancer Res Clin Oncol 2006 Feb;132(2):105-12,J Cancer Res Clin Oncol,2006,132,105,16088404,s1,12161038,cached
+627,J Cancer Res Clin Oncol 2006 Apr;132(4):205-12,J Cancer Res Clin Oncol,2006,132,205,16402269,s1,12161066,cached
+628,J Bone Miner Res 2011 Jun;26(6):1303-12,J Bone Miner Res,2011,26,1303,21312264,s1,,no_oa
+629,J Bone Miner Res 2009 Apr;24(4):719-25,J Bone Miner Res,2009,24,719,19049326,s1,,no_oa
+630,J Bone Miner Res 2006 Feb;21(2):300-6,J Bone Miner Res,2006,21,300,16418786,s1,,no_oa
+631,J Bone Miner Res 2002 Dec;17(12):2247-55,J Bone Miner Res,2002,17,2247,12469919,s1,,no_oa
+632,J Bone Miner Res 1998 Sep;13(9):1431-8,J Bone Miner Res,1998,13,1431,9738515,s1,,no_oa
+633,"J Bone Joint Surg Am, 2006, 88: 295-302",J Bone Joint Surg Am,2006,88,295,16452740,s1,,no_oa
+634,J Asthma Jul-Aug 2007;44(6):437-41,J Asthma,2007,44,437,17654129,s1,,no_oa
+635,J Asthma 2018 Sep;55(9):984-993,J Asthma,2018,55,984,28961020,s1,,no_oa
+636,J Asthma 2018 Jun;55(6):640-650,J Asthma,2018,55,640,28763243,s1,,no_oa
+637,J Asthma 2016 Oct;53(8):783-9,J Asthma,2016,53,783,27050801,s1,,no_oa
+638,J Asthma 2004;41(8):797-806,J Asthma,2004,41,797,15641629,s1,,no_oa
+640,"J Assoc Physicians India, 2013, 61: 97-101",J Assoc Physicians India,2013,61,97,24471247,s1,,
+641,J Arthroplasty 2009 Jan;24(1):1-9,J Arthroplasty,2009,24,1,18534438,s3,,no_oa
+642,"J Arthroplasty, 2015, 30: 754-7",J Arthroplasty,2015,30,754,25548079,s1,,no_oa
+643,J Antimicrob Chemother 2002 Feb;49 Suppl 1:81-6,,,,,,unparsed_citation,,
+644,J Antimicrob Chemother 1985 Jan;15(1):83-90,J Antimicrob Chemother,1985,15,83,3882657,s1,,no_oa
+645,"J Antimicrob Chemother, 2014, 69: 1111-8",J Antimicrob Chemother,2014,69,1111,24292991,s1,,no_oa
+646,"J Antimicrob Chemother, 1999, 44: 411-4",J Antimicrob Chemother,1999,44,411,10511413,s1,,no_oa
+647,J Am Soc Nephrol 2009 May;20(5):1103-12,J Am Soc Nephrol,2009,20,1103,19369404,s1,2678035,cached
+648,"J Am Dent Assoc, 2017, 148: 149-156",J Am Dent Assoc,2017,148,149,28126226,s1,,no_oa
+649,"J Am Dent Assoc, 2008, 139: 1095-104",J Am Dent Assoc,2008,139,1095,18682624,s1,,no_oa
+650,"J Am Dent Assoc, 2008, 139: 1080-93",J Am Dent Assoc,2008,139,1080,18682623,s1,,no_oa
+651,J Am Coll Nutr 2003 Feb;22(1):56-63,J Am Coll Nutr,2003,22,56,12569115,s1,,no_oa
+652,J Am Coll Cardiol 2008 Dec 16;52(25):2127-34,J Am Coll Cardiol,2008,52,2127,19095129,s1,,no_oa
+653,J Am Coll Cardiol 1993 May;21(6):1365-70,J Am Coll Cardiol,1993,21,1365,8166777,s1,,no_oa
+654,"J Am Coll Cardiol, 2013, 62: 909-17",J Am Coll Cardiol,2013,62,909,23727083,s1,,no_oa
+655,J Am Board Fam Med 2012 Jul-Aug;25(4):442-59,J Am Board Fam Med,2012,25,442,22773713,s1,,downloaded
+656,J Am Acad Dermatol 2017 Oct;77(4):667-674,J Am Acad Dermatol,2017,77,667,28780364,s1,,no_oa
+657,J Am Acad Dermatol 2017 Jan;76(1):70-80,J Am Acad Dermatol,2017,76,70,27707593,s1,,no_oa
+658,J Am Acad Dermatol 2016 May;74(5):841-50,J Am Acad Dermatol,2016,74,841,26899199,s1,,no_oa
+659,"J Am Acad Dermatol, 2012, 67: 86-92",J Am Acad Dermatol,2012,67,86,22014541,s1,,no_oa
+660,"J Am Acad Dermatol, 2008, 58: 106-15",J Am Acad Dermatol,2008,58,106,17936411,s1,,no_oa
+661,"J Am Acad Dermatol, 2007, 56: 31e1-15",,,,,,unparsed_citation,,
+662,"J Am Acad Dermatol, 2004, 51: 534-42",J Am Acad Dermatol,2004,51,534,15389187,s1,,no_oa
+663,"J Am Acad Dermatol, 2002, 46: 840-9",J Am Acad Dermatol,2002,46,840,12063480,s1,,no_oa
+665,J Am Acad Child Adolesc Psychiatry 2011 Apr;50(4):395-405,J Am Acad Child Adolesc Psychiatry,2011,50,395,21421179,s1,,no_oa
+666,J Am Acad Child Adolesc Psychiatry 2006 Nov;45(11):1294-1303,J Am Acad Child Adolesc Psychiatry,2006,45,1294,17028508,s1,,no_oa
+667,J Am Acad Child Adolesc Psychiatry 2006 Jul;45(7):817-23,J Am Acad Child Adolesc Psychiatry,2006,45,817,16832318,s1,,no_oa
+668,J Am Acad Child Adolesc Psychiatry 2005 Mar;44(3):249-57,J Am Acad Child Adolesc Psychiatry,2005,44,249,15725969,s1,,no_oa
+669,J Am Acad Child Adolesc Psychiatry 2005 Jun;44(6):522-9,J Am Acad Child Adolesc Psychiatry,2005,44,522,15908834,s1,,no_oa
+670,J Am Acad Child Adolesc Psychiatry 2004 Nov;43(11):1406-14,J Am Acad Child Adolesc Psychiatry,2004,43,1406,15502600,s1,,no_oa
+671,J Am Acad Child Adolesc Psychiatry 2004 Mar;43(3):251-9,J Am Acad Child Adolesc Psychiatry,2004,43,251,15076257,s1,,no_oa
+672,J Am Acad Child Adolesc Psychiatry 2003 Jun;42(6):673-83,J Am Acad Child Adolesc Psychiatry,2003,42,673,12921475,s1,,no_oa
+673,J Am Acad Child Adolesc Psychiatry 2000 May;39(5):619-26,J Am Acad Child Adolesc Psychiatry,2000,39,619,10802980,s1,,no_oa
+674,J Am Acad Child Adolesc Psychiatry 1992 Mar;31(2):226-34,J Am Acad Child Adolesc Psychiatry,1992,31,226,1564023,s1,,no_oa
+675,J Am Acad Child Adolesc Psychiatry 1990 Sep;29(5):702-9,J Am Acad Child Adolesc Psychiatry,1990,29,702,2228922,s1,,no_oa
+676,"J Am Acad Child Adolesc Psychiatry,134-141",,,,,,unparsed_citation,,
+677,J Allergy Clin Immunol 2015 May;135(5):1171-8e1,J Allergy Clin Immunol,2015,135,1171,25458910,s1,4426225,no_open_pdf
+678,J Allergy Clin Immunol 2003 Jul;112(1):72-8,J Allergy Clin Immunol,2003,112,72,12847482,s1,,no_oa
+679,J Allergy Clin Immunol 2000 Jun;105(6 Pt 1):1108-16,,,,,,unparsed_citation,,
+680,"J Allergy Clin Immunol, 2013, 132: 1086-1096e5",J Allergy Clin Immunol,2013,132,1086,23866823,s1,4172321,no_open_pdf
+681,J Affect Disord 2015;174:296–302,J Affect Disord,2015,174,296,25532076,s1,,no_oa
+682,J Acquir Immune Defic Syndr 2015 Dec 15;70(5):515-9,J Acquir Immune Defic Syndr,2015,70,515,26262777,s1,4645960,cached
+683,Invest New Drugs 2012 Feb;30(1):357-63,Invest New Drugs,2012,30,357,20734110,s1,,no_oa
+684,"Invest New Drugs, 2012, 30: 1216-23",Invest New Drugs,2012,30,1216,21594619,s1,,no_oa
+685,"Invest New Drugs, 2011, 29: 1021-8",Invest New Drugs,2011,29,1021,20127139,s1,,no_oa
+688,"Intensive Care Med, 2012, 38: 1118-25",Intensive Care Med,2012,38,1118,22527075,s1,,no_oa
+689,Int J Tuberc Lung Dis 2012 Feb;16(2):268-72,Int J Tuberc Lung Dis,2012,16,268,22236931,s1,,no_oa
+690,Int J Rheum Dis 2014 Jul;17(6):679-86,Int J Rheum Dis,2014,17,679,24467549,s1,,no_oa
+691,"Int J Rheum Dis, 2009, 12: 44-51",Int J Rheum Dis,2009,12,44,20374316,s1,,no_oa
+693,"Int J Hematol Oncol Stem Cell Res, 2018, 12: 77-83",Int J Hematol Oncol Stem Cell Res,2018,12,77,30233767,s1,6141429,cached
+694,Int J Clin Pract 2013 Apr;67(4):307-16,Int J Clin Pract,2013,67,307,23638466,s1,,no_oa
+695,Int J Clin Pract 2010 Nov;64(12):1619-31,Int J Clin Pract,2010,64,1619,20846286,s1,,no_oa
+696,Int J Clin Pract 2010 May;64(6):821-6,Int J Clin Pract,2010,64,821,20337751,s1,,no_oa
+697,Int J Clin Pract 2010 Apr;64(5):562-76,Int J Clin Pract,2010,64,562,20456211,s1,,no_oa
+699,Int J Clin Pract 2009 Jan;63(1):46-55,Int J Clin Pract,2009,63,46,19125992,s1,,no_oa
+700,Int J Clin Pract 2009 Apr;63(4):547-59,Int J Clin Pract,2009,63,547,19222610,s1,,no_oa
+701,Int J Clin Pract 2005 Jun;59(6):619-27,Int J Clin Pract,2005,59,619,15924587,s1,,no_oa
+702,Int J Clin Pract 2005 Dec;59(12):1377-86,Int J Clin Pract,2005,59,1377,16351668,s1,,no_oa
+703,"Int J Clin Pract, 2011, 65: 397-407",Int J Clin Pract,2011,65,397,21355967,s1,3085127,cached
+704,"Int J Clin Pract, 2011, 65: 1230-9",Int J Clin Pract,2011,65,1230,21977965,s1,,no_oa
+706,Int J Clin Oncol 2015 Oct;20(5):905-12,Int J Clin Oncol,2015,20,905,25655899,s1,4527951,no_open_pdf
+707,Int J Cardiol 2015;187:404-410,Int J Cardiol,2015,187,404,25841136,s1,,no_oa
+708,Int J Cardiol 2015;187:389-392,Int J Cardiol,2015,187,389,25841133,s1,,no_oa
+709,Int J Cardiol 2014 Sep;176(1):55-61,Int J Cardiol,2014,176,55,25037695,s1,,no_oa
+710,Int J Cardiol 2005 Jul 10;102(2):327-32,Int J Cardiol,2005,102,327,15982505,s1,,no_oa
+711,Int J Cancer 2016 Jul 1;139(1):177-86,Int J Cancer,2016,139,177,26891420,s1,5071720,cached
+712,Int J Antimicrob Agents 2001 Jan;17(1):67-70,Int J Antimicrob Agents,2001,17,67,11137652,s1,,no_oa
+715,"Int Arch Allergy Immunol, 2016, 169: 135-45",Int Arch Allergy Immunol,2016,169,135,27097165,s1,,no_oa
+716,Inflamm Bowel Dis 2017 Feb;23(2):261-271,Inflamm Bowel Dis,2017,23,261,28092306,s1,,no_oa
+717,Inflamm Bowel Dis 2015 Oct;21(10):2247-53,Inflamm Bowel Dis,2015,21,2247,26197451,s1,,no_oa
+718,Inflamm Bowel Dis 2015 Jun;21(6):1329-40,Inflamm Bowel Dis,2015,21,1329,25989338,s1,4450894,cached
+719,Inflamm Bowel Dis 2014 May;20(5):872-81,Inflamm Bowel Dis,2014,20,872,24694794,s1,5175486,no_open_pdf
+720,Inflamm Bowel Dis 2010 Oct;16(10):1708-16,Inflamm Bowel Dis,2010,16,1708,20848453,s1,,no_oa
+721,Inflamm Bowel Dis 2010 Jul;16(7):1209-18,Inflamm Bowel Dis,2010,16,1209,19918967,s1,,no_oa
+722,Inflamm Bowel Dis 2010 Feb;16(2):233-42,Inflamm Bowel Dis,2010,16,233,19637334,s1,,no_oa
+723,Infect Dis Obstet Gynecol 1997;5(1):10-7,Infect Dis Obstet Gynecol,1997,5,10,18476128,s1,2364533,cached
+724,"Indian J Dermatol Venereol Leprol, 2014, 80: 36-40",Indian J Dermatol Venereol Leprol,2014,80,36,24448121,s1,,no_oa
+725,Indian J Cancer Jan-Mar 2012;49(1):107-13,Indian J Cancer,2012,49,107,22842177,s1,,no_oa
+726,Indian J Anaesth 2014 Jul-Aug; 58(4): 436–441,Indian J Anaesth,2014,58,436,25197112,s1,4155289,cached
+727,Hypertension 2007 May;49(5):1047-55,Hypertension,2007,49,1047,17353513,s1,,no_oa
+728,https://wwwresearchgatenet/profile/Ayman-Abdellatif/publication/266225370_KETOFOL_FOR_OUTPATIENT_TRANSRECTAL_ULTRASOUND_GUIDED_PROSTATE_BIOPSY/links/57237dff08ae262228aa6d10/KETOFOL-FOR-OUTPATIENT-TRANSRECTAL-ULTRASOUND-GUIDED-PROSTATE-BIOPSYpdf,,,,,,unparsed_citation,,
+730,https://wwwajolinfo/indexphp/ijmu/article/view/68188,,,,,,unparsed_citation,,
+731,https://wwwactamedicamediterraneacom/archive/2013/medica-2/propofol-ketamine-combination-has-shorter-recovery-times-with-similar-hemodynamics-compared-to-propofol-alone-in-upper-gastrointestinal-endoscopy-in-adults-a-randomized-trial/document,,,,,,unparsed_citation,,
+763,"Hosp Pract (1995), 2013, 41: 72-84",Hosp Pract (1995),2013,41,72,23680739,s1,,no_oa
+764,Horm Metab Res 2009 Dec;41(12):905-9,Horm Metab Res,2009,41,905,19705345,s1,,no_oa
+765,"Hepatology, 2014, 60: 1697-707",Hepatology,2014,60,1697,24996197,s1,,no_oa
+766,"Helicobacter, 1998, 3: 212-21",Helicobacter,1998,3,212,9731994,s1,,no_oa
+767,Heart 2007 Aug;93(8):933-9,Heart,2007,93,933,17344325,s1,1994404,cached
+768,"Heart Rhythm, 2012, 9: 172-8",Heart Rhythm,2012,9,172,21920481,s1,,no_oa
+770,"Haematologica, 2014, 99: 1343-9",Haematologica,2014,99,1343,24895339,s1,4116833,cached
+771,Gynecol Oncol 2013 Jul;130(1):25-30,Gynecol Oncol,2013,130,25,23591401,s1,,no_oa
+772,Gynecol Oncol 1997 Jul;66(1):75-84,Gynecol Oncol,1997,66,75,9234925,s1,,no_oa
+773,Gut 2017 Jun;66(6):1049-1059,Gut,2017,66,1049,28209624,s1,5532457,cached
+774,Gut 2015 Jun;64(6):894-900,Gut,2015,64,894,25567115,s1,,no_oa
+775,Gut 2015 Feb;64(2):243-9,Gut,2015,64,243,25304132,s1,,no_oa
+776,Gut 2015 Aug;64(8):1227-35,Gut,2015,64,1227,25281416,s1,4515993,cached
+777,Gut 2014 Mar;63(3):442-50,Gut,2014,63,442,23461895,s1,3933070,cached
+778,J Antimicrob Chemother 1989 Aug;24(2):235-9,J Antimicrob Chemother,1989,24,235,2793646,s1,,no_oa
+779,Malar J 2013;12:11,Malar J,2013,12,11,23297680,s1,3557164,cached
+780,Pharmacotherapy 1998; 18( 6) : 1255-1263,,,,,,unparsed_citation,,
+781,Otolaryngol Head Neck Surg 1999 Mar;120(3):320-7,Otolaryngol Head Neck Surg,1999,120,320,10064632,s1,,no_oa
+783,N Engl J Med 2011;365(20):1863–75,N Engl J Med,2011,365,1863,22007715,s1,,no_oa
+784,Pediatrics 1993 Jun;91(6):1101-6,Pediatrics,1993,91,1101,8502509,s1,,
+785,PLoS ONE 2010;5(11):e13838,,,,,,unparsed_citation,,
+786,Ann Emerg Med 2012 Jun;59(6):504-12e1-2,,,,,,unparsed_citation,,
+787,Ann Intern Med 2013 Sep 17;159(6):390-400,Ann Intern Med,2013,159,390,24042367,s1,,no_oa
+788,JAMA 2006 May 3;295(17):2003-17,JAMA,2006,295,2003,16670409,s1,,no_oa
+789,Alcohol Clin Exp Res 2018 Apr;42(4):751-760,Alcohol Clin Exp Res,2018,42,751,29431852,s1,5880727,no_open_pdf
+790,J Clin Psychopharmacol 2004 Aug;24(4):421-8,J Clin Psychopharmacol,2004,24,421,15232334,s1,,no_oa
+791,Clin Ther Sep-Oct 1997;19(5):989-1001,Clin Ther,1997,19,989,9385486,s1,,no_oa
+792,Clin Ther Sep-Oct 1998;20(5):885-900,Clin Ther,1998,20,885,9829441,s1,,no_oa
+793,Lancet 2007;370(9598):1543–51,Lancet,2007,370,1543,17949807,s1,,no_oa
+794,J Clin Oncol 2013 Apr 10;31(11):1405-14,J Clin Oncol,2013,31,1405,23460714,s1,3612594,downloaded
+795,Hum Vaccines 2011;7(1):58–66,Hum Vaccines,2011,7,58,,unresolved,,
+796,Psychiatry Res 2001 Aug 5;103(1):1-14,Psychiatry Res,2001,103,1,11472786,s1,,no_oa
+797,Anesth Analg 2000 Apr;90(4):858-62,Anesth Analg,2000,90,858,10735789,s1,,no_oa
+798,Int J Gynaecol Obstet 2008 May;101(2):125-8,Int J Gynaecol Obstet,2008,101,125,18082163,s1,,no_oa
+800,Circulation 2003 May 20;107(19):2409-15,Circulation,2003,107,2409,12719279,s1,,no_oa
+801,Alcohol Clin Exp Res 2003 Jul;27(7):1142-9,Alcohol Clin Exp Res,2003,27,1142,12878920,s1,,no_oa
+802,Am J Psychiatry 1998 Jan;155(1):36-42,Am J Psychiatry,1998,155,36,9433336,s3,,no_oa
+803,Pediatrics 1990 Aug;86(2):184-92,Pediatrics,1990,86,184,2196520,s1,,
+804,Eur Respir J 2013 Dec;42(6):1484-94,Eur Respir J,2013,42,1484,23722616,s1,3844137,cached
+805,Clin Ther 2004 Nov;26(11):1758-73,Clin Ther,2004,26,1758,15639688,s1,,no_oa
+806,Am J Cardiol 2011 Aug 15;108(4):523-30,Am J Cardiol,2011,108,523,21596364,s1,,no_oa
+807,N Engl J Med 2014 Jul 31;371(5):424-33,N Engl J Med,2014,371,424,24881730,s1,4418931,no_open_pdf
+808,N Engl J Med 2017 Mar 16;376(11):1015-1026,N Engl J Med,2017,376,1015,28212060,s1,5635424,no_open_pdf
+809,Lancet Oncol 2013 Jan;14(1):29-37,Lancet Oncol,2013,14,29,23168366,s1,,no_oa
+810,Am J Cardiol Jun 1 2011;107(11):1698-1701,Am J Cardiol Jun 1,2011,107,1698,21439528,s5,,no_oa
+811,Clin Ther 2007 Mar;29(3):450-63,Clin Ther,2007,29,450,17577466,s1,,no_oa
+812,Pediatrics 2002 Aug;110(2 Pt 1):258-66,,,,,,unparsed_citation,,
+813,Pediatr Infect Dis J 2012;31(7):e92–8,,,,,,unparsed_citation,,
+814,BMC Pulm Med 2011 Nov 15;11:51,BMC Pulm Med,2011,11,51,22085439,s1,3233513,cached
+815,Vaccine 2005;23(32):4148–57,Vaccine,2005,23,4148,15964483,s1,,no_oa
+816,Clin Ther 2011 Apr;33(4):465-77,Clin Ther,2011,33,465,21635992,s1,,no_oa
+817,N Engl J Med 2015 Oct 22;373(17):1627-39,N Engl J Med,2015,373,1627,26412456,s1,5705936,no_open_pdf
+818,N Engl J Med 2015 Jul 9;373(2):123-35,N Engl J Med,2015,373,123,26028407,s1,4681400,no_open_pdf
+819,Psychopharmacology (Berl) 2011 Nov;218(2):391-403,Psychopharmacology (Berl),2011,218,391,21559801,s1,4667942,no_open_pdf
+820,Thorax 2003 May;58(5):399-404,Thorax,2003,58,399,12728159,s1,1746668,cached
+821,BMJ 1991 Sep 7;303(6802):558-62,BMJ,1991,303,558,1912887,s1,1670875,cached
+822,Lancet 2003 Feb 8;361(9356):449-56,Lancet,2003,361,449,12583942,s1,,no_oa
+823,N Engl J Med 2007 Feb 22;356(8):775-89,N Engl J Med,2007,356,775,17314337,s1,,no_oa
+824,Lancet Oncol 2013 Sep;14(10):933-42,Lancet Oncol,2013,14,933,23932548,s1,,no_oa
+826,Child Adolesc Psychiatry Ment Health 2007 Sep 27;1(1):10,Child Adolesc Psychiatry Ment Health,2007,1,10,17897473,s1,2098748,cached
+827,Diabet Med 1996 Feb;13(2):156-9,Diabet Med,1996,13,156,8641121,s1,,no_oa
+828,Chest 2011 Jul;140(1):68-75,Chest,2011,140,68,21349928,s1,,no_oa
+829,N Engl J Med 2015;373(2):123–135,N Engl J Med,2015,373,123,26028407,s1,4681400,no_open_pdf
+832,N Engl J Med 2014 Feb 20;370(8):709-22,N Engl J Med,2014,370,709,24552318,s1,,no_oa
+833,J Infect Dis 2013 Dec 15;208(12):1953-61,J Infect Dis,2013,208,1953,23904292,s1,,no_oa
+834,Vaccine 2014 Mar 26;32(15):1745-53,Vaccine,2014,32,1745,24508036,s1,,no_oa
+835,JAMA Psychiatry 2013 May;70(5):522-33,JAMA Psychiatry,2013,70,522,23536105,s1,4128024,no_open_pdf
+836,Eur Neuropsychopharmacol 2013 Oct;23(10):1208-18,Eur Neuropsychopharmacol,2013,23,1208,23332456,s1,,no_oa
+837,Am J Cardiol 2008 Dec 1;102(11):1489-94,Am J Cardiol,2008,102,1489,19026302,s1,,no_oa
+838,Arch Gen Psychiatry 1980 Aug;37(8):922-30,Arch Gen Psychiatry,1980,37,922,7406656,s1,,no_oa
+839,Contemp Clin Trials 2017 Sep;60:72-77,Contemp Clin Trials,2017,60,72,28642209,s1,5570613,no_open_pdf
+840,Lancet Oncol 2014 May;15(6):620-30,Lancet Oncol,2014,15,620,24745696,s1,,no_oa
+841,N Engl J Med 2016; 375:1019-1032,N Engl J Med,2016,375,1019,27626517,s1,,no_oa
+842,Lancet Oncol 2013 Oct;14(11):1077-1085,Lancet Oncol,2013,14,1077,24028813,s1,,no_oa
+843,Thorax 2010 Jun;65(6):473-9,Thorax,2010,65,473,20522841,s1,,no_oa
+844,N Engl J Med 2011 May 26;364(21):1995-2005,N Engl J Med,2011,364,1995,21612468,s1,3471149,no_open_pdf
+845,Lancet Oncol 2012 Dec;13(12):1225-33,Lancet Oncol,2012,13,1225,23168362,s1,,no_oa
+846,Eur J Anaesthesiol 2014 Dec;31(12):654-62,Eur J Anaesthesiol,2014,31,654,24247410,s1,,no_oa
+847,Respir Med 2000 Nov;94(11):1029-37,Respir Med,2000,94,1029,11127487,s1,,no_oa
+848,Cardiology 2015;131(3):142-8,Cardiology,2015,131,142,25926088,s1,,no_oa
+849,Vaccine 2011;29(47):8696–704,Vaccine,2011,29,8696,21906647,s1,,no_oa
+850,Chest 2002 Jul;122(1):47-55,Chest,2002,122,47,12114338,s1,,no_oa
+851,Respir Med 2013 Oct;107(10):1538-46,Respir Med,2013,107,1538,23830094,s1,,no_oa
+852,Schizophr Res 2014;152(2–3):450–7,,,,,,unparsed_citation,,
+853,Bipolar Disord 2015;17(1):63–75,Bipolar Disord,2015,17,63,25056368,s1,,no_oa
+855,Lancet Oncol 2014 Jul;15(8):894-904,Lancet Oncol,2014,15,894,24950987,s1,,no_oa
+856,JAMA 2015 Feb 17;313(7):687-94,JAMA,2015,313,687,25688780,s1,4883651,cached
+857,Nicotine Tob Res 2011 Sep;13(9):820-6,Nicotine Tob Res,2011,13,820,21504885,s1,3168243,cached
+858,N Engl J Med 2018;378(19):1789–1801,N Engl J Med,2018,378,1789,29658430,s1,,no_oa
+861,JAMA 2014 Jan 8;311(2):145-54,JAMA,2014,311,145,24399553,s1,4124884,no_open_pdf
+862,Med Sci Monit 2012; 18(9): CR575–CR580,,,,,,unparsed_citation,,
+863,Clin Ther 2009 Jan;31(1):177-89,Clin Ther,2009,31,177,19243716,s1,,no_oa
+864,BMJ 2010 Dec 6;341:c6549 ,,,,,,unparsed_citation,,
+865,BMC Pulm Med 2010 Mar 8;10:11,BMC Pulm Med,2010,10,11,20211002,s1,2848004,cached
+866,Am J Cardiol 2004 Jun 15;93(12):1481-6,Am J Cardiol,2004,93,1481,15194017,s1,,no_oa
+867,N Engl J Med 2016 Nov 10;375(19):1856-1867,N Engl J Med,2016,375,1856,27718784,s1,5564292,no_open_pdf
+868,J Clin Psychiatry 2008 Jan;69(1):149-59,J Clin Psychiatry,2008,69,149,18312050,s1,,no_oa
+869,Eur Child Adolesc Psychiatry 2006 Dec;15(8):450-9,Eur Child Adolesc Psychiatry,2006,15,450,16791541,s1,,no_oa
+870,JAMA 2013 Aug 7;310(5):488-95,JAMA,2013,310,488,23925619,s1,,no_oa
+871,Br J Cancer 2014 Apr 29;110(9):2178-86,Br J Cancer,2014,110,2178,24743706,s1,4007241,cached
+872,Am J Cardiol 2010 Nov 1;106(9):1255-63,Am J Cardiol,2010,106,1255,21029821,s1,,no_oa
+873,Anesth Analg 1999 Aug;89(2):317-21,Anesth Analg,1999,89,317,10439740,s1,,no_oa
+875,N Engl J Med 2018;378(22):2078–2092,N Engl J Med,2018,378,2078,29658856,s1,,no_oa
+876,JAMA Psychiatry 2016 Oct 1;73(10):1056-1063,JAMA Psychiatry,2016,73,1056,27627782,s1,,no_oa
+877,Biol Psychiatry 2011 Jun 1;69(11):1075-82,Biol Psychiatry,2011,69,1075,21295286,s1,,no_oa
+878,Mayo Clin Proc 2004 May;79(5):620-9,Mayo Clin Proc,2004,79,620,15132403,s1,,no_oa
+879,Antimicrob Agents Chemother 1985 Mar; 27(3): 422–423,Antimicrob Agents Chemother,1985,27,422,3158277,s1,176290,cached
+880,JAMA 2006 Jul 5;296(1):47-55,JAMA,2006,296,47,16820546,s1,,no_oa
+881,Clin Pharmacol Ther 2014 Sep;96(3):390-6,Clin Pharmacol Ther,2014,96,390,24911368,s1,4151018,cached
+882,Am J Psychiatry 2006 Feb;163(2):303-12,Am J Psychiatry,2006,163,303,16449486,s1,,no_oa
+883,Am J Psychiatry 1972 Nov;129(5):532-9,Am J Psychiatry,1972,129,532,4562464,s1,,no_oa
+884,Pediatrics 2002 Mar;109(3):E39,,,,,,unparsed_citation,,
+885,Obesity (Silver Spring) 2009 Jan;17(1):30-9,Obesity (Silver Spring),2009,17,30,18997675,s1,,no_oa
+886,Eur Neuropsychopharmacol 2013 Nov;23(11):1432-42,Eur Neuropsychopharmacol,2013,23,1432,23562264,s1,,no_oa
+887,Chin J Cancer 2011 Oct;30(10):682-9,Chin J Cancer,2011,30,682,21959045,s1,4012268,cached
+888,Curr Med Res Opin 1974-1975;2(10):636-40,,,,,,unparsed_citation,,
+889,Lancet 2016;387(10027):1540–1550,Lancet,2016,387,1540,26712084,s1,,no_oa
+890,Lipids Health Dis 2012 Jan 31;11:18,Lipids Health Dis,2012,11,18,22293030,s1,3306831,downloaded
+891,N Engl J Med 2011 Jan 13;364(2):105-15,N Engl J Med,2011,364,105,21226576,s1,3042231,no_open_pdf
+892,Lancet Oncol 2016;17(11):1558–1568,Lancet Oncol,2016,17,1558,27622997,s1,5630525,no_open_pdf
+893,Respir Med 2001 Jul;95(7):553-64,Respir Med,2001,95,553,11453311,s1,,no_oa
+894,Arch Gen Psychiatry 2011 Dec;68(12):1195-206,Arch Gen Psychiatry,2011,68,1195,21810630,s1,3618988,no_open_pdf
+895,Antimicrob Agents Chemother 1991 Jul; 35(7): 1479–1483,Antimicrob Agents Chemother,1991,35,1479,1929311,s1,245194,cached
+896,Nicotine Tob Res 2011 Oct;13(10):955-64,Nicotine Tob Res,2011,13,955,21652735,s1,3218639,cached
+898,N Engl J Med 2004 Jun 3;350(23):2335-42,N Engl J Med,2004,350,2335,15175435,s1,,no_oa
+899,"Tuberculosis (Edinb, Scotl) 2014;94(6):564–78","Tuberculosis (Edinb,Scotl)",2014,94,564,25305000,s5,,no_oa
+900,Digestion 2011;84(2):128-33,Digestion,2011,84,128,21525768,s1,,no_oa
+901,Scand J Prim Health Care 1992 Mar;10(1):7-11,Scand J Prim Health Care,1992,10,7,1589668,s1,,no_oa
+902,Nicotine Tob Res 2014 Jan;16(1):50-7,Nicotine Tob Res,2014,16,50,23946326,s1,3864491,cached
+903,JAMA 2006 Jul 5;296(1):56-63,JAMA,2006,296,56,16820547,s1,,no_oa
+904,Alcohol Clin Exp Res 2017 Jun;41(6):1201-1211,Alcohol Clin Exp Res,2017,41,1201,28401564,s1,5485847,no_open_pdf
+905,Lancet 1996 Jun 1;347(9014):1507-10,Lancet,1996,347,1507,8684101,s1,,no_oa
+906,Drug Alcohol Depend 2015;146:e152,,,,,,unparsed_citation,,
+907,Lancet 2017;390(10111):2461–2471,Lancet,2017,390,2461,28993052,s1,,no_oa
+908,Alcohol Clin Exp Res 2007 Jul;31(7):1179-87,Alcohol Clin Exp Res,2007,31,1179,17451401,s1,,no_oa
+909,Respir Med 2013 Apr;107(4):560-9,Respir Med,2013,107,560,23352226,s1,,no_oa
+910,Am J Cardiol 2003 Feb 15;91(4):418-24,Am J Cardiol,2003,91,418,12586255,s1,,no_oa
+911,N Engl J Med 2016;375(19):1823–1833,N Engl J Med,2016,375,1823,27718847,s1,,downloaded
+912,J Clin Psychopharmacol 2012 Oct;32(5):630-6,J Clin Psychopharmacol,2012,32,630,22926596,s1,4640209,no_open_pdf
+913,J Nippon Med Sch 2004 Apr;71(2):92-8,J Nippon Med Sch,2004,71,92,15260082,s1,,downloaded
+914,Pediatr Infect Dis J 2014;33(12):e320–9,,,,,,unparsed_citation,,
+915,Int J Chron Obstruct Pulmon Dis 2014 Jul 5;9:697-714,Int J Chron Obstruct Pulmon Dis,2014,9,697,25045258,s1,4094569,cached
+916,Eur Respir J 2011 Feb;37(2):273-9,Eur Respir J,2011,37,273,20693243,s1,,no_oa
+917,J Clin Psychopharmacol 2009 Aug;29(4):350-7,J Clin Psychopharmacol,2009,29,350,19593174,s1,3184851,download_error
+918,Lancet Oncol 2016;17(11):1497–1508,Lancet Oncol,2016,17,1497,27745820,s1,6886237,no_open_pdf
+919,Acta Psychiatr Scand 1997 Feb;95(2):145-52,Acta Psychiatr Scand,1997,95,145,9065680,s1,,no_oa
+920,Am J Cardiol 2008 Dec 1;102(11):1495-501,Am J Cardiol,2008,102,1495,19026303,s1,,no_oa
+921,J Child Adolesc Psychopharmacol 2014 May;24(4):190-200,J Child Adolesc Psychopharmacol,2014,24,190,24840045,s1,4026219,cached
+922,J Addict Med Jul-Aug 2013;7(4):277-86,J Addict Med,2013,7,277,23728065,s1,3914416,no_open_pdf
+923,Br J Psychiatry 1998 Jul;173:54-60,Br J Psychiatry,1998,173,54,9850204,s1,,no_oa
+924,PLoS ONE 2010;5(11):e14090,,,,,,unparsed_citation,,
+925,Trop Med Int Health 2007;12(1):37–46,Trop Med Int Health,2007,12,37,17207146,s1,,no_oa
+926,Lancet Oncol 2017 Sep;18(9):1261-1273,Lancet Oncol,2017,18,1261,28729154,s1,,no_oa
+927,Biol Psychiatry 2013 Apr 15;73(8):706-13,Biol Psychiatry,2013,73,706,23237314,s1,,no_oa
+928,Thorax 2012 Aug;67(8):689-93,Thorax,2012,67,689,22628120,s1,,no_oa
+929,Gut 2006 Jun;55(6):842-7,Gut,2006,55,842,16377775,s1,1856210,cached
+930,Arch Gen Psychiatry 1999 Aug;56(8):719-24,Arch Gen Psychiatry,1999,56,719,10435606,s1,,no_oa
+931,Alcohol Clin Exp Res 1994 Oct;18(5):1162-7,Alcohol Clin Exp Res,1994,18,1162,7847600,s1,,no_oa
+932,Dig Dis Sci 2018 Jul;63(7):1910-1919,Dig Dis Sci,2018,63,1910,29450747,s1,6015104,cached
+933,BMC Complement Altern Med 2010 Apr 15;10:13,BMC Complement Altern Med,2010,10,13,20398311,s1,2861635,cached
+934,Lancet 2011 Jun 18;377(9783):2103-14,Lancet,2011,377,2103,21641636,s1,3159415,no_open_pdf
+935,Am J Med 1999 Mar;106(3):292-9,Am J Med,1999,106,292,10190377,s1,,no_oa
+936,Nicotine Tob Res 2013 Jan; 15(1): 139–148,Nicotine Tob Res,2013,15,139,22573730,s1,3524062,cached
+937,Eur Heart J 2003 Apr;24(8):717-28,Eur Heart J,2003,24,717,12713766,s1,,no_oa
+938,J Allergy Clin Immunol 2005 Dec;116(6):1289-95,J Allergy Clin Immunol,2005,116,1289,16337461,s1,,no_oa
+939,Br J Psychiatry 2001 Dec;179:514-8,Br J Psychiatry,2001,179,514,11731354,s1,,downloaded
+941,Ann Emerg Med 2015 May;65(5):479-488e2,Ann Emerg Med,2015,65,479,25441247,s1,,no_oa
+942,Psychopharmacology (Berl) 2012 Oct;223(3):299-306,Psychopharmacology (Berl),2012,223,299,22547331,s1,3438402,downloaded
+943,Clin Pharmacol Ther 2016 Oct;100(4):344-52,Clin Pharmacol Ther,2016,100,344,27213949,s1,5017904,download_error
+944,Addiction 2001 Nov;96(11):1565-73,Addiction,2001,96,1565,11784454,s1,,no_oa
+945,Anesth Analg 2001 Jun;92(6):1465-9,Anesth Analg,2001,92,1465,11375826,s1,,no_oa
+946,N Engl J Med 2015;373(19):1803–1813,N Engl J Med,2015,373,1803,26406148,s1,5719487,no_open_pdf
+947,N Engl JMed 2018;378(14):1277–1290,N Engl JMed,2018,378,1277,29562145,s5,5972549,no_open_pdf
+948,N Engl J Med 2007 Jan 11;356(2):115-24,N Engl J Med,2007,356,115,17215529,s1,,no_oa
+949,Addiction 2014 Sep;109(9):1554-63,Addiction,2014,109,1554,24862167,s1,4300953,no_open_pdf
+950,Clin Ther 2007 Jun;29(6):1040-56,Clin Ther,2007,29,1040,17692720,s1,,no_oa
+951,Pediatr Infect Dis J 2012;31(4):e59–65,,,,,,unparsed_citation,,
+952,Thorax 2008 Nov;63(11):999-1005,Thorax,2008,63,999,18559367,s1,,no_oa
+953,Am J Psychiatry 2008 Jun;165(6):721-30,Am J Psychiatry,2008,165,721,18281409,s1,,no_oa
+954,Curr Med Res Opin 2008 Jul;24(7):1931-41,Curr Med Res Opin,2008,24,1931,18513462,s1,,no_oa
+955,Arch Intern Med 2006 Aug 14-28;166(15):1561-8,,,,,,unparsed_citation,,
+956,J Infect Dis 2014;210(4):545–57,J Infect Dis,2014,210,545,24652494,s1,4111912,cached
+957,Arch Intern Med 2006 Mar 27;166(6):667-74,Arch Intern Med,2006,166,667,16567607,s1,,no_oa
+958,Alcohol Clin Exp Res 2007 Apr;31(4):625-34,Alcohol Clin Exp Res,2007,31,625,17374042,s1,,no_oa
+959,Alcohol Clin Exp Res 2008 Jul;32(7):1271-83,Alcohol Clin Exp Res,2008,32,1271,18482155,s1,2746027,no_open_pdf
+961,PLoS ONE 2009;4(3):e4708,,,,,,unparsed_citation,,
+962,Arch Intern Med 2006 Aug 14-28;166(15):1571-7,,,,,,unparsed_citation,,
+963,JAMA Psychiatry 2015 May;72(5):430-7,JAMA Psychiatry,2015,72,430,25760804,s1,,no_oa
+964,PLoS ONE 2009;4(10):e7302,,,,,,unparsed_citation,,
+965,Pediatrics 1990 Aug;86(2):226-37,Pediatrics,1990,86,226,2196522,s1,,
+966,Pediatrics 1999 Apr;103(4):e43,,,,,,unparsed_citation,,
+967,Pediatrics 1999 Dec;104(6):1300-11,Pediatrics,1999,104,1300,10585981,s1,,no_oa
+968,N Engl J Med 2011 Dec 29;365(26):2484-96,N Engl J Med,2011,365,2484,22204725,s1,,no_oa
+970,Psychopharmacology (Berl) 2004 Mar;172(3):291-7,Psychopharmacology (Berl),2004,172,291,14634716,s1,,no_oa
+971,Biol Psychiatry 2005 May 15;57(10):1128-37,Biol Psychiatry,2005,57,1128,15866552,s1,,no_oa
+972,Neuropsychopharmacology 2012 Mar;37(4):996-1004,Neuropsychopharmacology,2012,37,996,22089316,s1,3280636,cached
+973,Am J Psychiatry 2010 Jun; 167(6): 668–675,Am J Psychiatry,2010,167,668,20231324,s1,3121313,no_open_pdf
+974,Am J Psychiatry 1998 Sep;155(9):1189-95,Am J Psychiatry,1998,155,1189,9734541,s1,,no_oa
+975,Am J Addict Sep-Oct 2010;19(5):401-8,Am J Addict,2010,19,401,20716302,s1,2966972,no_open_pdf
+976,Arch Gen Psychiatry 1998 Nov;55(11):1010-6,Arch Gen Psychiatry,1998,55,1010,9819070,s1,,no_oa
+977,Lancet 2016;387:1837–1846,Lancet,2016,387,1837,26970723,s1,,no_oa
+978,N Engl J Med 2015;372(21):2006–2017,N Engl J Med,2015,372,2006,25891304,s1,5744258,no_open_pdf
+979,Gut 2002 Sep; 51(3): 405–409,Gut,2002,51,405,12171964,s1,1773351,cached
+980,N Engl J Med 2013 Sep 12;369(11):1023-34,N Engl J Med,2013,369,1023,24024839,s1,,no_oa
+981,Arch Gen Psychiatry 1974 Jun;30(6):789-93,Arch Gen Psychiatry,1974,30,789,4598851,s1,,no_oa
+982,Am J Respir Crit Care Med 2001 Apr;163(5):1087-92,Am J Respir Crit Care Med,2001,163,1087,11316640,s1,,no_oa
+983,Nicotine Tob Res 2012 Mar;14(3):343-50,Nicotine Tob Res,2012,14,343,22080588,s1,3281242,cached
+984,Lancet Oncol 2015;16(8):908–918,Lancet Oncol,2015,16,908,26115796,s1,9004487,no_open_pdf
+985,J Am Acad Child Adolesc Psychiatry 2011 Sep;50(9):903-14,J Am Acad Child Adolesc Psychiatry,2011,50,903,21871372,s1,3164797,no_open_pdf
+986,Circulation 2010 Jan 19;121(2):221-9,Circulation,2010,121,221,20048210,s1,4096941,no_open_pdf
+988,N Engl J Med 2015 Jan 22;372(4):320-30,N Engl J Med,2015,372,320,25399552,s1,,no_oa
+990,Am J Cardiol 2009 Jun 15;103(12):1694-702,Am J Cardiol,2009,103,1694,19539078,s1,,no_oa
+991,ARYA Atheroscler 2016 Jan; 12(1): 10–17,ARYA Atheroscler,2016,12,10,27114732,s1,4834176,cached
+992,Chest 2002 Apr;121(4):1058-69,Chest,2002,121,1058,11948033,s1,,no_oa
+993,Eur J Cancer 2013 Aug;49(12):2633-42,Eur J Cancer,2013,49,2633,23642329,s1,,no_oa
+994,N Engl J Med 2012;367(24):2284–95,N Engl J Med,2012,367,2284,23136909,s1,10915853,cached
+995,PLoS Med 2014;11(7):e1001685,,,,,,unparsed_citation,,
+997,Clin Colorectal Cancer 2012 Jun;11(2):101-11,Clin Colorectal Cancer,2012,11,101,22055112,s1,,no_oa
+998,Pharmacopsychiatry 1998 Jul;31(4):117-21,Pharmacopsychiatry,1998,31,117,9754844,s1,,no_oa
+999,Lancet 2017;390(10105): 1853–1862,Lancet,2017,390,1853,28822576,s1,,no_oa
+1000,N Engl J Med 2012 Sep 27;367(13):1187-97,N Engl J Med,2012,367,1187,22894553,s1,,no_oa
+1001,EuroIntervention Jun 2010;6(2):247-250,EuroIntervention Jun,2010,6,247,,unresolved,,
+1002,Drug Alcohol Depend 2014 Mar 1; 136: 100–107,Drug Alcohol Depend,2014,136,100,24424425,s1,3944935,no_open_pdf
+1003,Pediatrics 1998 Apr;101(4 Pt 1):675-81,,,,,,unparsed_citation,,
+1004,Lancet Oncol 2013 Jul;14(8):749-59,Lancet Oncol,2013,14,749,23725851,s1,3699713,no_open_pdf
+1006,PLoS One 2013 Nov 11;8(11):e62264,,,,,,unparsed_citation,,
+1007,J Child Adolesc Psychopharmacol 2006 Jun;16(3):239-51,J Child Adolesc Psychopharmacol,2006,16,239,16768632,s1,,no_oa
+1008,BMC Pulm Med 2014 Nov 18;14:178,BMC Pulm Med,2014,14,178,25404569,s1,4273456,cached
+1009,J Infect Dev Ctries 2014;8(9): 1160–8,J Infect Dev Ctries,2014,8,1160,25212080,s1,,downloaded
+1010,"Clin Gastroenterol Hepatol 2009 Nov;7(11):1202-9, 1209e1",,,,,,unparsed_citation,,
+1011,Lancet Oncol 2013 Jul;14(8):697-710,Lancet Oncol,2013,14,697,23746666,s1,,no_oa
+1013,Clin Ther 2006 Feb;28(2):266-79,Clin Ther,2006,28,266,16678648,s1,,no_oa
+1014,Aliment Pharmacol Ther 2010 Oct;32(7):872-83,Aliment Pharmacol Ther,2010,32,872,20735782,s1,,no_oa
+1015,Arch Intern Med 1987 Oct;147(10):1760-2,Arch Intern Med,1987,147,1760,3310941,s1,,
+1016,Pediatrics 1996 Oct;98(4 Pt 1):748-56,,,,,,unparsed_citation,,
+1017,Pediatrics 2003 Nov;112(5):e404,,,,,,unparsed_citation,,
+1018,Drug Alcohol Depend 2013 Dec 1;133(2):486-93,Drug Alcohol Depend,2013,133,486,23953658,s1,3818400,no_open_pdf
+1019,Addict Behav 2011 Dec;36(12):1127-32,Addict Behav,2011,36,1127,21835552,s1,,no_oa
+1020,Thorax 2006 Feb;61(2):122-8,Thorax,2006,61,122,16443706,s1,2104567,cached
+1021,Pediatrics 2004 Mar;113(3 Pt 1):e206-16,,,,,,unparsed_citation,,
+1022,Lancet Oncol 2014 Jul;15(8):862-73,Lancet Oncol,2014,15,862,24928083,s1,,no_oa
+1023,Dig Endosc 2016 Jan;28(1):67-74,Dig Endosc,2016,28,67,26418574,s1,,no_oa
+1024,Drugs 2008;68(14):1975-2000,Drugs,2008,68,1975,18778120,s1,,no_oa
+1025,Chest 2011 Mar;139(3):591-599,Chest,2011,139,591,20864613,s1,,no_oa
+1026,Br Med J 1977 Aug 27;2(6086):552-4,Br Med J,1977,2,552,329949,s1,1631450,cached
+1027,PLoS ONE 2010;5(2): e9041,,,,,,unparsed_citation,,
+1028,N Engl J Med 2011;365(11):1004–13,N Engl J Med,2011,365,1004,21916638,s1,3242358,no_open_pdf
+1029,Drug Alcohol Depend 2010 Oct 1; 111(3): 200–206,Drug Alcohol Depend,2010,111,200,20542391,s1,3771701,no_open_pdf
+1030,Nicotine Tob Res 2013 Feb;15(2):419-27,Nicotine Tob Res,2013,15,419,23024246,s1,,no_oa
+1031,JAMA 2006 Jul 5;296(1):64-71,JAMA,2006,296,64,16820548,s1,,no_oa
+1032,Malawi Med J 2016 Sep;28(3):123-130,Malawi Med J,2016,28,123,27895846,s1,5117002,cached
+1033,Clin Ther 2007 Jun;29(6):1027-39,Clin Ther,2007,29,1027,17692719,s1,,no_oa
+1034,Am J Gastroenterol 2010 Oct;105(10):2218-27,Am J Gastroenterol,2010,105,2218,20517305,s1,3180711,cached
+1035,Alcohol Alcohol Sep-Oct 2013;48(5):570-8,Alcohol Alcohol,2013,48,570,23873853,s1,3746807,cached
+1036,Cancer 2016 Feb 15;122(4):574-81,Cancer,2016,122,574,26540314,s1,,no_oa
+1037,Pediatr Infect Dis J 2009;28(7):563–71,Pediatr Infect Dis J,2009,28,563,19561422,s1,,no_oa
+1038,N Engl J Med 2012 Jan 26;366(4):299-309,N Engl J Med,2012,366,299,22276820,s1,,no_oa
+1039,Br J Psychiatry 1997 Jun;170:549-53,Br J Psychiatry,1997,170,549,9330022,s1,,no_oa
+1040,Pediatrics 1986 Jun;77(6):795-800,Pediatrics,1986,77,795,3520469,s1,,
+1041,Respirology 2009 Apr;14(3):384-92,Respirology,2009,14,384,19192221,s1,,no_oa
+1042,Alcohol Clin Exp Res 2018 Jan;42(1):128-134,Alcohol Clin Exp Res,2018,42,128,29080351,s1,5750086,no_open_pdf
+1043,Lancet Oncol 2015 Apr;16(4):375-84,Lancet Oncol,2015,16,375,25795410,s1,,no_oa
+1046,Child Adolesc Psychiatry Ment Health 2009 Jun 9;3(1):17,Child Adolesc Psychiatry Ment Health,2009,3,17,19508731,s1,2704174,cached
+1047,Arch Pediatr Adolesc Med 2006 Jan;160(1):82-90,Arch Pediatr Adolesc Med,2006,160,82,16389216,s1,,no_oa
+1048,Curr Med Res Opin 2007 Apr;23(4):793-801,Curr Med Res Opin,2007,23,793,17407636,s1,,no_oa
+1049,J Clin Periodontol 1999 Jul;26(7):461-8,J Clin Periodontol,1999,26,461,10412851,s1,,no_oa
+1050,PLoS Clin Trials 2006;1(7):e32,,,,,,unparsed_citation,,
+1051,N Engl J Med 2017;377(14):1345–1356,N Engl J Med,2017,377,1345,28889792,s1,5706778,no_open_pdf
+1052,Pediatrics 2001 Oct;108(4):883-92,Pediatrics,2001,108,883,11581440,s1,,no_oa
+1053,Anesthesiology 2012 Oct;117(4):755-64,Anesthesiology,2012,117,755,22890119,s1,,no_oa
+1056,Acta Medica Mediterranea 29(3):539-544,,,,,,unparsed_citation,,
+1057,Neurology 2012 Feb 21;78(8):545-50,Neurology,2012,78,545,22323747,s1,,no_oa
+1058,J Clin Pharmacol 2011 Apr;51(4):492-501,J Clin Pharmacol,2011,51,492,20466870,s1,,no_oa
+1059,J Cardiovasc Med (Hagerstown) 2008 Jul;9(7):688-93,J Cardiovasc Med (Hagerstown),2008,9,688,18545068,s1,,no_oa
+1060,J Rheumatol 2006 Jan;33(1):37-44,J Rheumatol,2006,33,37,16395748,s1,,
+1061,Diabetes Care 2014 Aug;37(8):2141-8,Diabetes Care,2014,37,2141,24898304,s1,,no_oa
+1062,Lancet Oncol 2014 May;15(6):580-91,Lancet Oncol,2014,15,580,24742739,s1,,no_oa
+1063,Ann Rheum Dis 2005 Aug;64(8):1150-7,Ann Rheum Dis,2005,64,1150,15677701,s1,1755609,cached
+1064,Arthritis Rheum 2005 Apr;52(4):1227-36,Arthritis Rheum,2005,52,1227,15818699,s1,,no_oa
+1065,Diabetes Obes Metab 2013 Apr;15(4):364-71,Diabetes Obes Metab,2013,15,364,23163910,s1,,no_oa
+1066,Diabetes Obes Metab 2011 Feb;13(2):160-8,Diabetes Obes Metab,2011,13,160,21199268,s1,,no_oa
+1067,Diabetes Care 2013 May;36(5):1067-73,Diabetes Care,2013,36,1067,23248197,s1,3631833,cached
+1068,Am J Gastroenterol 2001 Oct;96(10):2849-57,Am J Gastroenterol,2001,96,2849,11695354,s1,,
+1069,Diabetes Obes Metab 2010 Mar;12(3):252-61,Diabetes Obes Metab,2010,12,252,20070351,s1,,no_oa
+1070,Lancet 2012 Jun 16;379(9833):2262-9,Lancet,2012,379,2262,22683131,s1,,no_oa
+1071,Lancet Oncol 2016 Sep;17(9):1248-60,Lancet Oncol,2016,17,1248,27480103,s1,,no_oa
+1072,J Clin Oncol 2012 Aug 1;30(22):2718-24,J Clin Oncol,2012,30,2718,22565002,s1,,no_oa
+1073,Diabetes Obes Metab 2012 Oct;14(10):951-9,Diabetes Obes Metab,2012,14,951,22776824,s1,,no_oa
+1074,J Ocul Pharmacol Ther 2011 Feb;27(1):17-21,J Ocul Pharmacol Ther,2011,27,17,20977367,s1,,no_oa
+1075,Ann Rheum Dis 2012 Apr;71(4):541-8,Ann Rheum Dis,2012,71,541,21994233,s1,3298666,cached
+1076,Arthritis Rheum 2009 Apr;60(4):946-54,Arthritis Rheum,2009,60,946,19333933,s1,,no_oa
+1077,Ann Rheum Dis 2010 Nov;69(11):1926-8,Ann Rheum Dis,2010,69,1926,20511615,s1,,no_oa
+1078,Lancet Diabetes Endocrinol 2014 May;2(5):369-84,Lancet Diabetes Endocrinol,2014,2,369,24795251,s1,,no_oa
+1079,Clin Drug Investig 2013 Oct;33(10):707-17,Clin Drug Investig,2013,33,707,23949898,s1,,no_oa
+1080,N Engl J Med 2012 Jan 12;366(2):109-19,N Engl J Med,2012,366,109,22149875,s1,5705202,no_open_pdf
+1081,Lancet 2012 Feb 18;379(9816):633-40,Lancet,2012,379,633,22257673,s1,5705192,no_open_pdf
+1082,N Engl J Med 2000;343:1586-93,N Engl J Med,2000,343,1586,11096165,s1,,no_oa
+1084,Arthritis Rheum 2008 Oct 15;59(10):1467-74,Arthritis Rheum,2008,59,1467,18821658,s1,,no_oa
+1085,Lancet Oncol 2012 Mar;13(3):292-9,Lancet Oncol,2012,13,292,22336221,s1,,no_oa
+1086,Curr Med Res Opin 2009 Jan;25(1):65-75,Curr Med Res Opin,2009,25,65,19210140,s1,,no_oa
+1087,Lancet 2010 Aug 7;376(9739):431-9,Lancet,2010,376,431,20580422,s1,,no_oa
+1088,Ann Oncol 2014 Feb;25(2):409-15,Ann Oncol,2014,25,409,24368400,s1,,no_oa
+1089,Aliment Pharmacol Ther 2005 Oct 1;22(7):635-43,Aliment Pharmacol Ther,2005,22,635,16181303,s1,,no_oa
+1090,Lancet 2013 Mar 9;381(9869):817-24,Lancet,2013,381,817,23312829,s1,,no_oa
+1091,Lancet 1997 Aug 2;350(9074):309-18,Lancet,1997,350,309,9251634,s1,,no_oa
+1092,J Clin Oncol 2009 Feb 10;27(5):663-71,J Clin Oncol,2009,27,663,19114683,s1,,no_oa
+1093,Diabetes Obes Metab 2014 Feb;16(2):159-69,Diabetes Obes Metab,2014,16,159,23906445,s1,,no_oa
+1094,Diabetes Obes Metab 2009 Jun;11(6):589-95,Diabetes Obes Metab,2009,11,589,19515179,s1,,no_oa
+1095,Ann Oncol 2015 Feb;26(2):325-32,Ann Oncol,2015,26,325,25467016,s1,4304382,cached
+1096,Diabetes Obes Metab 2009 May;11(5):506-15,Diabetes Obes Metab,2009,11,506,19320662,s1,,no_oa
+1097,Arthritis Rheum 2003 Jun;48(6):1667-75,Arthritis Rheum,2003,48,1667,12794835,s1,,no_oa
+1098,Lancet 2002 Apr 6;359(9313):1187-93,Lancet,2002,359,1187,11955536,s1,,no_oa
+1099,Arthritis Rheum 2008 Sep 15;59(9):1270-8,Arthritis Rheum,2008,59,1270,18759257,s1,,no_oa
+1100,Arthritis Rheum 2011 Jun;63(6):1543-51,Arthritis Rheum,2011,63,1543,21630245,s1,,no_oa
+1101,Arthritis Rheum 2006 Jan;54(1):26-37,Arthritis Rheum,2006,54,26,16385520,s1,,no_oa
+1102,Diabetes Care 2004 Nov;27(11):2628-35,Diabetes Care,2004,27,2628,15504997,s1,,no_oa
+1103,Ann Intern Med 2011 Jan 18;154(2):103-12,Ann Intern Med,2011,154,103,21138825,s1,,no_oa
+1104,Ann Rheum Dis 2004 Dec;63(12):1594-600,Ann Rheum Dis,2004,63,1594,15345498,s1,1754832,cached
+1105,Diabetes Care 2015 Jul;38(7):1218-27,Diabetes Care,2015,38,1218,25852208,s1,4831907,cached
+1106,Diab Vasc Dis Res 2011 Apr;8(2):150-9,Diab Vasc Dis Res,2011,8,150,21562067,s1,,no_oa
+1107,Am J Chin Med 2013;41(2):263-80,Am J Chin Med,2013,41,263,23548118,s1,,no_oa
+1108,Clin Rheumatol 2013 Jan;32(1):99-108,Clin Rheumatol,2013,32,99,23053688,s1,,no_oa
+1109,Rheumatology (Oxford) 2012 Jul;51(7):1226-34,Rheumatology (Oxford),2012,51,1226,22344576,s1,,no_oa
+1110,Arthritis Rheum 2001 Sep;44(9):1984-92,Arthritis Rheum,2001,44,1984,11592358,s1,,no_oa
+1111,Ann Rheum Dis 2009 Jul;68(7):1146-52,Ann Rheum Dis,2009,68,1146,18794178,s1,2689524,cached
+1112,N Engl J Med 2004; 351:337-345,N Engl J Med,2004,351,337,15269313,s1,,no_oa
+1113,Diabetes Obes Metab 2015 Feb;17(2):170-8,Diabetes Obes Metab,2015,17,170,25359159,s1,,no_oa
+1114,Diabetes Obes Metab 2009 Dec;11(12):1153-62,Diabetes Obes Metab,2009,11,1153,19930005,s1,2810445,cached
+1115,Arthritis Rheum 2003 Nov;48(11):3230-6,Arthritis Rheum,2003,48,3230,14613288,s1,,no_oa
+1116,Diabetes Care 2009 Sep;32(9):1649-55,Diabetes Care,2009,32,1649,19478198,s1,2732156,cached
+1117,Diabetes Obes Metab 2011 Mar;13(3):258-67,Diabetes Obes Metab,2011,13,258,21205122,s1,,no_oa
+1118,Diabetes Obes Metab 2014 Dec;16(12):1239-46,Diabetes Obes Metab,2014,16,1239,25132212,s1,,no_oa
+1119,Ann Rheum Dis 2013 Jun;72(6):844-50,Ann Rheum Dis,2013,72,844,22739990,s1,,no_oa
+1120,Diabetes Care 2014 Oct;37(10):2763-73,Diabetes Care,2014,37,2763,25011946,s1,,no_oa
+1121,Lancet Diabetes Endocrinol 2014 Jun;2(6):464-73,Lancet Diabetes Endocrinol,2014,2,464,24731672,s1,,no_oa
+1122,Ann Rheum Dis 1999;58:220-5,Ann Rheum Dis,1999,58,220,10364900,s1,1752864,cached
+1123,Ann Rheum Dis 2010 Aug;69(8):1430-5,Ann Rheum Dis,2010,69,1430,20511606,s1,,no_oa
+1124,Ann Rheum Dis 2011 May;70(5):799-804,Ann Rheum Dis,2011,70,799,21317434,s1,3070274,cached
+1125,Ann Rheum Dis 2013 Jan;72(1):43-50,Ann Rheum Dis,2013,72,43,22562983,s1,3551223,cached
+1126,Arthritis Rheumatol 2014 Aug;66(8):2091-102,Arthritis Rheumatol,2014,66,2091,24891317,s1,,no_oa
+1127,Lancet Oncol 2018 Oct;19(10):1315-1327,Lancet Oncol,2018,19,1315,30219628,s1,,no_oa
+1128,N Engl J Med 2016 Nov 10;375(19):1845-1855,N Engl J Med,2016,375,1845,27717298,s1,5648545,no_open_pdf
+1129,N Engl J Med 2015 Dec 3;373(23):2247-57,N Engl J Med,2015,373,2247,26630143,s1,,no_oa
+1130,Rheumatology (Oxford) 2000;39:655-65,Rheumatology (Oxford),2000,39,655,10888712,s1,,no_oa
+1131,Lancet 2008 Aug 2;372(9636):375-82,Lancet,2008,372,375,18635256,s1,,no_oa
+1132,Arthritis Rheum 2009 Aug;60(8):2272-83,Arthritis Rheum,2009,60,2272,19644849,s1,,no_oa
+1133,N Engl J Med 1995 Feb 2;332(5):292-7,N Engl J Med,1995,332,292,7816064,s1,,no_oa
+1134,N Engl J Med 2000 Jun 1;342(22):1627-32,N Engl J Med,2000,342,1627,10833208,s1,,no_oa
+1135,Gastroenterology 2014 Mar;146(3):681-688e1,Gastroenterology,2014,146,681,24269926,s1,,no_oa
+1136,Diabetes Obes Metab 2009 Feb;11(2):157-66,Diabetes Obes Metab,2009,11,157,19125777,s1,,no_oa
+1137,Diabetes Obes Metab 2013 Aug;15(8):721-8,Diabetes Obes Metab,2013,15,721,23398530,s1,,no_oa
+1139,Ann Rheum Dis 2009 Jun;68(6):805-11,Ann Rheum Dis,2009,68,805,19015206,s1,2674555,cached
+1140,Arthritis Rheum 2012 Mar;64(3):617-29,Arthritis Rheum,2012,64,617,21952978,s1,,no_oa
+1141,Am J Gastroenterol 2013 Jan;108(1):56-64,Am J Gastroenterol,2013,108,56,23147520,s1,,no_oa
+1142,Diabetes Obes Metab 2014 May;16(5):467-77,Diabetes Obes Metab,2014,16,467,24528605,s1,4237547,cached
+1143,Lancet 2013 Jan 12;381(9861):125-32,Lancet,2013,381,125,23158522,s1,,no_oa
+1144,Diabetol Metab Syndr 2012 Jul 24;4(1):36,Diabetol Metab Syndr,2012,4,36,22828124,s1,3541110,cached
+1145,J Am Acad Nurse Pract 2010 Dec;22(12):674-83,J Am Acad Nurse Pract,2010,22,674,21129076,s1,,no_oa
+1146,Lancet 2012 Jun 16;379(9833):2270-8,Lancet,2012,379,2270,22683137,s1,,no_oa
+1147,Lancet 2012 Aug 4;380(9840):475-83,Lancet,2012,380,475,22748821,s1,,no_oa
+1148,Diabetes Care 2011 Mar;34(3):604-6,Diabetes Care,2011,34,604,21285388,s1,3041190,cached
+1149,Diabetes Obes Metab 2011 Apr;13(4):348-56,Diabetes Obes Metab,2011,13,348,21205128,s1,3084519,cached
+1150,Breast Cancer Res Treat 2007 Mar;101(3):355-65,Breast Cancer Res Treat,2007,101,355,16850247,s1,,no_oa
+1151,Ann Rheum Dis 2003;62:291-6,Ann Rheum Dis,2003,62,291,12634224,s1,1754491,cached
+1152,Lancet 2010 Jan 30;375(9712):377-84,Lancet,2010,375,377,20113825,s1,,no_oa
+1153,Lancet Oncol 2012 Jan;13(1):25-32,Lancet Oncol,2012,13,25,22153890,s1,,no_oa
+1154,N Engl J Med 2002 May 2;346(18):1349-56,N Engl J Med,2002,346,1349,11986408,s1,,no_oa
+1155,Br J Dermatol 2012;167:649-57,Br J Dermatol,2012,167,649,22533447,s1,3504074,cached
+1156,J Thorac Oncol 2014 Jul;9(7):991-997,J Thorac Oncol,2014,9,991,24926544,s1,,no_oa
+1157,Br J Rheumatol 1997 Oct;36(10):1082-8,Br J Rheumatol,1997,36,1082,9374925,s1,,no_oa
+1158,Diabetes Obes Metab 2012 Jun;14(6):565-74,Diabetes Obes Metab,2012,14,565,22356132,s1,,no_oa
+1159,Diabetes Res Clin Pract 2015 Oct;110(1):82-90,Diabetes Res Clin Pract,2015,110,82,26324220,s1,,no_oa
+1160,Arthritis Rheum 2008 Jul;58(7):1981-91,Arthritis Rheum,2008,58,1981,18576337,s1,,no_oa
+1161,Ann Intern Med 2005 Oct 18;143(8):559-69,Ann Intern Med,2005,143,559,16230722,s1,,no_oa
+1162,J Thorac Oncol 2014 Feb;9(2):214-21,J Thorac Oncol,2014,9,214,24419419,s1,4284815,no_open_pdf
+1163,Diabetes Obes Metab 2014 Mar;16(3):223-30,Diabetes Obes Metab,2014,16,223,23909985,s1,,no_oa
+1164,N Engl J Med 2010 Aug 19;363(8):711-23,N Engl J Med,2010,363,711,20525992,s1,3549297,no_open_pdf
+1165,Diab Vasc Dis Res 2011 Apr;8(2):125-35,Diab Vasc Dis Res,2011,8,125,21562064,s1,,no_oa
+1166,Diabetes Obes Metab 2015 Feb;17(2):179-87,Diabetes Obes Metab,2015,17,179,25406730,s1,,no_oa
+1167,Arthritis Res Ther 2012 Oct 24;14(5):R230,,,,,,unparsed_citation,,
+1168,Aliment Pharmacol Ther 2009 Nov 1;30(9):895-907,Aliment Pharmacol Ther,2009,30,895,19681809,s1,,no_oa
+1169,Rheumatol Int 2009;29:297-303,Rheumatol Int,2009,29,297,18704426,s1,,no_oa
+1170,Ann Rheum Dis 2014 Mar;73(3):587-94,Ann Rheum Dis,2014,73,587,23475983,s1,,no_oa
+1171,N Engl J Med 2007 May 31;356(22):2271-81,N Engl J Med,2007,356,2271,17538086,s1,,no_oa
+1172,Eur J Cancer 2013 Jul;49(10):2284-93,Eur J Cancer,2013,49,2284,23541564,s1,,no_oa
+1173,Lancet Oncol 2015 Jul;16(7):816-29,Lancet Oncol,2015,16,816,26092818,s1,,no_oa
+1174,Korean J Ophthalmol 2015 Dec;29(6):375-81,Korean J Ophthalmol,2015,29,375,26635453,s1,4668252,cached
+1175,Clin Ther 2012 Sep;34(9):1892-908e1,Clin Ther,2012,34,1892,22884767,s1,,no_oa
+1176,Diabetes Obes Metab 2013 Sep;15(9):833-43,Diabetes Obes Metab,2013,15,833,23565760,s1,,no_oa
+1177,Diabetes Obes Metab 2013 Dec;15(12):1136-45,Diabetes Obes Metab,2013,15,1136,23782594,s1,3906835,cached
+1178,Cardiovasc Diabetol 2016 Jun 18;15:89,Cardiovasc Diabetol,2016,15,89,27316668,s1,4912792,cached
+1179,Arthritis Rheum 2008 Nov;58(11):3402-12,Arthritis Rheum,2008,58,3402,18975305,s1,,no_oa
+1180,Mod Rheumatol 2011;21:375-80,Mod Rheumatol,2011,21,375,21229373,s1,,no_oa
+1181,Diabetes Obes Metab 2016 Dec;18(12):1207-1216,Diabetes Obes Metab,2016,18,1207,27436788,s1,5484364,cached
+1182,Diabetes Care 2014;37(3):740-50,Diabetes Care,2014,37,740,24144654,s1,,no_oa
+1183,Reumatol Clin Sep-Oct 2012;8(5):243-9,Reumatol Clin,2012,8,243,22763150,s1,,no_oa
+1184,N Engl J Med 2006 Feb 23;354(8):809-20,N Engl J Med,2006,354,809,16495393,s1,,no_oa
+1185,Ann Rheum Dis 2010; 69(1):88-96,Ann Rheum Dis,2010,69,88,19297346,s1,3747519,cached
+1186,Adv Ther 2014 Jun;31(6):621-38,Adv Ther,2014,31,621,24958326,s1,,no_oa
+1187,Diabetes Obes Metab 2017 Jun;19(6):874-882,Diabetes Obes Metab,2017,19,874,28177187,s1,5484989,cached
+1188,Diabetes Obes Metab 2013 May;15(5):432-40,Diabetes Obes Metab,2013,15,432,23194084,s1,,no_oa
+1189,Diabetology International 2015; 6(1): 8-18,Diabetology International,2015,6,8,,unresolved,,
+1190,Diabetes Obes Metab 2015 Mar;17(3):304-8,Diabetes Obes Metab,2015,17,304,24919820,s1,4342773,cached
+1191,Diabetes Obes Metab 2015 Feb;17(2):152-60,Diabetes Obes Metab,2015,17,152,25347938,s1,5024052,cached
+1192,Arthritis Rheum 2009 Apr;60(4):976-86,Arthritis Rheum,2009,60,976,19333944,s1,,no_oa
+1193,Arthritis Rheum 2012 Aug;64(8):2504-17,Arthritis Rheum,2012,64,2504,22378566,s1,,no_oa
+1194,Ann Rheum Dis 2013 Jan;72(1):64-71,Ann Rheum Dis,2013,72,64,22562973,s1,3551224,cached
+1195,Clin Ther 2015 Aug;37(8):1773-88e1,Clin Ther,2015,37,1773,26138864,s1,,no_oa
+1196,Arthritis Rheum 2008 Apr;58(4):964-75,Arthritis Rheum,2008,58,964,18383539,s1,,no_oa
+1197,Arthritis Rheum 2004 May;50(5):1400-11,Arthritis Rheum,2004,50,1400,15146409,s1,,no_oa
+1198,Arthritis Rheum 2004 Feb;50(2):353-63,Arthritis Rheum,2004,50,353,14872476,s1,,no_oa
+1199,Ann Rheum Dis 2009 Jun;68(6):789-96,Ann Rheum Dis,2009,68,789,19066176,s1,2674549,cached
+1200,Ann Rheum Dis 2010 Jun;69(6):1129-35,Ann Rheum Dis,2010,69,1129,20444749,s1,,no_oa
+1201,Am J Respir Crit Care Med 2010 May 15;181(10):1042-8,Am J Respir Crit Care Med,2010,181,1042,20110554,s1,,no_oa
+1202,APLAR Journal of Rheumatology 2007; 10(1): 9-16,APLAR Journal of Rheumatology,2007,10,9,,unresolved,,
+1203,Rheumatology (Oxford) 2012;51:1368-77,Rheumatology (Oxford),2012,51,1368,22344575,s1,3397466,cached
+1204,Lancet 2004 Feb 28;363(9410):675-81,Lancet,2004,363,675,15001324,s1,,no_oa
+1205,Ann Intern Med 2002 Nov 5;137(9):726-33,Ann Intern Med,2002,137,726,12416946,s1,,no_oa
+1206,Arthritis Rheum 2010 Apr;62(4):917-28,Arthritis Rheum,2010,62,917,20131276,s1,,no_oa
+1207,Diabetes Care 2015 Feb;38(2):e15-7,,,,,,unparsed_citation,,
+1208,N Engl J Med 2015; 373:23-34,N Engl J Med,2015,373,23,26027431,s1,5698905,no_open_pdf
+1209,Diabetes Obes Metab 2013 Sep;15(9):853-62,Diabetes Obes Metab,2013,15,853,23668478,s1,3906841,cached
+1210,Ann Rheum Dis 2014 Jan;73(1):39-47,Ann Rheum Dis,2014,73,39,24013647,s1,3888598,downloaded
+1211,N Engl J Med 2015 Jul 2;373(1):23-34,N Engl J Med,2015,373,23,26027431,s1,5698905,no_open_pdf
+1212,Diabetologia 2013 Dec;56(12):2582-92,Diabetologia,2013,56,2582,24026211,s1,3825495,cached
+1213,Eur J Cancer 2013 Oct;49(15):3111-21,Eur J Cancer,2013,49,3111,23890768,s1,,no_oa
+1214,Ann Rheum Dis 2013 Jun;72(6):851-7,Ann Rheum Dis,2013,72,851,22753402,s1,,no_oa
+1215,Rheumatology (Oxford) 2000;39:316-20,Rheumatology (Oxford),2000,39,316,10788542,s1,,no_oa
+1216,N Engl J Med 2000 Nov 30;343(22):1594-602,N Engl J Med,2000,343,1594,11096166,s1,,no_oa
+1218,Ann Oncol 2017 Jul 1;28(7):1631-1639,Ann Oncol,2017,28,1631,28475671,s1,5834102,cached
+1220,Gut 2008 Sep;57(9):1207-13,Gut,2008,57,1207,18469091,s1,2565581,cached
+1221,Clin Gastroenterol Hepatol 2009 Dec;7(12):1292-8; quiz 1260,,,,,,unparsed_citation,,
+1222,Arthritis Rheum 2004 Apr;50(4):1051-65,Arthritis Rheum,2004,50,1051,15077287,s1,,no_oa
+1223,Ann Rheum Dis 2005 Nov;64(11):1568-75,Ann Rheum Dis,2005,64,1568,15829577,s1,1755262,cached
+1224,Diabetes Obes Metab 2016 Nov;18(11):1134-1137,Diabetes Obes Metab,2016,18,1134,27385192,s1,,no_oa
+1225,Diabetes Obes Metab 2015 Nov;17(11):1075-84,Diabetes Obes Metab,2015,17,1075,26212528,s1,,no_oa
+1226,Arthritis Rheum 2004 Jul;50(7):2264-72,Arthritis Rheum,2004,50,2264,15248226,s1,,no_oa
+1227,Arthritis Rheum 2005 Oct;52(10):3279-89,Arthritis Rheum,2005,52,3279,16200601,s1,,no_oa
+1228,Ann Rheum Dis 2014 Jan;73(1):48-55,Ann Rheum Dis,2014,73,48,23942868,s1,3888622,cached
+1229,Diabet Med 2015 Dec;32(12):1555-67,Diabet Med,2015,32,1555,26031566,s1,,no_oa
+1230,Mod Rheumatol 2008;18(3):252-62,Mod Rheumatol,2008,18,252,18330677,s1,2668560,cached
+1231,Arthritis Rheum 1995 Nov;38(11):1595-603,Arthritis Rheum,1995,38,1595,7488280,s1,,no_oa
+1232,N Engl J Med 2016 Nov 3;375(18):1738-1748,N Engl J Med,2016,375,1738,27717303,s1,,no_oa
+1233,Cancer 2010 Sep 15;116(18):4256-65,Cancer,2010,116,4256,20549832,s1,,no_oa
+1234,BMC Cancer 2012 Sep 24;12:423,BMC Cancer,2012,12,423,23006447,s1,3477017,cached
+1235,Diabetologia 2007 Feb;50(2):259-67,Diabetologia,2007,50,259,17160407,s1,,no_oa
+1236,Diabetes Care 2009 Jan;32(1):84-90,Diabetes Care,2009,32,84,18931095,s1,2606836,cached
+1252,Diabetes Care 2015 Mar;38(3):403-11,Diabetes Care,2015,38,403,25468945,s1,,no_oa
+1253,N Engl J Med 1996 May 16;334(20):1287-91,N Engl J Med,1996,334,1287,8609945,s1,,no_oa
+1254,Diabet Med 2011 Nov;28(11):1352-61,Diabet Med,2011,28,1352,21781152,s1,,no_oa
+1255,Cornea 2013 Jun;32(6):835-8,Cornea,2013,32,835,23187164,s1,,no_oa
+1256,Breast Cancer Res Treat 2020 Sep;183(2):419-428,Breast Cancer Res Treat,2020,183,419,32683565,s1,7383036,cached
+1257,N Engl J Med 2016 Nov 17;375(20):1925-1936,N Engl J Med,2016,375,1925,27959613,s1,,no_oa
+1258,Lancet Oncol 2016 Apr;17(4):425-439,Lancet Oncol,2016,17,425,26947331,s1,,no_oa
+1259,Diabetes Metab Res Rev 2012 Mar;28(3):268-75,Diabetes Metab Res Rev,2012,28,268,22081481,s1,,no_oa
+1260,Lancet 2011 Dec 10;378(9808):2005-2012,Lancet,2011,378,2005,22119496,s1,,no_oa
+1261,Aliment Pharmacol Ther 2013 Nov;38(10):1303-11,Aliment Pharmacol Ther,2013,38,1303,24118079,s1,,no_oa
+1262,Diabetes Obes Metab 2011 Jun;13(6):567-76,Diabetes Obes Metab,2011,13,567,21342412,s1,,no_oa
+1263,Diabetes Obes Metab 2013 Aug;15(8):760-6,Diabetes Obes Metab,2013,15,760,23577643,s1,3799217,cached
+1264,N Engl J Med 2005 Oct 20;353(16):1659-72,N Engl J Med,2005,353,1659,16236737,s1,,no_oa
+1265,Breast Cancer Res Treat 2010 Jul;122(2):429-37,Breast Cancer Res Treat,2010,122,429,20480225,s1,,no_oa
+1266,Diabetes Obes Metab 2013 Nov;15(11):1000-7,Diabetes Obes Metab,2013,15,1000,23627775,s1,,no_oa
+1267,Diabetes Obes Metab 2014 Jul;16(7):613-21,Diabetes Obes Metab,2014,16,613,24400655,s1,,no_oa
+1268,Clin Breast Cancer 2013 Dec;13(6):421-432e8,Clin Breast Cancer,2013,13,421,24267730,s1,,no_oa
+1269,Br J Rheumatol 1997;36:345-52,Br J Rheumatol,1997,36,345,9133967,s1,,no_oa
+1270,Diabetes Obes Metab 2011 Jul;13(7):644-52,Diabetes Obes Metab,2011,13,644,21410627,s1,,no_oa
+1271,Ann Oncol 2013 Jan;24(1):75-83,Ann Oncol,2013,24,75,22858559,s1,,no_oa
+1272,N Engl J Med 2011 Oct 27;365(17):1586-96,N Engl J Med,2011,365,1586,22029980,s1,,no_oa
+1273,Diabetes Obes Metab 2014 Dec;16(12):1257-64,Diabetes Obes Metab,2014,16,1257,25155146,s1,,no_oa
+1275,Arch Intern Med 2000 Jun 26;160(12):1810-6,Arch Intern Med,2000,160,1810,10871975,s1,,no_oa
+1276,Diabetes Care 2013 Sep;36(9):2489-96,Diabetes Care,2013,36,2489,23628617,s1,3747925,cached
+1277,Lancet 2017 Jan 21;389(10066):255-265,Lancet,2017,389,255,27979383,s1,6886121,no_open_pdf
+1278,N Engl J Med 2011 Jun 30;364(26):2517-26,N Engl J Med,2011,364,2517,21639810,s1,,no_oa
+1280,N Engl J Med 2015 Jun 25;372(26):2521-32,N Engl J Med,2015,372,2521,25891173,s1,,no_oa
+1282,Diabetes Obes Metab 2016 Aug;18(8):812-9,Diabetes Obes Metab,2016,18,812,27160639,s1,5089595,cached
+1283,Lancet Diabetes Endocrinol 2013 Nov;1(3):208-19,Lancet Diabetes Endocrinol,2013,1,208,24622369,s1,,no_oa
+1284,Cardiovasc Diabetol 2015 Dec 23;14:154,Cardiovasc Diabetol,2015,14,154,26701110,s1,4690334,cached
+1285,Diabetes Obes Metab 2009 Jun;11(6):571-8,Diabetes Obes Metab,2009,11,571,19383032,s1,,no_oa
+1286,J Diabetes Complications May-Jun 2014;28(3):386-92,J Diabetes Complications,2014,28,386,24650952,s1,,no_oa
+1287,Diabetes Obes Metab 2009 Dec;11(12):1145-52,Diabetes Obes Metab,2009,11,1145,19758359,s1,,no_oa
+1288,Diabetes Care 2014 Aug;37(8):2317-25,Diabetes Care,2014,37,2317,24898300,s1,,no_oa
+1289,Diabetes Care 2010 Nov;33(11):2406-8,Diabetes Care,2010,33,2406,20724648,s1,2963503,cached
+1290,Diabetes Care 2012 Jul;35(7):1473-8,Diabetes Care,2012,35,1473,22446170,s1,3379599,cached
+1291,Diabetes Obes Metab 2013 Oct;15(10):906-14,Diabetes Obes Metab,2013,15,906,23531118,s1,,no_oa
+1292,Diabetes Obes Metab 2013 Dec;15(12):1154-60,Diabetes Obes Metab,2013,15,1154,23906374,s1,,no_oa
+1293,Diabetes Care 2014 Jul;37(7):1815-23,Diabetes Care,2014,37,1815,24929430,s1,,no_oa
+1294,Diabetes Obes Metab 2015 Oct;17(10):936-48,Diabetes Obes Metab,2015,17,936,26040302,s1,5034797,cached
+1295,Diabetes Obes Metab 2015 Jul;17(7):699-702,Diabetes Obes Metab,2015,17,699,25827441,s1,,no_oa
+1296,Diabetes Care 2012 Feb;35(2):252-8,Diabetes Care,2012,35,252,22210563,s1,3263915,cached
+1297,Br J Dermatol 2008 Mar;158(3):558-66,Br J Dermatol,2008,158,558,18047523,s1,,no_oa
+1298,Lung Cancer 2010 Jun;68(3):420-6,Lung Cancer,2010,68,420,19692142,s1,,no_oa
+1299,Diabetes Care 2013 Sep;36(9):2508-15,Diabetes Care,2013,36,2508,23564919,s1,3747923,downloaded
+1300,Diabetes Obes Metab 2015 Jul;17(7):630-8,Diabetes Obes Metab,2015,17,630,25761977,s1,,no_oa
+1301,Ann Rheum Dis 2008 Aug;67(8):1096-103,Ann Rheum Dis,2008,67,1096,18055472,s1,2564802,cached
+1302,Diabetes Obes Metab 2015 Jan;17(1):42-51,Diabetes Obes Metab,2015,17,42,25200570,s1,,no_oa
+1303,Diabet Med 2007 Sep;24(9):955-61,Diabet Med,2007,24,955,17509069,s1,,no_oa
+1304,Diabetes Obes Metab 2009 Aug;11(8):804-12,Diabetes Obes Metab,2009,11,804,19476473,s1,,no_oa
+1305,N Engl J Med 2013 Oct 3;369(14):1317-26,N Engl J Med,2013,369,1317,23992601,s1,,no_oa
+1306,Curr Med Res Opin 2010 May;26(5):1013-22,Curr Med Res Opin,2010,26,1013,20199137,s1,,no_oa
+1307,Diabetes Obes Metab 2012 Oct;14(10):910-7,Diabetes Obes Metab,2012,14,910,22564709,s1,3466411,cached
+1308,Ann Rheum Dis 2013 Jun;72(6):815-22,Ann Rheum Dis,2013,72,815,22772328,s1,3664374,cached
+1309,Ann Rheum Dis 2014 Jan;73(1):101-7,Ann Rheum Dis,2014,73,101,23696633,s1,3888606,cached
+1310,Ann Rheum Dis 2014 Jan;73(1):108-13 (101-7那一篇的延续),,,,,,unparsed_citation,,
+1311,Indian J Ophthalmol 2015 Oct;63(10):779-84,Indian J Ophthalmol,2015,63,779,26655003,s1,4728977,downloaded
+1312,N Engl J Med 2001 Mar 15;344(11):783-92,N Engl J Med,2001,344,783,11248153,s1,,no_oa
+1313,N Engl J Med 2011 Oct 6;365(14):1273-83,N Engl J Med,2011,365,1273,21991949,s1,3268553,no_open_pdf
+1314,Lancet 1999 Jan 23;353(9149):259-66,Lancet,1999,353,259,9929017,s1,,no_oa
+1315,Ann Rheum Dis 2009 Jun;68(6):797-804,Ann Rheum Dis,2009,68,797,19015207,s1,2674556,cached
+1316,Lancet 2009 Jul 18;374(9685):210-21,Lancet,2009,374,210,19560810,s1,,no_oa
+1317,Lancet 2013 Mar 16;381(9870):918-29,Lancet,2013,381,918,23332236,s1,,no_oa
+1318,J Clin Oncol 2008 May 10;26(14):2311-9,J Clin Oncol,2008,26,2311,18390971,s1,,no_oa
+1319,Arthritis Rheum 2004 Nov;50(11):3432-43,Arthritis Rheum,2004,50,3432,15529377,s1,,no_oa
+1320,Curr Med Res Opin 2014 Feb;30(2):163-75,Curr Med Res Opin,2014,30,163,24073995,s1,,no_oa
+1321,Lancet 2013 Aug 3;382(9890):409-416,Lancet,2013,382,409,23706759,s1,,no_oa
+1322,Diabetes Ther 2014 Jun;5(1):267-83,Diabetes Ther,2014,5,267,24920277,s1,4065289,cached
+1324,N Engl J Med 2015 Feb 19;372(8):724-34,N Engl J Med,2015,372,724,25693012,s1,5584549,no_open_pdf
+1325,Ann Rheum Dis 2013 Sep 1;72(9):1488-95,Ann Rheum Dis,2013,72,1488,22984173,s1,3756456,cached
+1326,Mod Rheumatol 2013 Jul;23(4):623-33,Mod Rheumatol,2013,23,623,23011358,s1,,no_oa
+1327,Ann Rheum Dis 2014 Mar;73(3):536-43,Ann Rheum Dis,2014,73,536,23316080,s1,4151516,cached
+1328,Aliment Pharmacol Ther 2001 Mar;15(3):347-54,Aliment Pharmacol Ther,2001,15,347,11207509,s1,,no_oa
+1329,Ann Rheum Dis 2012 Jun;71(6):817-24,Ann Rheum Dis,2012,71,817,22121129,s1,3372319,cached
+1330,Diabetes Obes Metab 2011 Jan;13(1):65-74,Diabetes Obes Metab,2011,13,65,21114605,s1,,no_oa
+1331,N Engl J Med 2015 Jul 16;373(3):232-42,N Engl J Med,2015,373,232,26052984,s1,,no_oa
+1332,Dig Dis Sci 2010 May;55(5):1325-36,Dig Dis Sci,2010,55,1325,19582579,s1,2862958,cached
+1333,Expert Opin Pharmacother 2012 Dec;13(17):2443-52,Expert Opin Pharmacother,2012,13,2443,23134211,s1,,no_oa
+1334,Diabetes Care 2015 Mar;38(3):420-8,Diabetes Care,2015,38,420,25271206,s1,,no_oa
+1335,N Engl J Med 2009; 360:1408-1417,N Engl J Med,2009,360,1408,19339720,s1,,no_oa
+1336,Ann Rheum Dis 2003 Dec;62(12):1168-77,Ann Rheum Dis,2003,62,1168,14644854,s1,1754401,cached
+1337,Ann Rheum Dis 2004 May;63(5):508-16,Ann Rheum Dis,2004,63,508,15082480,s1,1755008,cached
+1338,Arthritis Rheum 2002 Mar;46(3):755-65,Arthritis Rheum,2002,46,755,11920412,s1,,no_oa
+1339,Arthritis Rheum 2005 Feb;52(2):582-91,Arthritis Rheum,2005,52,582,15692973,s1,,no_oa
+1340,Arthritis Rheum 2006 Jul;54(7):2136-46,Arthritis Rheum,2006,54,2136,16802350,s1,,no_oa
+1341,Ann Rheum Dis 2006 Dec;65(12):1572-7,Ann Rheum Dis,2006,65,1572,16968715,s1,1798458,cached
+1342,Arthritis Rheum 2007 Dec;56(12):3928-39,Arthritis Rheum,2007,56,3928,18050208,s1,,no_oa
+1343,Ann Rheum Dis 2008 Feb;67(2):182-8,Ann Rheum Dis,2008,67,182,17728331,s1,,no_oa
+1344,Arthritis Rheum 2011 Jul;63(7):1782-92,Arthritis Rheum,2011,63,1782,21452294,s1,,no_oa
+1345,N Engl J Med 2012 Aug 9;367(6):508-19,N Engl J Med,2012,367,508,22873531,s1,,no_oa
+1346,Br J Ophthalmol 2014 Jan;98(1):73-8,Br J Ophthalmol,2014,98,73,24158846,s1,,no_oa
+1347,Scand J Gastroenterol 1997 Oct;32(10):965-73,Scand J Gastroenterol,1997,32,965,9361167,s1,,no_oa
+1348,Diabetes Obes Metab 2010 Feb;12(2):167-77,Diabetes Obes Metab,2010,12,167,20092585,s1,,no_oa
+1349,Blood Press 2016;25(2):93-103,Blood Press,2016,25,93,26623980,s1,,no_oa
+1350,Arthritis Res Ther 2009;11(6):R180,,,,,,unparsed_citation,,
+1351,Arthritis Rheum 1990 Mar;33(3):330-8,Arthritis Rheum,1990,33,330,2180405,s1,,no_oa
+1352,N Engl J Med 1999 Jan 28;340(4):253-9,N Engl J Med,1999,340,253,9920948,s1,,no_oa
+1353,Arthritis Rheum 2003 Jan;48(1):35-45,Arthritis Rheum,2003,48,35,12528101,s1,,no_oa
+1354,Rheumatology (Oxford) 2012 Dec;51(12):2204-14,Rheumatology (Oxford),2012,51,2204,22923753,s1,,no_oa
+1355,Ann Rheum Dis 2013 Mar;72(3):381-9,Ann Rheum Dis,2013,72,381,22661646,s1,,downloaded
+1356,Clin Ther 2003 Jun;25(6):1700-21,Clin Ther,2003,25,1700,12860493,s1,,no_oa
+1357,Rheumatology (Oxford) 2007 Jul;46(7):1122-5,Rheumatology (Oxford),2007,46,1122,17470434,s1,,no_oa
+1358,Diabetologia 2014 Dec;57(12):2475-84,Diabetologia,2014,57,2475,25208756,s1,,downloaded
+1359,Arthritis Rheu 2006 Apr;54(4):1075-86,Arthritis Rheu,2006,54,1075,,unresolved,,
+1361,N Engl J Med 2013 Oct 3;369(14):1327-35,N Engl J Med,2013,369,1327,23992602,s1,,no_oa
+1362,Diabetes Obes Metab 2013 May;15(5):403-9,Diabetes Obes Metab,2013,15,403,23163880,s1,,no_oa
+1363,Diabetes Obes Metab 2010 May;12(5):442-51,Diabetes Obes Metab,2010,12,442,20415693,s1,,no_oa
+1364,Arthritis Rheum 1992 Mar;35(3):259-69,Arthritis Rheum,1992,35,259,1536666,s1,,no_oa
+1365,Arthritis Rheum 1992 Aug;35(8):849-56,Arthritis Rheum,1992,35,849,1642652,s1,,no_oa
+1366,Diabetes Obes Metab 2014 Oct;16(10):1016-27,Diabetes Obes Metab,2014,16,1016,24965700,s1,,no_oa
+1367,Diabetes Res Clin Pract 2011 Nov;94(2):217-24,Diabetes Res Clin Pract,2011,94,217,21871686,s1,,no_oa
+1368,J Diabetes 2012 Sep;4(3):227-37,J Diabetes,2012,4,227,22672586,s1,,no_oa
+1369,N Engl J Med 2011 Feb 10;364(6):514-23,N Engl J Med,2011,364,514,21306238,s1,4208619,no_open_pdf
+1370,Adv Ther 2013 Oct;30(10):870-84,Adv Ther,2013,30,870,24158787,s1,3898123,cached
+1371,J Clin Oncol 2013 Jun 1;31(16):1931-8,J Clin Oncol,2013,31,1931,23569301,s1,,no_oa
+1372,Diabetes Care 2013 Dec;36(12):3875-81,Diabetes Care,2013,36,3875,24062327,s1,3836100,cached
+1373,Int J Clin Pract 2011 Feb;65(2):154-64,Int J Clin Pract,2011,65,154,21235696,s1,,no_oa
+1374,Diabetes Obes Metab 2012 Aug;14(8):745-52,Diabetes Obes Metab,2012,14,745,22405352,s1,,no_oa
+1376,Arthritis Rheum 2008 Jul 15;59(7):905-10,Arthritis Rheum,2008,59,905,18576295,s1,,no_oa
+1377,J Clin Pharmacol 2007 Mar;47(3):383-96,J Clin Pharmacol,2007,47,383,17322150,s1,,no_oa
+1378,JAMA 2014 Jul 2;312(1):57-67,JAMA,2014,312,57,25058218,s1,,no_oa
+1379,N Engl J Med 2015 Nov 26;373(22):2117-28,N Engl J Med,2015,373,2117,26378978,s1,,no_oa
+1395,Transl Psychiatry 2016 Aug 23;6(8):e872,,,,,,unparsed_citation,,
+1396,Thromb Res 2012 Sep;130(3):e52-9,,,,,,unparsed_citation,,
+1397,Thromb Haemost 2011 Apr;105(4):721-9,Thromb Haemost,2011,105,721,21225098,s1,,no_oa
+1399,Thorax 2006 Apr;61(4):306-12,Thorax,2006,61,306,16449264,s1,2104614,cached
+1400,"Thorax, 2006, 61: 895-902",Thorax,2006,61,895,16809416,s1,2104771,cached
+1401,Ther Adv Neurol Disord 2017 Sep;10(9):315-325,Ther Adv Neurol Disord,2017,10,315,28861121,s1,5557184,cached
+1402,"Surg Endosc, 2014, 28: 1641-7",Surg Endosc,2014,28,1641,24380989,s1,,no_oa
+1403,Support Care Cancer 2014 Mar;22(3):679-87,Support Care Cancer,2014,22,679,24162260,s1,,no_oa
+1404,Support Care Cancer 2011 Jan;19(1):19-26,Support Care Cancer,2011,19,19,19956980,s1,,no_oa
+1406,Semin Arthritis Rheum 2009 Dec;39(3):203-12,Semin Arthritis Rheum,2009,39,203,19932833,s1,,no_oa
+1407,"Semin Arthritis Rheum, 2009, 39: 1-9",Semin Arthritis Rheum,2009,39,1,19539353,s1,,no_oa
+1408,Sci Transl Med 2010 Oct 6;2(52):52ra72,,,,,,unparsed_citation,,
+1409,Schizophr Res 2015 Feb;161(2-3):421-8,,,,,,unparsed_citation,,
+1410,Scand J Rheumatol 2018 Jul;47(4):276-281,Scand J Rheumatol,2018,47,276,29458278,s1,,no_oa
+1411,Scand J Rheumatol 2012 Aug;41(4):260-6,Scand J Rheumatol,2012,41,260,22803768,s1,,no_oa
+1412,Scand J Rheumatol 1997;26(4):287-92,Scand J Rheumatol,1997,26,287,9310109,s1,,no_oa
+1413,"Scand J Rheumatol, 2008, 37: 142-50",Scand J Rheumatol,2008,37,142,18415773,s1,,no_oa
+1414,"Scand J Rheumatol, 2001, 30: 242-7",Scand J Rheumatol,2001,30,242,11578021,s1,,no_oa
+1415,Scand J Infect Dis 2004;36(11-12):811-6,,,,,,unparsed_citation,,
+1416,Rheumatology (Oxford) 2016 Jan;55(1):49-55,Rheumatology (Oxford),2016,55,49,26268815,s1,,no_oa
+1417,Rheumatology (Oxford) 2013 Jul;52(7):1303-12,Rheumatology (Oxford),2013,52,1303,23542612,s1,,no_oa
+1418,"Rheumatology (Oxford), 2007, 46: 496-507",Rheumatology (Oxford),2007,46,496,16936327,s1,,no_oa
+1421,Rev Diabet Stud Fall 2010;7(3):225-32,Rev Diabet Stud Fall,2010,7,225,,unresolved,,
+1422,Resuscitation 1988;16 Suppl:S91-8,,,,,,unparsed_citation,,
+1423,Respirology 2014 Nov;19(8):1178-82,Respirology,2014,19,1178,25183304,s1,,no_oa
+1424,Respirology 2013 Jul;18(5):866-73,Respirology,2013,18,866,23551359,s1,,no_oa
+1425,Respir Res 2013 Nov 14;14(1):125,Respir Res,2013,14,125,24229360,s1,3835397,cached
+1426,Respir Med 2017 Nov;132:31-41,Respir Med,2017,132,31,29229103,s1,,no_oa
+1427,Respir Med 2012 Feb;106(2):257-68,Respir Med,2012,106,257,22033040,s1,,no_oa
+1428,Respir Med 2010 Apr;104(4):510-7,Respir Med,2010,104,510,19944581,s1,,no_oa
+1429,Respir Med 2008 May;102(5):665-73,Respir Med,2008,102,665,18328683,s1,,no_oa
+1430,Respir Med 2008 Aug;102(8):1124-31,Respir Med,2008,102,1124,18606533,s1,,no_oa
+1431,Respir Med 2008 Apr;102(4):495-504 And: wwwgsk-clinicalstudyregistercom/study/SAS30022study&#rs,,,,,,unparsed_citation,,
+1432,Respir Med 2006 Jan;100(1):2-10,Respir Med,2006,100,2,16243498,s1,,no_oa
+1433,Respir Med 2004 Oct;98(10):1008-15,Respir Med,2004,98,1008,15481278,s1,,no_oa
+1434,Respir Med 2003 May;97(5):555-62,Respir Med,2003,97,555,12735675,s1,,no_oa
+1435,Respir Med 2001 Feb;95(2):136-46,Respir Med,2001,95,136,11217910,s1,,no_oa
+1436,Respir Med 1999 Dec;93(12):876-84,Respir Med,1999,93,876,10653049,s1,,no_oa
+1437,Radiother Oncol 2014 Jan;110(1):126-31,Radiother Oncol,2014,110,126,24225233,s1,,no_oa
+1438,Radiat Oncol 2015; 10: 10,Radiat Oncol,2015,10,10,25572571,s1,4311504,cached
+1439,Pulmonary Pharmacology and Therapeutics 2013;26:189-94,Pulmonary Pharmacology and Therapeutics,2013,26,189,23123925,s1,,no_oa
+1440,Psychosomatics 1975;16(1):32-6,Psychosomatics,1975,16,32,1178806,s1,,no_oa
+1441,"Prostate, 2016, 76: 1519-1527",Prostate,2016,76,1519,27457964,s1,,downloaded
+1442,Prostate Cancer Prostatic Dis 2012 Mar;15(1):87-92,Prostate Cancer Prostatic Dis,2012,15,87,22006050,s1,4312616,no_open_pdf
+1444,Postgrad Med 2016 May;128(4):371-80,Postgrad Med,2016,128,371,27002421,s1,,no_oa
+1445,Postgrad Med 2009 Mar;121(2):5-14,Postgrad Med,2009,121,5,19332958,s3,,no_oa
+1446,"Postgrad Med, 2011, 123: 220-7",Postgrad Med,2011,123,220,21904105,s1,,no_oa
+1447,PLoS One 2013;8(3):e60094,,,,,,unparsed_citation,,
+1448,"PLoS One, 2017, 12: e0182411",,,,,,unparsed_citation,,
+1449,"PLoS Med, 2009, 6: e1000191",,,,,,unparsed_citation,,
+1450,PLoS Clin Trials 2006 Jun;1(2):e11,,,,,,unparsed_citation,,
+1451,"Plast Reconstr Surg, 2009, 124: 1619-1629",Plast Reconstr Surg,2009,124,1619,19584772,s1,,no_oa
+1452,"Plast Reconstr Surg, 2003, 112: 1089-98",Plast Reconstr Surg,2003,112,1089,12973229,s1,,no_oa
+1453,Phys Sportsmed 2010 Jun;38(2):19-28,Phys Sportsmed,2010,38,19,20631460,s3,,no_oa
+1454,Pharmacotherapy 2006 Oct;26(10):1388-95,Pharmacotherapy,2006,26,1388,16999648,s1,,no_oa
+1455,"Pediatrics, 2011, 128: e1496-501",,,,,,unparsed_citation,,
+1456,"Pediatrics, 2006, 117: 1702-5",Pediatrics,2006,117,1702,16651327,s1,,no_oa
+1457,"Pediatrics, 1999, 104: e42",,,,,,unparsed_citation,,
+1458,"Pediatr Pulmonol, 2011, 46: 111-8",Pediatr Pulmonol,2011,46,111,20963840,s1,,no_oa
+1459,"Pediatr Dent, 2017, 39: 39-45",Pediatr Dent,2017,39,39,28292340,s1,,
+1460,"Palliat Med, 2012, 26: 50-60",Palliat Med,2012,26,50,21937568,s1,3255516,cached
+1461,Pak J Med Sci 2013 Nov;29(6):1381-4,Pak J Med Sci,2013,29,1381,24550958,s1,3905367,cached
+1462,"Pain, 1997, 73: 37-45",Pain,1997,73,37,9414055,s1,,no_oa
+1463,Pain Physician Nov-Dec 2013;16(6):E749-62,,,,,,unparsed_citation,,
+1464,Osteoporos Int 2009 Aug;20(8):1429-37,Osteoporos Int,2009,20,1429,19101754,s1,2708326,cached
+1465,Osteoporos Int 2006;17(5):716-23,Osteoporos Int,2006,17,716,16463007,s1,,no_oa
+1466,Osteoporos Int 2003 May;14(3):225-34,Osteoporos Int,2003,14,225,12730746,s1,,no_oa
+1467,Osteoporos Int 2000;11(1):83-91,Osteoporos Int,2000,11,83,10663363,s1,,no_oa
+1468,Osteoporos Int 1999;9(5):461-8,Osteoporos Int,1999,9,461,10550467,s1,,no_oa
+1469,Osteoporos Int 1993;3 Suppl 3:S21-7,,,,,,unparsed_citation,,
+1470,"Osteoarthritis Cartilage, 2013, 21: 22-7",Osteoarthritis Cartilage,2013,21,22,23059756,s1,,no_oa
+1471,"Osteoarthritis Cartilage, 2012, 20: 350-356",Osteoarthritis Cartilage,2012,20,350,22342928,s1,,no_oa
+1472,"Osteoarthritis Cartilage, 2009, 17: 152-60",Osteoarthritis Cartilage,2009,17,152,18674932,s1,,no_oa
+1473,"Osteoarthritis Cartilage, 2004, 12: 642-9",Osteoarthritis Cartilage,2004,12,642,15262244,s1,,no_oa
+1474,"Osteoarthritis Cartilage, 2004, 12: 269-76",Osteoarthritis Cartilage,2004,12,269,15023378,s1,,no_oa
+1475,"Osteoarthritis Cartilage, 1998, null: 39-46",,,,,,unparsed_citation,,
+1476,"Osteoarthritis Cartilage, 1998, null: 31-6",,,,,,unparsed_citation,,
+1477,"Osteoarthritis Cartilage, 1998, null: 25-30",,,,,,unparsed_citation,,
+1478,"Osteoarthritis Cartilage, 1994, 2: 51-9",Osteoarthritis Cartilage,1994,2,51,11548224,s1,,no_oa
+1479,"Osteoarthritis Cartilage, 1993, 1: 97-103",Osteoarthritis Cartilage,1993,1,97,8886085,s1,,no_oa
+1480,"Osteoarthritis Cartilage, 1993, 1: 233-41",Osteoarthritis Cartilage,1993,1,233,15449510,s1,,no_oa
+1481,"Oral Surg Oral Med Oral Pathol Oral Radiol Endod, 2011, 112: 760-6",Oral Surg Oral Med Oral Pathol Oral Radiol Endod,2011,112,760,22001199,s1,,no_oa
+1482,Oral Oncol 2015 Apr;51(4):376-82,Oral Oncol,2015,51,376,25593015,s1,4459134,no_open_pdf
+1483,Oral Oncol 2014 May;50(5):498-505,Oral Oncol,2014,50,498,24613543,s1,,no_oa
+1484,Oncology 2018;94(1):39-46,Oncology,2018,94,39,29040974,s1,5828967,no_open_pdf
+1485,Oncology 2010;78(5-6):376-81,,,,,,unparsed_citation,,
+1486,Oncology 2005;68(4-6):485-92,,,,,,unparsed_citation,,
+1488,Oncologist 2017 Mar;22(3):264-271,Oncologist,2017,22,264,28209746,s1,5344636,cached
+1489,Oncologist 2016 Sep;21(9):1085-90,Oncologist,2016,21,1085,27401892,s1,5016069,cached
+1490,Onco Targets Ther 2014 Jun 13;7:1051-60,Onco Targets Ther,2014,7,1051,24966687,s1,4063861,cached
+1492,Obstet Gynecol 2009 Nov;114(5):999-1007,Obstet Gynecol,2009,114,999,20168099,s1,,no_oa
+1494,"Obstet Gynecol, 2004, 103: 639-45",Obstet Gynecol,2004,103,639,15051552,s1,,no_oa
+1495,"Obstet Gynecol, 2001, 97: 577-82",Obstet Gynecol,2001,97,577,11275030,s1,,no_oa
+1496,"Nutr J, 2008, 7: 9",Nutr J,2008,7,9,18279523,s1,2265739,cached
+1497,Neurotherapeutics 2015 Apr;12(2):455-60,Neurotherapeutics,2015,12,455,25742919,s1,4404445,cached
+1498,Neurology 2016 Jul 5;87(1):57-64,Neurology,2016,87,57,27306628,s1,4932232,cached
+1499,Neurology 2008 Jul 22;71(4):265-71,Neurology,2008,71,265,18645164,s1,,no_oa
+1500,Neurology 2008 Aug 5;71(6):400-6,Neurology,2008,71,400,18434638,s1,,no_oa
+1501,Neurology 2007 Mar 13;68(11):837-41,Neurology,2007,68,837,17353471,s1,,no_oa
+1502,Neurology 2005 Mar 8;64(5):804-10,Neurology,2005,64,804,15753413,s1,,no_oa
+1503,Neurology 2001 Jun 12;56(11):1514-22,Neurology,2001,56,1514,11402108,s1,,no_oa
+1504,Neurology 2001 Feb 27;56(4):445-9,Neurology,2001,56,445,11222785,s1,,no_oa
+1505,Neurology 2000 Oct 24;55(8):1135-43,Neurology,2000,55,1135,11071491,s1,,no_oa
+1506,Neurology 1998 Feb;50(2):398-402,Neurology,1998,50,398,9484361,s1,,no_oa
+1507,"Neurology, 2010, 75: 519-25",Neurology,2010,75,519,20592253,s1,,no_oa
+1508,Neuro Oncol 2018 Apr 9;20(5):674-686,Neuro Oncol,2018,20,674,29106665,s1,5892140,cached
+1509,Nephrology (Carlton) 2005 Oct;10(5):504-10,Nephrology (Carlton),2005,10,504,16221103,s1,,no_oa
+1510,Nephrol Dial Transplant 2012 Apr;27(4):1467-72,Nephrol Dial Transplant,2012,27,1467,21917733,s1,,no_oa
+1520,N Engl J Med 2018 May 31;378(22):2093-2104,N Engl J Med,2018,378,2093,29658845,s1,7193684,no_open_pdf
+1521,N Engl J Med 2018 Jun 21;378(25):2399-2410,N Engl J Med,2018,378,2399,29856685,s1,,no_oa
+1522,N Engl J Med 2017 Oct 19;377(16):1525-1536,N Engl J Med,2017,377,1525,29045207,s1,,no_oa
+1523,N Engl J Med 2017 Feb 16;376(7):652-662,N Engl J Med,2017,376,652,28199814,s1,,no_oa
+1524,N Engl J Med 2016 Sep 1;375(9):840-9,N Engl J Med,2016,375,840,27579634,s1,,no_oa
+1525,N Engl J Med 2016 Nov 17;375(20):1946-1960,N Engl J Med,2016,375,1946,27959607,s1,,no_oa
+1526,N Engl J Med 2016 May 5;374(18):1754-62,N Engl J Med,2016,374,1754,27144850,s1,,no_oa
+1527,N Engl J Med 2016 May 12;374(19):1822-30,N Engl J Med,2016,374,1822,26949137,s1,,no_oa
+1528,N Engl J Med 2016 Mar 31;374(13):1243-52,N Engl J Med,2016,374,1243,27028914,s1,,no_oa
+1529,N Engl J Med 2016 Jul 28;375(4):345-56,N Engl J Med,2016,375,345,27299809,s1,,no_oa
+1530,N Engl J Med 2016 Dec 8;375(23):2246-2254,N Engl J Med,2016,375,2246,27718781,s1,,no_oa
+1531,N Engl J Med 2015 Oct;373(14):1329-39,N Engl J Med,2015,373,1329,26422723,s1,,no_oa
+1532,N Engl J Med 2015 Oct;373(14):1318-28,N Engl J Med,2015,373,1318,26422722,s1,,no_oa
+1534,N Engl J Med 2015 May 21; 372(21): 2006–2017,N Engl J Med,2015,372,2006,25891304,s1,5744258,no_open_pdf
+1535,N Engl J Med 2015 Dec 31;373(27):2599-607,N Engl J Med,2015,373,2599,26571066,s1,,no_oa
+1536,N Engl J Med 2015 Dec 24;373(26):2534-48,N Engl J Med,2015,373,2534,26699169,s1,,no_oa
+1537,N Engl J Med 2015 Dec 17;373(25):2425-37,N Engl J Med,2015,373,2425,26639149,s1,4722809,no_open_pdf
+1538,N Engl J Med 2015 Apr 16;372(16):1500-9,N Engl J Med,2015,372,1500,25773607,s1,,no_oa
+1539,N Engl J Med 2015 Apr 16;372(16):1489-99,N Engl J Med,2015,372,1489,25773378,s1,,no_oa
+1540,N Engl J Med 2014 May 8;370(19):1809-19,N Engl J Med,2014,370,1809,24678979,s1,,no_oa
+1541,N Engl J Med 2014 May 22;370(21):1993-2001,N Engl J Med,2014,370,1993,24795201,s1,,no_oa
+1542,N Engl J Med 2014 Jul 24;371(4):326-38,N Engl J Med,2014,371,326,25007392,s1,,no_oa
+1543,N Engl J Med 2014 Jul 17;371(3):213-23,N Engl J Med,2014,371,213,24881631,s1,4134521,no_open_pdf
+1544,N Engl J Med 2013 Oct 10;369(15):1406-15,N Engl J Med,2013,369,1406,23991658,s1,,no_oa
+1545,N Engl J Med 2013 Nov 28;369(22):2093-104,N Engl J Med,2013,369,2093,24251359,s1,,no_oa
+1546,N Engl J Med 2013 May 16;368(20):1878-87,N Engl J Med,2013,368,1878,23607594,s1,,no_oa
+1547,N Engl J Med 2013 May 16;368(20):1867-77,N Engl J Med,2013,368,1867,23607593,s1,,no_oa
+1548,N Engl J Med 2013 Jul 11;369(2):122-33,N Engl J Med,2013,369,122,23724867,s1,5698004,no_open_pdf
+1549,N Engl J Med 2013 Feb 21;368(8):709-18,N Engl J Med,2013,368,709,23425163,s1,,no_oa
+1550,N Engl J Med 2013 Aug 29;369(9):809-18,N Engl J Med,2013,369,809,23984728,s1,,no_oa
+1551,N Engl J Med 2013 Aug 29;369(9):799-808,N Engl J Med,2013,369,799,23808982,s1,,no_oa
+1552,N Engl J Med 2013 Aug 22;369(8):699-710,N Engl J Med,2013,369,699,23964932,s1,,no_oa
+1553,N Engl J Med 2012 Oct 18;367(16):1519-28,N Engl J Med,2012,367,1519,23075178,s1,,no_oa
+1554,N Engl J Med 2012 Nov 1;367(18):1714-23,N Engl J Med,2012,367,1714,23113482,s1,,no_oa
+1555,N Engl J Med 2012 Mar 29;366(13):1190-9,N Engl J Med,2012,366,1190,22455413,s1,,no_oa
+1556,N Engl J Med 2012 Feb 9;366(6):520-9,N Engl J Med,2012,366,520,22149876,s1,5705195,no_open_pdf
+1558,N Engl J Med 2012 Aug 9;367(6):495-507,N Engl J Med,2012,367,495,22873530,s1,,no_oa
+1559,N Engl J Med 2012 Aug 23;367(8):716-24,N Engl J Med,2012,367,716,22913681,s1,,no_oa
+1560,N Engl J Med 2012 Apr 5;366(14):1287-97,N Engl J Med,2012,366,1287,22449293,s1,,no_oa
+1561,N Engl J Med 2011 Sep 8;365(10):883-91,N Engl J Med,2011,365,883,21830957,s1,,no_oa
+1562,N Engl J Med 2011 Sep 15;365(11):981-92,N Engl J Med,2011,365,981,21870978,s1,,no_oa
+1563,N Engl J Med 2011 Mar 3;364(9):818-28,N Engl J Med,2011,364,818,21366473,s1,4083508,no_open_pdf
+1564,N Engl J Med 2011 Mar 3;364(9):806-17,N Engl J Med,2011,364,806,21309657,s1,,no_oa
+1565,N Engl J Med 2011 Aug 25;365(8):699-708,N Engl J Med,2011,365,699,21780946,s1,,no_oa
+1566,N Engl J Med 2011 Aug 25;365(8):689-98,N Engl J Med,2011,365,689,21864166,s1,3220999,no_open_pdf
+1567,N Engl J Med 2010 Jun 24;362(25):2380-8,N Engl J Med,2010,362,2380,20573926,s1,,no_oa
+1568,N Engl J Med 2010 Feb 11;362(6):504-12,N Engl J Med,2010,362,504,20147716,s1,,no_oa
+1569,N Engl J Med 2010 Dec 23;363(26):2499-510,N Engl J Med,2010,363,2499,21128814,s1,,no_oa
+1570,N Engl J Med 2010 Dec 23;363(26):2487-98,N Engl J Med,2010,363,2487,21175312,s1,,no_oa
+1571,N Engl J Med 2009 Sep 3;361(10):947-57,N Engl J Med,2009,361,947,19692680,s1,,no_oa
+1572,N Engl J Med 2009 Sep 17;361(12):1139-51,N Engl J Med,2009,361,1139,19717844,s1,,no_oa
+1573,N Engl J Med 2009 Jan 8;360(2):129-39,N Engl J Med,2009,360,129,19092145,s1,,no_oa
+1574,N Engl J Med 2009 Dec 10;361(24):2342-52,N Engl J Med,2009,361,2342,19966341,s1,,no_oa
+1575,N Engl J Med 2009 Aug 6;361(6):594-604,N Engl J Med,2009,361,594,19657123,s1,,no_oa
+1576,N Engl J Med 2008 Jun 26;358(26):2776-86,N Engl J Med,2008,358,2776,18579812,s1,,no_oa
+1577,N Engl J Med 2008 Jun 26;358(26):2765-75,N Engl J Med,2008,358,2765,18579811,s1,,no_oa
+1578,N Engl J Med 2008 Jun 12;358(24):2560-72,N Engl J Med,2008,358,2560,18539916,s1,,no_oa
+1579,N Engl J Med 2007 Nov 29;357(22):2237-47,N Engl J Med,2007,357,2237,18046028,s1,,no_oa
+1580,N Engl J Med 2007 Nov 1;357(18):1810-20,N Engl J Med,2007,357,1810,17978289,s1,,no_oa
+1581,N Engl J Med 2007 Nov 1;357(18):1799-809,N Engl J Med,2007,357,1799,17878149,s1,2324066,no_open_pdf
+1583,N Engl J Med 2007 May 3;356(18):1809-22,N Engl J Med,2007,356,1809,17476007,s1,,no_oa
+1584,N Engl J Med 2007 Jul 5;357(1):28-38,N Engl J Med,2007,357,28,17551159,s1,,no_oa
+1585,N Engl J Med 2007 Jul 19;357(3):239-50,N Engl J Med,2007,357,239,17634459,s1,,no_oa
+1586,N Engl J Med 2007 Jul 19;357(3):228-38,N Engl J Med,2007,357,228,17634458,s1,,no_oa
+1589,N Engl J Med 2006 Oct 19;355(16):1672-81,N Engl J Med,2006,355,1672,17050891,s1,,no_oa
+1590,N Engl J Med 2006 Feb 23;354(8):821-31,N Engl J Med,2006,354,821,16495394,s1,,no_oa
+1591,N Engl J Med 2006 Dec 7;355(23):2427-43,N Engl J Med,2006,355,2427,17145742,s1,,no_oa
+1592,N Engl J Med 2006 Dec 28;355(26):2733-43,N Engl J Med,2006,355,2733,17192538,s1,,no_oa
+1593,N Engl J Med 2005 Nov 3;353(18):1912-25,N Engl J Med,2005,353,1912,16267322,s1,,no_oa
+1594,N Engl J Med 2005 Nov 24;353(21):2219-28,N Engl J Med,2005,353,2219,16306519,s1,,no_oa
+1595,N Engl J Med 2005 May 26;352(21):2193-201,N Engl J Med,2005,352,2193,15917384,s1,,no_oa
+1596,N Engl J Med 2005 Jun 16;352(24):2499-507,N Engl J Med,2005,352,2499,15958805,s1,,no_oa
+1597,N Engl J Med 2005 Dec 8;353(23):2462-76,N Engl J Med,2005,353,2462,16339095,s1,,no_oa
+1598,N Engl J Med 2005 Dec 29;353(26):2747-57,N Engl J Med,2005,353,2747,16382061,s1,,no_oa
+1599,N Engl J Med 2005 Apr 21;352(16):1637-45,N Engl J Med,2005,352,1637,15843666,s1,,no_oa
+1600,N Engl J Med 2004 Nov 11;351(20):2069-79,N Engl J Med,2004,351,2069,15537905,s1,,no_oa
+1601,N Engl J Med 2004 Mar 11;350(11):1081-92,N Engl J Med,2004,350,1081,15014181,s1,,no_oa
+1602,N Engl J Med 2004 Feb 26;350(9):876-85,N Engl J Med,2004,350,876,14985485,s1,,no_oa
+1603,N Engl J Med 2003 Nov 6;349(19):1793-802,N Engl J Med,2003,349,1793,14551341,s1,,no_oa
+1604,N Engl J Med 2003 Jan 30;348(5):383-93,N Engl J Med,2003,348,383,12556541,s1,,no_oa
+1605,N Engl J Med 2003 Jan 2;348(1):24-32,N Engl J Med,2003,348,24,12510039,s1,,no_oa
+1606,N Engl J Med 2002 Mar 21;346(12):896-903,N Engl J Med,2002,346,896,11907289,s1,,no_oa
+1607,N Engl J Med 2000 Oct 19;343(16):1156-62,N Engl J Med,2000,343,1156,11036121,s1,,no_oa
+1609,N Engl J Med 2000 Aug 31;343(9):604-10,N Engl J Med,2000,343,604,10979796,s1,,no_oa
+1610,N Engl J Med 1999 May 6;340(18):1398-405,N Engl J Med,1999,340,1398,10228190,s1,,no_oa
+1611,N Engl J Med 1998 Mar 19;338(12):784-90,N Engl J Med,1998,338,784,9504938,s1,,no_oa
+1612,N Engl J Med 1997 Oct 9;337(15):1029-35,N Engl J Med,1997,337,1029,9321530,s1,,no_oa
+1615,"N Engl J Med, 2019, 381: 121-131",N Engl J Med,2019,381,121,31157964,s1,,no_oa
+1616,"N Engl J Med, 2019, 380: 347-357",N Engl J Med,2019,380,347,30415602,s1,,no_oa
+1617,"N Engl J Med, 2018, 379: 2517-2528",N Engl J Med,2018,379,2517,30501481,s1,6325637,no_open_pdf
+1618,"N Engl J Med, 2018, 378: 2465-2474",N Engl J Med,2018,378,2465,29949494,s1,8288034,no_open_pdf
+1619,"N Engl J Med, 2018, 378: 1583-1592",N Engl J Med,2018,378,1583,29694816,s1,5849140,cached
+1620,"N Engl J Med, 2017, 377: 644-657",N Engl J Med,2017,377,644,28605608,s1,,no_oa
+1621,"N Engl J Med, 2017, 377: 352-360",N Engl J Med,2017,377,352,28578607,s1,,no_oa
+1622,"N Engl J Med, 2017, 377: 338-351",N Engl J Med,2017,377,338,28578639,s1,5533216,cached
+1623,"N Engl J Med, 2017, 377: 1228-1239",N Engl J Med,2017,377,1228,28910237,s1,9792409,no_open_pdf
+1625,N Engl J Med 2017 376: 2448-2458,,,,,,unparsed_citation,,
+1626,N Engl J Med 2017 376: 2415-2426,,,,,,unparsed_citation,,
+1627,"N Engl J Med, 2016, 375: 311-22",N Engl J Med,2016,375,311,27295427,s1,4985288,no_open_pdf
+1628,"N Engl J Med, 2016, 375: 1834-1844",N Engl J Med,2016,375,1834,27633186,s1,,no_oa
+1629,"N Engl J Med, 2016, 375: 1231-41",N Engl J Med,2016,375,1231,27682034,s1,5131636,no_open_pdf
+1631,"N Engl J Med, 2015, 373: 136-44",N Engl J Med,2015,373,136,26154787,s1,,no_oa
+1632,"N Engl J Med, 2014, 371: 1877-88",N Engl J Med,2014,371,1877,25265492,s1,,no_oa
+1633,"N Engl J Med, 2014, 370: 734-43",N Engl J Med,2014,370,734,24552320,s1,4010094,no_open_pdf
+1634,N Engl J Med 2014 370: 699-708,,,,,,unparsed_citation,,
+1635,N Engl J Med 2013 368: 138-48,,,,,,unparsed_citation,,
+1636,N Engl J Med 2012 367: 1694-703,,,,,,unparsed_citation,,
+1637,"N Engl J Med, 2012, 367: 107-14",N Engl J Med,2012,367,107,22663011,s1,,no_oa
+1638,"N Engl J Med, 2012, 366: 310-20",N Engl J Med,2012,366,310,22276821,s1,3401076,no_open_pdf
+1639,"N Engl J Med, 2011, 365: 2473-83",N Engl J Med,2011,365,2473,22204724,s1,,no_oa
+1640,"N Engl J Med, 2011, 364: 928-38",N Engl J Med,2011,364,928,21388310,s1,,no_oa
+1641,"N Engl J Med, 2010, 362: 1477-90",N Engl J Med,2010,362,1477,20228403,s1,,no_oa
+1642,"N Engl J Med, 2008, 359: 2456-67",N Engl J Med,2008,359,2456,19001508,s1,,no_oa
+1643,"N Engl J Med, 2008, 359: 1225-37",N Engl J Med,2008,359,1225,18753639,s1,2714258,no_open_pdf
+1644,"N Engl J Med, 2008, 358: 1547-59",N Engl J Med,2008,358,1547,18378520,s1,,no_oa
+1645,N Engl J Med 2007 357: 2666-76,,,,,,unparsed_citation,,
+1646,"N Engl J Med, 2006, 355: 549-59",N Engl J Med,2006,355,549,16899775,s1,,no_oa
+1647,"N Engl J Med, 2006, 355: 2542-50",N Engl J Med,2006,355,2542,17167137,s1,,no_oa
+1648,"N Engl J Med, 2006, 355: 1525-38",N Engl J Med,2006,355,1525,17035647,s1,,no_oa
+1649,"N Engl J Med, 2006, 354: 1685-97",N Engl J Med,2006,354,1685,16537662,s2,,no_oa
+1650,"N Engl J Med, 2005, 353: 123-32",N Engl J Med,2005,353,123,16014882,s1,,no_oa
+1651,"N Engl J Med, 2005, 352: 1425-35",N Engl J Med,2005,352,1425,15755765,s1,,no_oa
+1652,"N Engl J Med, 2003, 349: 2014-22",N Engl J Med,2003,349,2014,14627786,s1,,no_oa
+1653,"N Engl J Med, 2003, 349: 1893-906",N Engl J Med,2003,349,1893,14610160,s1,,no_oa
+1654,"N Engl J Med, 2002, 347: 408-15",N Engl J Med,2002,347,408,12167683,s1,,no_oa
+1655,"N Engl J Med, 2002, 346: 225-34",N Engl J Med,2002,346,225,11807146,s1,,no_oa
+1656,"N Engl J Med, 2001, 345: 851-60",N Engl J Med,2001,345,851,11565517,s1,,no_oa
+1657,"N Engl J Med, 2001, 345: 1667-75",N Engl J Med,2001,345,1667,11759645,s1,,no_oa
+1658,"N Engl J Med, 2000, 342: 1085-92",N Engl J Med,2000,342,1085,10766581,s1,,no_oa
+1659,"N Engl J Med, 1996, 335: 384-91",N Engl J Med,1996,335,384,8663871,s1,,no_oa
+1660,N Engl J Med 2016; 375:209-219,N Engl J Med,2016,375,209,27264120,s1,5024713,no_open_pdf
+1661,N Engl J Med 2013; 369:711-721,N Engl J Med,2013,369,711,23964933,s1,,no_oa
+1662,N Engl J Med 2012; 367:616-624,N Engl J Med,2012,367,616,22894574,s1,,no_oa
+1663,N Engl J Med 2012; 367:1783-1791,N Engl J Med,2012,367,1783,23020162,s1,5125250,no_open_pdf
+1664,N Engl J Med 2010; 363:1889-1899,N Engl J Med,2010,363,1889,21067381,s1,,no_oa
+1665,Mult Scler 2007 Nov;13(9):1107-17,Mult Scler,2007,13,1107,17623736,s1,,no_oa
+1666,Mol Cancer 2010 Mar 30;9:69,Mol Cancer,2010,9,69,20350333,s1,2856553,cached
+1667,Mol Autism 2012 Dec 5;3(1):16,Mol Autism,2012,3,16,23216716,s1,3539865,cached
+1668,Mod Rheumatol 2014 Sep;24(5):715-24,Mod Rheumatol,2014,24,715,24313916,s1,,no_oa
+1669,Mod Rheumatol 2014 Jul;24(4):552-60,Mod Rheumatol,2014,24,552,24981319,s1,,no_oa
+1670,"Mod Rheumatol, 2015, 25: 514-21",Mod Rheumatol,2015,25,514,25496464,s1,4819568,cached
+1671,"Midwifery, 2009, 25: 649-53",Midwifery,2009,25,649,18272271,s1,,no_oa
+1672,Metabolism 2014 Jul;63(7):957-67,Metabolism,2014,63,957,24874591,s1,,no_oa
+1674,"Mayo Clin Proc, 2005, 80: 470-9",Mayo Clin Proc,2005,80,470,15819283,s1,,no_oa
+1675,Lung Cancer 2015 Aug;89(2):146-53,Lung Cancer,2015,89,146,26093793,s1,,no_oa
+1676,Lung Cancer 2013 Dec;82(3):455-60,Lung Cancer,2013,82,455,24075125,s1,,no_oa
+1677,Lung Cancer 2012 Oct;78(1):70-5,Lung Cancer,2012,78,70,22947511,s1,,no_oa
+1678,Lung Cancer 2008 Dec;62(3):334-43,Lung Cancer,2008,62,334,18450322,s1,,no_oa
+1679,Lung Cancer 2003 Jul;41(1):81-9,Lung Cancer,2003,41,81,12826316,s1,,no_oa
+1680,Lung Cancer 1997 Aug;18(1):57-70,Lung Cancer,1997,18,57,9268948,s1,,no_oa
+1681,"Lung Cancer, 2016, 102: 65-73",Lung Cancer,2016,102,65,27987591,s1,,no_oa
+1682,Leuk Lymphoma 2013 Feb;54(2):321-8,Leuk Lymphoma,2013,54,321,22906162,s1,,no_oa
+1683,"Lasers Med Sci, 2017, 32: 1525-1533",Lasers Med Sci,2017,32,1525,28702841,s1,,no_oa
+1684,"Laryngoscope, 2015, 125(5):1048-1055",,,,,,unparsed_citation,,
+1685,Lancet 2018 Mar 3;391(10123):839-849 (https://wwwviraledcom/modules/info/files/files_58c03e5ca1c3apdf),,,,,,unparsed_citation,,
+1686,Lancet 2018 Jun 23;391(10139):2513-2524,Lancet,2018,391,2513,29908670,s1,,no_oa
+1687,Lancet 2018 Jun 23;391(10139):2503-2512,Lancet,2018,391,2503,29908669,s1,,no_oa
+1688,Lancet 2017 Jun 10;389(10086):2317-2327,Lancet,2017,389,2317,28551073,s1,,no_oa
+1689,Lancet 2017 Jan 21;389(10066):266-275,Lancet,2017,389,266,27988142,s1,,no_oa
+1690,Lancet 2017 Apr 29;389(10080):1699-1709,Lancet,2017,389,1699,28411872,s1,,downloaded
+1691,Lancet 2016 Sep 24;388(10051):1281-90,Lancet,2016,388,1281,27477896,s1,,no_oa
+1692,Lancet 2016 May 14;387(10032):2008-16,Lancet,2016,387,2008,26969090,s1,4878938,no_open_pdf
+1693,Lancet 2016 Feb 20;387(10020):770-8,Lancet,2016,387,770,26673811,s1,,no_oa
+1694,Lancet 2014 Jun 28;383(9936):2222-31,Lancet,2014,383,2222,24698485,s1,,no_oa
+1695,Lancet 2014 Jul 26;384(9940):319-28,Lancet,2014,384,319,24768112,s1,4366116,no_open_pdf
+1696,Lancet 2014 Jul 26;384(9940):309-18,Lancet,2014,384,309,24814090,s1,,no_oa
+1697,Lancet 2014 Aug 23;384(9944):665-73,Lancet,2014,384,665,24933332,s1,,no_oa
+1698,Lancet 2013 Sep 14;382(9896):941-50,Lancet,2013,382,941,23850055,s1,,no_oa
+1699,Lancet 2013 Mar 9;381(9869):805-16,Lancet,2013,381,805,23219286,s1,3596060,no_open_pdf
+1700,Lancet 2013 Jan 26;381(9863):295-302,Lancet,2013,381,295,23177515,s1,3819942,downloaded
+1701,Lancet 2013 Feb 9;381(9865):451-60,Lancet,2013,381,451,23294500,s1,,no_oa
+1702,Lancet 2013 Aug 24;382(9893):700-8,Lancet,2013,382,700,23830355,s1,,no_oa
+1703,Lancet 2013 Apr 6;381(9873):1203-10,Lancet,2013,381,1203,23433739,s1,,no_oa
+1704,Lancet 2012 May 19;379(9829):1879-86,Lancet,2012,379,1879,22595799,s1,,no_oa
+1705,Lancet 2011 Mar 5;377(9768):813-22,Lancet,2011,377,813,21353695,s1,3090685,no_open_pdf
+1706,Lancet 2011 Jan 29;377(9763):393-402,Lancet,2011,377,393,20739054,s1,,no_oa
+1707,Lancet 2011 Jan 22;377(9762):321-31,Lancet,2011,377,321,21247627,s1,,no_oa
+1708,Lancet 2010 Mar 6;375(9717):807-15,Lancet,2010,375,807,20206776,s1,,no_oa
+1709,Lancet 2009 May 16;373(9676):1673-80,Lancet,2009,373,1673,19411100,s1,,no_oa
+1710,Lancet 2008 Nov 22;372(9652):1809-18,Lancet,2008,372,1809,19027483,s1,,no_oa
+1711,Lancet 2008 Jun 21;371(9630):2101-8,Lancet,2008,371,2101,18514303,s1,,no_oa
+1712,Lancet 2008 Jun 21;371(9630):2093-100,Lancet,2008,371,2093,18572079,s1,,no_oa
+1713,Lancet 2008 Jul 5;372(9632):31-9,Lancet,2008,372,31,18582928,s1,,no_oa
+1714,Lancet 2008 Feb 2;371(9610):395-403,Lancet,2008,371,395,18242413,s1,,no_oa
+1715,Lancet 2008 Aug 9;372(9637):449-56,Lancet,2008,372,449,18653228,s1,,no_oa
+1716,Lancet 2007 Sep 15;370(9591):949-56,Lancet,2007,370,949,17869635,s1,,no_oa
+1717,Lancet 2005 Oct 8;366(9493):1279-89,Lancet,2005,366,1279,16214598,s1,,no_oa
+1718,Lancet 2004 Sep 25-Oct 1;364(9440):1149-56,,,,,,unparsed_citation,,
+1719,Lancet 2002 May 4;359(9317):1541-9,Lancet,2002,359,1541,12047962,s1,,no_oa
+1720,Lancet 2002 Jun 22;359(9324):2131-9,Lancet,2002,359,2131,12090977,s1,,no_oa
+1721,Lancet 2001 Oct 6;358(9288):1119-23,Lancet,2001,358,1119,11597664,s1,,no_oa
+1722,Lancet 2000 Dec 16;356(9247):2037-44,Lancet,2000,356,2037,11145489,s1,,no_oa
+1723,Lancet 1998 Sep 12;352(9131):837-53,Lancet,1998,352,837,9742976,s1,,
+1724,Lancet 1997 Mar 1;349(9052):589-93,Lancet,1997,349,589,9057729,s1,,no_oa
+1725,Lancet 1997 Jan 25;349(9047):225-30,Lancet,1997,349,225,9014908,s1,,
+1726,Lancet 1997 Feb 22;349(9051):521-4,Lancet,1997,349,521,9048788,s1,,no_oa
+1727,Lancet 1996 Dec 7;348(9041):1535-41,Lancet,1996,348,1535,8950879,s1,,no_oa
+1728,Lancet 1971 Oct 30;2(7731):944-7,Lancet,1971,2,944,4107900,s1,,no_oa
+1729,"Lancet, 2018, 392: 123-133",Lancet,2018,392,123,29880231,s1,,no_oa
+1730,"Lancet, 2018, 391: 748-757",Lancet,2018,391,748,29268948,s1,,no_oa
+1731,Lancet 2016 388: 343-355,,,,,,unparsed_citation,,
+1732,"Lancet, 2016, 388: 2128-2141",Lancet,2016,388,2128,27609406,s1,,no_oa
+1733,"Lancet, 2016, 388: 2115-2127",Lancet,2016,388,2115,27609408,s1,,no_oa
+1734,"Lancet, 2016, 387: 760-9",Lancet,2016,387,760,26684607,s1,,no_oa
+1735,"Lancet, 2015, 386: 552-61",Lancet,2015,386,552,26051365,s1,,no_oa
+1736,"Lancet, 2015, 386: 541-51",Lancet,2015,386,541,26072109,s1,,no_oa
+1737,"Lancet, 2013, 381: 1541-50",Lancet,2013,381,1541,23515142,s1,,no_oa
+1738,"Lancet, 2012, 380: 660-7",Lancet,2012,380,660,22901887,s1,,no_oa
+1740,"Lancet, 2008, 372: 1394-402",Lancet,2008,372,1394,18823656,s1,,no_oa
+1741,"Lancet, 2008, 372: 1385-93",Lancet,2008,372,1385,18823658,s1,,no_oa
+1742,"Lancet, 2008, 372: 1174-83",Lancet,2008,372,1174,18757085,s1,,no_oa
+1743,"Lancet, 2008, 371: 1675-84",Lancet,2008,371,1675,18486740,s1,,no_oa
+1744,"Lancet, 2008, 371: 1665-74",Lancet,2008,371,1665,18486739,s1,,no_oa
+1745,Lancet 2007 370: 2103-11,,,,,,unparsed_citation,,
+1746,"Lancet, 2006, 367: 29-35",Lancet,2006,367,29,16399150,s1,,no_oa
+1747,"Lancet, 2005, 366: 1527-37",Lancet,2005,366,1527,16257339,s1,,no_oa
+1748,Lancet 2005 Oct 22-28;366(9495):1435-42,,,,,,unparsed_citation,,
+1749,"Lancet, 2005, 366: 1367-74",Lancet,2005,366,1367,16226614,s1,,no_oa
+1750,"Lancet, 2003, 362: 772-6",Lancet,2003,362,772,13678870,s1,,no_oa
+1751,"Lancet, 2003, 362: 767-71",Lancet,2003,362,767,13678869,s1,,no_oa
+1752,"Lancet, 2003, 362: 759-66",Lancet,2003,362,759,13678868,s1,,no_oa
+1753,"Lancet, 2003, 361: 809-13",Lancet,2003,361,809,12642046,s1,,no_oa
+1754,"Lancet, 2002, 360: 752-60",Lancet,2002,360,752,12241832,s1,,no_oa
+1755,"Lancet, 2001, 357: 2085-9",Lancet,2001,357,2085,11445102,s1,,no_oa
+1756,"Lancet, 2001, 357: 1842-7",Lancet,2001,357,1842,11410193,s1,,no_oa
+1757,"Lancet Respir Med, 2017, 5: 568-576",Lancet Respir Med,2017,5,568,28545978,s1,,no_oa
+1758,"Lancet Respir Med, 2014, 2: 879-890",Lancet Respir Med,2014,2,879,25306557,s1,,no_oa
+1759,"Lancet Respir Med, 2014, 2: 361-8",Lancet Respir Med,2014,2,361,24746000,s1,,no_oa
+1760,Lancet Oncol 2019 Jan;20(1):43-56,Lancet Oncol,2019,20,43,30522969,s1,,no_oa
+1761,Lancet Oncol 2018 May;19(5):672-681,Lancet Oncol,2018,19,672,29602646,s1,,no_oa
+1762,Lancet Oncol 2018 Mar;19(3):416-426,Lancet Oncol,2018,19,416,29370992,s1,6126546,no_open_pdf
+1763,Lancet Oncol 2016 Jul;17(7):917-927,Lancet Oncol,2016,17,917,27279544,s1,,no_oa
+1764,Lancet Oncol 2016 Jul;17(7):883-895,Lancet Oncol,2016,17,883,27269741,s1,,no_oa
+1765,Lancet Oncol 2016 Jan;17(1):57-66,Lancet Oncol,2016,17,57,26655425,s1,,no_oa
+1766,Lancet Oncol 2016 Feb;17(2):200-211,Lancet Oncol,2016,17,200,26655421,s1,,no_oa
+1767,Lancet Oncol 2015 Oct;16(13):1344-54,Lancet Oncol,2015,16,1344,26361969,s1,,no_oa
+1768,Lancet Oncol 2015 May;16(5):561-8,Lancet Oncol,2015,16,561,25882986,s1,,no_oa
+1769,Lancet Oncol 2015 May;16(5):522-30,Lancet Oncol,2015,16,522,25840693,s1,,no_oa
+1770,Lancet Oncol 2015 May;16(5):499-508,Lancet Oncol,2015,16,499,25877855,s1,,no_oa
+1771,Lancet Oncol 2015 Feb;16(2):221-32,Lancet Oncol,2015,16,221,25596659,s1,,no_oa
+1773,Lancet Oncol 2014 Sep;15(10):1065-75,Lancet Oncol,2014,15,1065,25088940,s1,,no_oa
+1774,Lancet Oncol 2014 Feb;15(2):143-55,Lancet Oncol,2014,15,143,24411639,s1,,no_oa
+1775,Lancet Oncol 2014 Aug;15(9):1007-18,Lancet Oncol,2014,15,1007,24965569,s1,,no_oa
+1776,Lancet Oncol 2013 May;14(6):481-9,Lancet Oncol,2013,14,481,23594787,s1,3669518,no_open_pdf
+1777,Lancet Oncol 2013 Jan;14(1):88-96,Lancet Oncol,2013,14,88,23234763,s1,,no_oa
+1778,Lancet Oncol 2013 Dec;14(13):1278-86,Lancet Oncol,2013,14,1278,24225157,s1,,no_oa
+1779,Lancet Oncol 2012 Sep;13(9):897-905,Lancet Oncol,2012,13,897,22898678,s1,,no_oa
+1780,Lancet Oncol 2012 May;13(5):466-75,Lancet Oncol,2012,13,466,22512843,s1,,no_oa
+1781,Lancet Oncol 2012 Jan;13(1):33-42,Lancet Oncol,2012,13,33,22056021,s1,,no_oa
+1782,Lancet Oncol 2010 Sep;11(9):853-60,Lancet Oncol,2010,11,853,20708966,s1,,no_oa
+1783,Lancet Oncol 2010 Jul;11(7):619-26,Lancet Oncol,2010,11,619,20570559,s1,3225192,no_open_pdf
+1784,Lancet Oncol 2010 Jan;11(1):21-8,Lancet Oncol,2010,11,21,19897418,s1,,no_oa
+1785,Lancet Oncol 2010 Feb;11(2):121-8,Lancet Oncol,2010,11,121,20022809,s1,,no_oa
+1786,Lancet Oncol 2009 Nov;10(11):1063-9,Lancet Oncol,2009,10,1063,19818685,s1,,no_oa
+1787,Lancet Oncol 2008 Jan;9(1):39-44,Lancet Oncol,2008,9,39,18077217,s1,,no_oa
+1788,"Lancet Oncol, 2018, 19: 1468-1479",Lancet Oncol,2018,19,1468,30262187,s1,,no_oa
+1789,"Lancet Oncol, 2016, 17: 367-377",Lancet Oncol,2016,17,367,26874901,s1,,no_oa
+1790,"Lancet Oncol, 2016, 17: 153-163",Lancet Oncol,2016,17,153,26774508,s1,,no_oa
+1791,"Lancet Oncol, 2015, 16: 859-70",Lancet Oncol,2015,16,859,26095784,s1,,no_oa
+1792,"Lancet Oncol, 2015, 16: 338-48",Lancet Oncol,2015,16,338,25701170,s1,,no_oa
+1793,"Lancet Oncol, 2014, 15: 799-808",Lancet Oncol,2014,15,799,24950985,s1,,no_oa
+1794,"Lancet Oncol, 2014, 15: 1379-88",Lancet Oncol,2014,15,1379,25439692,s1,,no_oa
+1795,"Lancet Oncol, 2013, 14: 760-8",Lancet Oncol,2013,14,760,23742877,s1,,no_oa
+1796,"Lancet Oncol, 2013, 14: 733-40",Lancet Oncol,2013,14,733,23735514,s1,,no_oa
+1797,"Lancet Oncol, 2013, 14: 38-47",Lancet Oncol,2013,14,38,23200175,s1,,no_oa
+1798,"Lancet Oncol, 2012, 13: 528-38",Lancet Oncol,2012,13,528,22452896,s1,,no_oa
+1799,Lancet Oncol 2012 Feb;13(2):154-62,Lancet Oncol,2012,13,154,22192729,s1,,no_oa
+1800,"Lancet Oncol, 2012, 13: 1161-70",Lancet Oncol,2012,13,1161,23078958,s1,3488187,no_open_pdf
+1801,"Lancet Oncol, 2010, 11: 521-9",Lancet Oncol,2010,11,521,20493771,s1,,no_oa
+1802,Lancet Oncol 2012;13:135-44,Lancet Oncol,2012,13,135,22257523,s1,,no_oa
+1803,Lancet Neurol 2017 Dec;16(12):976-986,Lancet Neurol,2017,16,976,29066163,s1,,no_oa
+1804,Lancet Neurol 2006 Jun;5(6):493-500,Lancet Neurol,2006,5,493,16713921,s1,,no_oa
+1805,Lancet Infect Dis 2015 Apr;15(4):397-404,Lancet Infect Dis,2015,15,397,25773757,s1,,no_oa
+1806,Lancet Infect Dis 2013 Nov;13(11):927-35,Lancet Infect Dis,2013,13,927,24074642,s1,,no_oa
+1807,"Lancet Infect Dis, 2017, 17: 322-329",Lancet Infect Dis,2017,17,322,28007428,s1,,no_oa
+1808,"Lancet Infect Dis, 2016, 16: 905-14",Lancet Infect Dis,2016,16,905,27156189,s1,,no_oa
+1809,Lancet Diabetes Endocrinol 2014 Sep;2(9):691-700,Lancet Diabetes Endocrinol,2014,2,691,24948511,s1,,no_oa
+1810,"Lancet Diabetes Endocrinol, 2017, 5: 355-366",Lancet Diabetes Endocrinol,2017,5,355,28344112,s1,,no_oa
+1811,"Lancet Diabetes Endocrinol, 2017, 5: 341-354",Lancet Diabetes Endocrinol,2017,5,341,28385659,s1,,no_oa
+1812,"Lancet Diabetes Endocrinol, 2017, 5: 251-260",Lancet Diabetes Endocrinol,2017,5,251,28110911,s1,,no_oa
+1813,Lancet 2017;390(10095):659-68,Lancet,2017,390,659,28687413,s1,,no_oa
+1816,Jpn J Clin Oncol 2016 Mar;46(3):248-53,Jpn J Clin Oncol,2016,46,248,26864131,s1,4777611,downloaded
+1817,"JPEN J Parenter Enteral Nutr, 2001, 25: 160-5",JPEN J Parenter Enteral Nutr,2001,25,160,11334066,s1,,no_oa
+1822,JAMA 2013 Mar 27;309(12):1251-9,JAMA,2013,309,1251,23532241,s1,,no_oa
+1823,JAMA 2011 Aug 17;306(7):711-20,JAMA,2011,306,711,21846852,s1,,no_oa
+1824,JAMA 2010 Nov 17;304(19):2154-60,JAMA,2010,304,2154,21081728,s1,,no_oa
+1825,JAMA 2008 Apr 2;299(13):1561-73,JAMA,2008,299,1561,18378631,s1,,no_oa
+1826,JAMA 2006 Dec 6;296(21):2572-81,JAMA,2006,296,2572,17101640,s1,,no_oa
+1827,JAMA 2004 Nov 10;292(18):2217-25,JAMA,2004,292,2217,15536108,s1,,no_oa
+1828,JAMA 2004 Jun 2;291(21):2555-62,JAMA,2004,291,2555,15173146,s1,,no_oa
+1829,JAMA 2003 May 21;289(19):2525-33,JAMA,2003,289,2525,12759324,s1,,no_oa
+1830,JAMA 1998 Dec 23-30;280(24):2077-82,,,,,,unparsed_citation,,
+1831,"JAMA, 2017, 318: 557-566",JAMA,2017,318,557,28787506,s1,5817485,no_open_pdf
+1832,"JAMA, 2017, 318: 1460-1470",JAMA,2017,318,1460,29049653,s1,5817971,no_open_pdf
+1833,"JAMA, 2014, 311: 2397-405",JAMA,2014,311,2397,24938562,s1,4249701,no_open_pdf
+1834,"JAMA, 2013, 309: 1260-7",JAMA,2013,309,1260,23532242,s1,,no_oa
+1835,"JAMA, 2010, 303: 1707-15",JAMA,2010,303,1707,20442386,s1,,no_oa
+1836,"JAMA, 2003, 290: 1749-56",JAMA,2003,290,1749,14519709,s1,,no_oa
+1837,"JAMA, 2003, 290: 1459-66",JAMA,2003,290,1459,13129985,s1,,no_oa
+1838,"JAMA, 2001, 285: 1711-8",JAMA,2001,285,1711,11277825,s1,,no_oa
+1839,"JAMA Surg, 2015, 150: 730-7",JAMA Surg,2015,150,730,26083537,s1,,no_oa
+1841,JAMA Intern Med 2016 Nov 1;176(11):1630-1637,JAMA Intern Med,2016,176,1630,27653939,s1,,no_oa
+1842,"J Vasc Surg, 2009, 50: 23-9",J Vasc Surg,2009,50,23,19563951,s1,,no_oa
+1843,"J Trauma, 2002, 53: 422-5",J Trauma,2002,53,422,12352474,s1,,no_oa
+1844,J Toxicol Clin Toxicol 1990;28(3):341-56,J Toxicol Clin Toxicol,1990,28,341,2231833,s1,,no_oa
+1845,J Toxicol Clin Toxicol 1988;26(5-6):283-92,,,,,,unparsed_citation,,
+1846,J Thromb Haemost 2012 May;10(5):799-806,J Thromb Haemost,2012,10,799,22409309,s1,,no_oa
+1847,J Thorac Oncol 2017 May;12(5):843-849,J Thorac Oncol,2017,12,843,28161554,s1,5500219,no_open_pdf
+1848,J Thorac Oncol 2015 Dec;10(12):1745-53,J Thorac Oncol,2015,10,1745,26743856,s1,,no_oa
+1849,J Thorac Oncol 2014 May;9(5):733-7,J Thorac Oncol,2014,9,733,24722160,s1,,no_oa
+1850,J Thorac Oncol 2010 Sep;5(9):1430-4,J Thorac Oncol,2010,5,1430,20651615,s1,,no_oa
+1851,J Thorac Oncol 2014 9: 1154-61,,,,,,unparsed_citation,,
+1852,"J Thorac Oncol, 2013, 8: 79-88",J Thorac Oncol,2013,8,79,23232491,s1,4193613,no_open_pdf
+1853,"J Thorac Oncol, 2013, 8: 1529-37",J Thorac Oncol,2013,8,1529,24389434,s1,,no_oa
+1854,"J Thorac Oncol, 2013, 8: 1075-83",J Thorac Oncol,2013,8,1075,23689430,s1,,no_oa
+1855,"J Shoulder Elbow Surg, 2013, 22: 584-94",J Shoulder Elbow Surg,2013,22,584,23333168,s1,,no_oa
+1856,"Br J Surg, 2001, 88: 1066-72",Br J Surg,2001,88,1066,11488791,s1,,no_oa
+1857,Br J Psychiatry 2014 Aug;205(2):135-44,Br J Psychiatry,2014,205,135,24925984,s1,,downloaded
+1858,Br J Haematol 2010 May;149(3):426-35,Br J Haematol,2010,149,426,20175775,s1,2914575,no_open_pdf
+1859,Br J Haematol 1998 Oct;103(1):205-12,Br J Haematol,1998,103,205,9792309,s1,,no_oa
+1860,Br J Haematol 1997 Sep;98(3):711-8,Br J Haematol,1997,98,711,9332329,s1,,no_oa
+1861,Br J Dermatol 2016 Aug;175(2):273-86,Br J Dermatol,2016,175,273,26914406,s1,,no_oa
+1862,Br J Dermatol 2015 Feb;172(2):484-93,Br J Dermatol,2015,172,484,25132411,s1,,no_oa
+1863,Br J Dermatol 2013 Feb;168(2):412-21,Br J Dermatol,2013,168,412,23106107,s1,,no_oa
+1864,Br J Dermatol 2013 Feb;168(2):402-11,Br J Dermatol,2013,168,402,23362969,s1,,no_oa
+1865,"Br J Dermatol, 2011, 165: 661-8",Br J Dermatol,2011,165,661,21574984,s1,,no_oa
+1866,"Br J Dermatol, 2011, 165: 652-60",Br J Dermatol,2011,165,652,21574983,s1,,no_oa
+1867,Br J Dermatol 2008 Nov;159(5):1177-85,Br J Dermatol,2008,159,1177,18673365,s1,,no_oa
+1868,"Br J Dermatol, 2005, 152: 1304-12",Br J Dermatol,2005,152,1304,15948997,s1,,no_oa
+1869,Br J Cancer 2016 Mar 1;114(5):505-9,Br J Cancer,2016,114,505,26867157,s1,4782199,download_error
+1870,Br J Cancer 2012 Jun 5;106(12):1934-9,Br J Cancer,2012,106,1934,22555398,s1,3388559,downloaded
+1871,Br J Cancer 2012 Apr 24;106(9):1469-74,Br J Cancer,2012,106,1469,22460270,s1,3341944,downloaded
+1872,Br J Cancer 2011 Aug 23;105(5):618-27,Br J Cancer,2011,105,618,21829197,s1,3188940,downloaded
+1873,Br J Cancer 2008 Sep 16;99(6):852-7,Br J Cancer,2008,99,852,18728643,s1,2538761,downloaded
+1874,Br J Cancer 2006 Oct 23;95(8):1005-12,Br J Cancer,2006,95,1005,17047649,s1,2360722,downloaded
+1875,Br J Cancer 2004 Jan 12;90(1):87-92,Br J Cancer,2004,90,87,14710212,s1,2395326,downloaded
+1876,Br J Cancer 2003 Oct 6;89(7):1192-9,Br J Cancer,2003,89,1192,14520444,s1,2394313,downloaded
+1877,Br J Cancer 2003 Feb 10;88(3):335-41,Br J Cancer,2003,88,335,12569373,s1,2747545,downloaded
+1878,Br J Cancer 2000 Mar;82(6):1158-62,Br J Cancer,2000,82,1158,10735499,s1,2363341,downloaded
+1879,Br J Cancer 1998 Jun;77(12):2367-70,Br J Cancer,1998,77,2367,9649160,s1,2150421,downloaded
+1880,Bone 2004 May;34(5):890-9,Bone,2004,34,890,15121021,s1,,no_oa
+1881,Bone 2004 May;34(5):881-9,Bone,2004,34,881,15121020,s1,,no_oa
+1882,Bone 1996 Nov;19(5):527-33,Bone,1996,19,527,8922653,s1,,no_oa
+1883,Bone 1996 Feb;18(2):141-50,Bone,1996,18,141,8833208,s1,,no_oa
+1884,BMJ 1990 Dec 8; 301(6764): 1308–1311,BMJ,1990,301,1308,1980218,s1,1664473,downloaded
+1885,"BMJ, 2006, 332: 22-7",BMJ,2006,332,22,16339220,s1,1325128,downloaded
+1886,BMC Pulmonary Medicine 2012;12:67,BMC Pulmonary Medicine,2012,12,67,23078148,s1,3502550,downloaded
+1887,BMC Psychiatry 2011 Apr 21;11:70,BMC Psychiatry,2011,11,70,21510895,s1,3095543,downloaded
+1888,"BMC Fam Pract, 2002, 3: 10",BMC Fam Pract,2002,3,10,12033987,s1,115849,downloaded
+1889,BMC Cancer 2016 Aug 31;16(1):699,BMC Cancer,2016,16,699,27582078,s1,5006426,downloaded
+1890,BMC Cancer 2015 May 11;15:392,BMC Cancer,2015,15,392,25957784,s1,4449604,downloaded
+1891,BMC Cancer 2011 Aug 11;11:349,BMC Cancer,2011,11,349,21834960,s1,3164634,downloaded
+1892,Blood 2014 Nov 14; 124(21): 9 (https://wwwsciencedirectcom/science/article/pii/S0006497119689585),,,,,,unparsed_citation,,
+1893,Blood 2014 May 8;123(19):2944-52,Blood,2014,123,2944,24591201,s1,4260975,downloaded
+1894,"Blood, 2010, 116: 5111-8",Blood,2010,116,5111,20826719,s1,3012532,no_open_pdf
+1895,BJU Int 2014 Mar;113(3):429-36,BJU Int,2014,113,429,24053564,s1,,no_oa
+1898,"Aust N Z J Obstet Gynaecol, 2003, 43: 139-44",Aust N Z J Obstet Gynaecol,2003,43,139,14712970,s1,,no_oa
+1899,Atherosclerosis 2016 Jan;244:138-46,Atherosclerosis,2016,244,138,26638010,s1,,no_oa
+1900,"Atherosclerosis, 2008, 196: 937-42",Atherosclerosis,2008,196,937,17418218,s1,,no_oa
+1901,"Asian Pac J Cancer Prev, 2014, 15: 8797-800",Asian Pac J Cancer Prev,2014,15,8797,25374210,s1,,downloaded
+1902,Asia Pac J Clin Oncol 2012 Sep;8(3):232-43,Asia Pac J Clin Oncol,2012,8,232,22897752,s1,,no_oa
+1903,Arzneimittelforschung 2009;59(8):403-9,Arzneimittelforschung,2009,59,403,19813463,s1,,no_oa
+1904,Arthritis Rheumatol 2017 Mar;69(3):506-517,Arthritis Rheumatol,2017,69,506,27723271,s1,5347954,downloaded
+1905,Arthritis Rheumatol 2017 Jun;69(6):1144-1153,Arthritis Rheumatol,2017,69,1144,28217871,s1,,no_oa
+1906,Arthritis Rheumatol 2017 Dec;69(12):2386-2395,Arthritis Rheumatol,2017,69,2386,28975718,s1,5725733,downloaded
+1907,Arthritis Rheumatol 2017 Apr;69(4):709-719,Arthritis Rheumatol,2017,69,709,27748083,s1,,no_oa
+1908,Arthritis Rheumatol 2016 Jan;68(1):46-55,Arthritis Rheumatol,2016,68,46,26473751,s1,,downloaded
+1909,Arthritis Rheumatol 2016 Dec;68(12):2867-2877,Arthritis Rheumatol,2016,68,2867,27389975,s1,5132116,downloaded
+1910,Arthritis Rheumatol 2016 Dec;68(12):2857-2866,Arthritis Rheumatol,2016,68,2857,27390150,s1,5132065,downloaded
+1911,Arthritis Rheumatol 2016 Aug;68(8):2035-43,Arthritis Rheumatol,2016,68,2035,26894653,s1,,no_oa
+1912,Arthritis Rheumatol 2015 Feb;67(2):334-43,Arthritis Rheumatol,2015,67,334,25385260,s1,,no_oa
+1914,Arthritis Rheum 2013 Mar;65(3):559-70,Arthritis Rheum,2013,65,559,23348607,s1,,no_oa
+1915,Arthritis Rheum 2010 Jul;62(7):2101-8,Arthritis Rheum,2010,62,2101,20506355,s1,,no_oa
+1917,Arthritis Rheum 2008 Nov;58(11):3319-29,Arthritis Rheum,2008,58,3319,18975346,s1,,no_oa
+1918,Arthritis Rheum 2008 Nov 15;59(11):1540-8,Arthritis Rheum,2008,59,1540,18975369,s1,,no_oa
+1919,Arthritis Rheum 2005 Mar;52(3):916-23,Arthritis Rheum,2005,52,916,15751090,s1,,no_oa
+1920,Arthritis Rheum 2004 Dec;50(12):3985-93,Arthritis Rheum,2004,50,3985,15593188,s1,,no_oa
+1921,Arthritis Rheum 1996 Mar;39(3):396-402,Arthritis Rheum,1996,39,396,8607888,s1,,no_oa
+1922,"Arthritis Rheum, 2012, 64: 970-81",Arthritis Rheum,2012,64,970,22006202,s1,,no_oa
+1923,"Arthritis Rheum, 2011, 63: 3383-91",Arthritis Rheum,2011,63,3383,21898340,s1,,no_oa
+1924,"Arthritis Rheum, 2009, 60: 524-33",Arthritis Rheum,2009,60,524,19180484,s1,,no_oa
+1925,"Arthritis Rheum, 2007, 56: 4055-64",Arthritis Rheum,2007,56,4055,18050202,s1,,no_oa
+1926,"Arthritis Rheum, 2005, 52: 779-86",Arthritis Rheum,2005,52,779,15751094,s1,,no_oa
+1927,"Arthritis Rheum, 2004, 51: 738-45",Arthritis Rheum,2004,51,738,15478160,s1,,no_oa
+1928,"Arthritis Rheum, 2001, 44: 2539-47",Arthritis Rheum,2001,44,2539,11710710,s1,,no_oa
+1929,"Arthritis Rheum, 2000, 43: 2339-48",Arthritis Rheum,2000,43,2339,11037895,s1,,no_oa
+1931,Arthritis Res Ther 2013 Oct 25;15(5):R164,,,,,,unparsed_citation,,
+1932,Arthritis Res Ther 2010;12(2):R63 doi: 101186/ar2978,,,,,,unparsed_citation,,
+1933,Arthritis Res Ther 2010;12(1):R7,,,,,,unparsed_citation,,
+1934,Arthritis Care Res (Hoboken) 2011 Aug;63(8):1150-8,Arthritis Care Res (Hoboken),2011,63,1150,21584942,s1,,no_oa
+1935,Arthritis Care Res (Hoboken) 2014 66: 1653-61,,,,,,unparsed_citation,,
+1936,Arch Oral Biol 2011 Oct;56(10):1112-9,Arch Oral Biol,2011,56,1112,21529775,s1,,no_oa
+1937,Arch Neurol 2004 Oct;61(10):1515-20,Arch Neurol,2004,61,1515,15477504,s1,,no_oa
+1938,Arch Intern Med 2009 Mar 23;169(6):616-25,Arch Intern Med,2009,169,616,19307526,s1,,no_oa
+1939,Arch Intern Med 2003 Apr 14;163(7):789-94,Arch Intern Med,2003,163,789,12695269,s1,,no_oa
+1940,"Arch Intern Med, 2002, 162: 2113-23",Arch Intern Med,2002,162,2113,12374520,s1,,no_oa
+1941,"Arch Gerontol Geriatr Suppl, 2004, undefined: 207-15",,,,,,unparsed_citation,,
+1942,Arch Gen Psychiatry 1980 Jan;37(1):16-24,Arch Gen Psychiatry,1980,37,16,7352836,s1,,no_oa
+1943,Arch Gen Psychiatry 1979 Nov;36(12):1283-94,Arch Gen Psychiatry,1979,36,1283,227340,s1,,no_oa
+1944,Arch Gen Psychiatry 1977 Jan;34(1):43-7,Arch Gen Psychiatry,1977,34,43,189724,s1,,no_oa
+1945,"Arch Dermatol, 2003, 139: 1627-32; discussion 1632",,,,,,unparsed_citation,,
+1946,Antivir Ther 2017;22(4):295-305,Antivir Ther,2017,22,295,28401876,s1,,no_oa
+1947,Antimicrob Agents Chemother 1979 Mar;15(3):379-83,Antimicrob Agents Chemother,1979,15,379,464564,s1,352669,downloaded
+1948,"Antimicrob Agents Chemother, 1977, 11: 407-10",Antimicrob Agents Chemother,1977,11,407,324389,s1,351998,downloaded
+1953,"Ann Surg Oncol, 2014, 21: 2517-24",Ann Surg Oncol,2014,21,2517,24740826,s1,,no_oa
+1954,Ann Rheum Dis 2017 Jun;76(6):1009-1019,Ann Rheum Dis,2017,76,1009,27993828,s1,,no_oa
+1955,Ann Rheum Dis 2017 Jan;76(1):88-95,Ann Rheum Dis,2017,76,88,27689735,s1,5264214,downloaded
+1956,Ann Rheum Dis 2016 Jun;75(6):1057-64,Ann Rheum Dis,2016,75,1057,26672064,s1,4893099,downloaded
+1957,Ann Rheum Dis 2015 May;74(5):843-50,Ann Rheum Dis,2015,74,843,24431394,s1,4392224,downloaded
+1958,Ann Rheum Dis 2015 Jun;74(6):1110-7,Ann Rheum Dis,2015,74,1110,24834925,s1,4431348,downloaded
+1959,Ann Rheum Dis 2015 Feb;74(2):333-40,Ann Rheum Dis,2015,74,333,25431052,s1,4316868,downloaded
+1960,Ann Rheum Dis 2014 Jun;73(6):1044-51,Ann Rheum Dis,2014,73,1044,24442886,s1,,no_oa
+1962,Ann Rheum Dis 2013 Jun;72(6):863-9,Ann Rheum Dis,2013,72,863,22730366,s1,,no_oa
+1963,Ann Rheum Dis 2011 Jan;70(1):32-8,Ann Rheum Dis,2011,70,32,20805294,s1,3002766,downloaded
+1964,Ann Rheum Dis 2007 Sep; 66(9): 1178–1183,Ann Rheum Dis,2007,66,1178,17363401,s1,1955127,downloaded
+1965,Ann Rheum Dis 2004 Sep;63(9):1113-9,Ann Rheum Dis,2004,63,1113,15308521,s1,1755135,download_error
+1966,Ann Rheum Dis 2017 Sep;76(9):1537-1543,Ann Rheum Dis,2017,76,1537,28533290,s1,5561371,downloaded
+1967,"Ann Rheum Dis, 2016, 75: 1081-91",Ann Rheum Dis,2016,75,1081,26511996,s1,4893095,downloaded
+1968,"Ann Rheum Dis, 2015, 74: 818-22",Ann Rheum Dis,2015,74,818,24448345,s1,4392200,downloaded
+1969,"Ann Rheum Dis, 2015, 74: 694-702",Ann Rheum Dis,2015,74,694,24368514,s1,4392313,downloaded
+1970,"Ann Rheum Dis, 2014, 73: 376-84",Ann Rheum Dis,2014,73,376,23345601,s1,3913295,downloaded
+1971,"Ann Rheum Dis, 2012, 71: 198-205",Ann Rheum Dis,2012,71,198,21949007,s1,,no_oa
+1972,"Ann Rheum Dis, 2011, 70: 982-9",Ann Rheum Dis,2011,70,982,21367761,s1,3086081,downloaded
+1973,"Ann Rheum Dis, 2010, 69: 1097-102",Ann Rheum Dis,2010,69,1097,20447955,s1,,no_oa
+1974,"Ann Rheum Dis, 2007, 66: 945-51",Ann Rheum Dis,2007,66,945,17142385,s1,1955093,downloaded
+1975,"Ann Rheum Dis, 2004, 63: 1611-7",Ann Rheum Dis,2004,63,1611,15331394,s1,1754857,downloaded
+1977,Ann Pharmacother 1996 Mar;30(3):238-43,Ann Pharmacother,1996,30,238,8833557,s1,,no_oa
+1978,Ann Oncol 2017 Oct 1;28(10):2429-2435,Ann Oncol,2017,28,2429,28961832,s1,,no_oa
+1979,Ann Oncol 2016 Dec;27(12):2196-2203,Ann Oncol,2016,27,2196,27765757,s1,7360144,downloaded
+1980,Ann Oncol 2015 Sep;26(9):1904-1910,Ann Oncol,2015,26,1904,26202594,s1,,no_oa
+1981,Ann Oncol 2015 May;26(5):943-949,Ann Oncol,2015,26,943,25632066,s1,,no_oa
+1982,Ann Oncol 2015 Mar;26(3):542-7,Ann Oncol,2015,26,542,25538178,s1,,no_oa
+1983,Ann Oncol 2015 Jul;26(7):1401-8,Ann Oncol,2015,26,1401,25908605,s1,4478975,downloaded
+1984,Ann Oncol 2013 Sep;24(9):2382-9,Ann Oncol,2013,24,2382,23788751,s1,6267942,downloaded
+1985,Ann Oncol 2013 May;24(5):1326-31,Ann Oncol,2013,24,1326,23277482,s1,,no_oa
+1986,Ann Oncol 2008 Feb;19(2):362-9,Ann Oncol,2008,19,362,17947225,s1,,no_oa
+1987,Ann Oncol 2008 Aug;19(8):1450-1457,Ann Oncol,2008,19,1450,18558665,s1,,no_oa
+1988,Ann Oncol 2008 Apr;19(4):734-8,Ann Oncol,2008,19,734,18272912,s1,,no_oa
+1989,Ann Oncol 2006 Jul;17(7):1111-9,Ann Oncol,2006,17,1111,16603599,s1,,no_oa
+1990,Ann Oncol 2005 Jun;16(6):950-7,Ann Oncol,2005,16,950,15829494,s1,,no_oa
+1991,Ann Oncol 2005 Apr;16(4):602-10,Ann Oncol,2005,16,602,15741225,s1,,no_oa
+1992,Ann Oncol 2003 Aug;14(8):1258-63,Ann Oncol,2003,14,1258,12881389,s1,,no_oa
+1993,Ann Oncol 2002 Oct;13(10):1539-49,Ann Oncol,2002,13,1539,12377641,s1,,no_oa
+1994,Ann Oncol 2002 Aug;13(8):1185-91,Ann Oncol,2002,13,1185,12181240,s1,,no_oa
+1995,Ann Oncol 2000 Feb;11(2):201-6,Ann Oncol,2000,11,201,10761756,s1,,no_oa
+1996,Ann Oncol 1996 Oct;7(8):821-6,Ann Oncol,1996,7,821,8922196,s1,,no_oa
+1997,"Ann Oncol, 2015, 26: 894-901",Ann Oncol,2015,26,894,25722381,s1,4855243,no_open_pdf
+1998,"Ann Oncol, 2014, 25: 968-74",Ann Oncol,2014,25,968,24567366,s1,,no_oa
+1999,"Ann Oncol, 2013, 24: 702-9",Ann Oncol,2013,24,702,23108952,s1,,no_oa
+2000,"Ann Oncol, 2012, 23: 1693-9",Ann Oncol,2012,23,1693,22219013,s1,,no_oa
+2001,"Ann Oncol, 2011, 22: 2057-2067",Ann Oncol,2011,22,2057,21321086,s1,,no_oa
+2002,Ann Intern Med 2013 May 7;158(9):641-9,Ann Intern Med,2013,158,641,23648946,s1,,no_oa
+2003,Ann Intern Med 2013 Aug 20;159(4):253-61,Ann Intern Med,2013,159,253,24026258,s1,,no_oa
+2004,Ann Intern Med 2007 Jun 19;146(12):829-38,Ann Intern Med,2007,146,829,17470824,s1,,no_oa
+2005,Ann Intern Med 2002 May 21;136(10):742-6,Ann Intern Med,2002,136,742,12020142,s1,,no_oa
+2006,Ann Intern Med 2002 Jul 16;137(2):105-9,Ann Intern Med,2002,137,105,12118965,s1,,no_oa
+2007,Ann Intern Med 1999 Dec 21;131(12):935-42,Ann Intern Med,1999,131,935,10610644,s1,,no_oa
+2008,Ann Intern Med 1998 Feb 15;128(4):253-61,Ann Intern Med,1998,128,253,9471927,s1,,no_oa
+2009,Ann Intern Med 1990 Jul 1;113(1):21-6,Ann Intern Med,1990,113,21,2190516,s1,,no_oa
+2010,"Ann Intern Med, 2008, 148: 268-77",Ann Intern Med,2008,148,268,18283204,s1,,no_oa
+2011,"Ann Intern Med, 2000, 133: 493-503",Ann Intern Med,2000,133,493,11015162,s1,,no_oa
+2012,Ann Hematol 2013 May;92(5):653-60,Ann Hematol,2013,92,653,23340738,s1,,no_oa
+2013,Ann Emerg Med 1993 Dec;22(12):1813-21,Ann Emerg Med,1993,22,1813,8239101,s1,,no_oa
+2014,"Ann Emerg Med, 2011, 57: 425-33e2",Ann Emerg Med,2011,57,425,20947210,s1,,no_oa
+2015,Ann Allergy Asthma Immunol 2005 Jul;95(1):66-71,Ann Allergy Asthma Immunol,2005,95,66,16095144,s1,,no_oa
+2016,Ann Allergy Asthma Immunol 2004 Oct;93(4):351-9,Ann Allergy Asthma Immunol,2004,93,351,15521371,s1,,no_oa
+2017,Ann Allergy Asthma Immunol 2003 Sep;91(3):263-9,Ann Allergy Asthma Immunol,2003,91,263,14533658,s1,,no_oa
+2019,Anaesthesia 1988 Apr;43(4):274-6,Anaesthesia,1988,43,274,3132054,s1,,no_oa
+2021,American Journal of Respiratory and Critical Care Medicine 2001;164(8):1392-7,American Journal of Respiratory and Critical Care Medicine,2001,164,1392,11704584,s1,,no_oa
+2022,"American Journal of Obstetrics & Gynecology, 1991, 165(2):375",,,,,,unparsed_citation,,
+2023,"Am J Trop Med Hyg, 2005, 73: 842-9",Am J Trop Med Hyg,2005,73,842,16282291,s1,,
+2025,Am J Respir Crit Care Med 2014 Jul 15;190(2):208-17,Am J Respir Crit Care Med,2014,190,208,24937643,s1,4226056,downloaded
+2026,Am J Respir Crit Care Med 2011 Jul 1;184(1):92-9,Am J Respir Crit Care Med,2011,184,92,21474646,s1,,no_oa
+2027,Am J Respir Crit Care Med 2008 Dec 1;178(11):1139-47,Am J Respir Crit Care Med,2008,178,1139,18723437,s1,,no_oa
+2029,Am J Respir Crit Care Med 2000 Feb;161(2 Pt 1):527-34,,,,,,unparsed_citation,,
+2030,"Am J Respir Crit Care Med, 2001, 164: 536-41",Am J Respir Crit Care Med,2001,164,536,11520711,s1,,no_oa
+2031,Am J Psychiatry 2010 Feb;167(2):181-9,Am J Psychiatry,2010,167,181,20008947,s1,,no_oa
+2032,Am J Obstet Gynecol 1992 Mar;166(3):794-802,Am J Obstet Gynecol,1992,166,794,1550145,s1,,no_oa
+2033,Am J Obstet Gynecol 1991 Mar;164(3):734-42,Am J Obstet Gynecol,1991,164,734,2003533,s1,,no_oa
+2034,Am J Obstet Gynecol 1990 Nov;163(5 Pt 1):1580-91,,,,,,unparsed_citation,,
+2035,"Am J Obstet Gynecol, 1995, 172: 1540-5",Am J Obstet Gynecol,1995,172,1540,7755068,s1,,no_oa
+2036,"Am J Obstet Gynecol, 1991, 165: 632-40",Am J Obstet Gynecol,1991,165,632,1892190,s1,,no_oa
+2037,Am J Med 2012 Nov;125(11):1126-1134e7,Am J Med,2012,125,1126,23098865,s1,,no_oa
+2038,Am J Med 1998 Mar;104(3):219-26,Am J Med,1998,104,219,9552083,s1,,no_oa
+2039,Am J Med 1996 Nov;101(5):488-501,Am J Med,1996,101,488,8948272,s1,,no_oa
+2040,Am J Med 1995 Aug;99(2):144-52,Am J Med,1995,99,144,7625419,s1,,no_oa
+2041,Am J Kidney Dis 2013 Apr;61(4):579-87,Am J Kidney Dis,2013,61,579,23352379,s1,,no_oa
+2042,Am J Hypertens 2006 Jan;19(1):113-21,Am J Hypertens,2006,19,113,16461202,s1,,no_oa
+2043,Am J Hypertens 1992 Oct;5(10):727-32,Am J Hypertens,1992,5,727,1418836,s1,,no_oa
+2044,Am J Hypertens 1989 Mar;2(3 Pt 1):154-7,,,,,,unparsed_citation,,
+2047,Am J Gastroenterol 2016 Nov;111(11):1599-1607,Am J Gastroenterol,2016,111,1599,27481309,s1,,no_oa
+2048,Am J Gastroenterol 2009 Jun;104(6):1452-9,Am J Gastroenterol,2009,104,1452,19491859,s1,,no_oa
+2049,Am J Gastroenterol 2008 Sep;103(9):2284-92,Am J Gastroenterol,2008,103,2284,18671816,s1,,no_oa
+2050,Am J Gastroenterol 2008 Jul;103(7):1721-9,Am J Gastroenterol,2008,103,1721,18616656,s1,,no_oa
+2051,Am J Gastroenterol 2002 Jul;97(7):1748-54,Am J Gastroenterol,2002,97,1748,12135030,s1,,no_oa
+2052,Am J Gastroenterol 2000 Jul;95(7):1749-54,Am J Gastroenterol,2000,95,1749,10925979,s1,,no_oa
+2054,"Am J Emerg Med, 2015, 33: 14-20",Am J Emerg Med,2015,33,14,25445859,s1,,no_oa
+2055,Am J Cardiol 1994 Jan 27;73(3):55A-58A,Am J Cardiol,1994,73,55A,8310978,s1,,no_oa
+2056,Am J Cardiol 1994 Jan 27;73(3):50A-54A,Am J Cardiol,1994,73,50A,8310977,s1,,no_oa
+2057,"Am J Cardiol, 2012, 109: 576-80",Am J Cardiol,2012,109,576,22100194,s1,,no_oa
+2058,"Am J Cardiol, 2002, 89: 667-71",Am J Cardiol,2002,89,667,11897207,s1,,no_oa
+2059,Am Heart J 2015 Jun;169(6):906-915e13,Am Heart J,2015,169,906,26027630,s1,,no_oa
+2060,Am Heart J 1995 Mar;129(3):527-35,Am Heart J,1995,129,527,7872184,s1,,no_oa
+2061,Am Heart J 1993 Jun;125(6):1704-10,Am Heart J,1993,125,1704,8498314,s1,,no_oa
+2062,"Am Heart J, 2005, 150: 987-93",Am Heart J,2005,150,987,16290983,s1,,no_oa
+2065,"Allergy, 2011, 66: 1457-68",Allergy,2011,66,1457,21884529,s1,,no_oa
+2066,Allergy Asthma Proc Mar-Apr 2011;32(2):127-36,Allergy Asthma Proc,2011,32,127,21189151,s1,,no_oa
+2067,Allergy Asthma Proc 2017 Sep 21;38(5):343-353,Allergy Asthma Proc,2017,38,343,28639542,s1,,no_oa
+2068,Allergy Asthma Proc 2017 Jul 24;38(4):264-276,Allergy Asthma Proc,2017,38,264,28540844,s1,,no_oa
+2069,Aliment Pharmacol Ther 2016 Jul;44(2):157-69,Aliment Pharmacol Ther,2016,44,157,27218676,s1,5089609,downloaded
+2070,Aliment Pharmacol Ther 2015 Sep;42(5):504-14,Aliment Pharmacol Ther,2015,42,504,26119226,s1,4755132,downloaded
+2071,Aliment Pharmacol Ther 2015 Nov;42(10):1170-81,Aliment Pharmacol Ther,2015,42,1170,26400458,s1,,no_oa
+2072,Aliment Pharmacol Ther 2013 Aug;38(3):264-73,Aliment Pharmacol Ther,2013,38,264,23734840,s1,,no_oa
+2073,Aliment Pharmacol Ther 2011 Jan;33(2):185-93,Aliment Pharmacol Ther,2011,33,185,21083671,s1,,no_oa
+2074,Aliment Pharmacol Ther 2010 Oct;32(8):990-9,Aliment Pharmacol Ther,2010,32,990,20937044,s1,,no_oa
+2075,Aliment Pharmacol Ther 2007 Aug 1;26(3):421-30,Aliment Pharmacol Ther,2007,26,421,17635377,s1,,no_oa
+2076,Aliment Pharmacol Ther 2006 May 15;23(10):1415-25,Aliment Pharmacol Ther,2006,23,1415,16669956,s1,,no_oa
+2077,Aliment Pharmacol Ther 2006 Mar 1;23(5):617-28,Aliment Pharmacol Ther,2006,23,617,16480401,s1,,no_oa
+2078,Aliment Pharmacol Ther 2005 Feb 15;21(4):373-84,Aliment Pharmacol Ther,2005,21,373,15709987,s1,,no_oa
+2079,Aliment Pharmacol Ther 2005 Feb 15;21(4):363-71,Aliment Pharmacol Ther,2005,21,363,15709986,s1,,no_oa
+2080,Aliment Pharmacol Ther 2004 Dec;20(11-12):1337-46,,,,,,unparsed_citation,,
+2081,Aliment Pharmacol Ther 2003 Jun 1;17(11):1355-64,Aliment Pharmacol Ther,2003,17,1355,12786629,s1,,no_oa
+2082,Aliment Pharmacol Ther 2001 Sep;15(9):1323-9,Aliment Pharmacol Ther,2001,15,1323,11552902,s1,,no_oa
+2083,Aliment Pharmacol Ther 1998 Feb;12(2):175-83,Aliment Pharmacol Ther,1998,12,175,9692692,s1,,no_oa
+2084,Aliment Pharmacol Ther 1997 Oct;11(5):845-52,Aliment Pharmacol Ther,1997,11,845,9354191,s1,,no_oa
+2085,Aliment Pharmacol Ther 1996 Oct;10(5):729-36,Aliment Pharmacol Ther,1996,10,729,8899080,s1,,no_oa
+2086,Aliment Pharmacol Ther 1995 Dec;9(6):673-83,Aliment Pharmacol Ther,1995,9,673,8824656,s1,,no_oa
+2087,"Aliment Pharmacol Ther, 1996, 10: 251-61",Aliment Pharmacol Ther,1996,10,251,8791947,s1,,no_oa
+2088,AIDS 2017 Nov 28;31(18):2503-2514,AIDS,2017,31,2503,29112070,s1,5690310,downloaded
+2089,AIDS 2013 Jul 17;27(11):1771-8,AIDS,2013,27,1771,23807273,s1,3694319,downloaded
+2090,AIDS 1997 Oct;11(12):1463-71,AIDS,1997,11,1463,9342068,s1,,no_oa
+2091,"Aesthetic Plast Surg, 2008, 32: 724-30",Aesthetic Plast Surg,2008,32,724,18663516,s1,2696607,downloaded
+2092,"Acta Paediatr, 2001, 90: 904-8",Acta Paediatr,2001,90,904,11529540,s1,,
+2093,Acta Oncol 2012 Sep;51(7):860-6,Acta Oncol,2012,51,860,22559158,s1,,no_oa
+2094,Acta Med Scand 1988;224(4):357-65,Acta Med Scand,1988,224,357,3142220,s1,,no_oa
+2095,Acta Medica Mediterranea2013; 29(2): 259-64,,,,,,unparsed_citation,,
+2096,Ain Shams J Anesthesiol 2012;5:11–22,Ain Shams J Anesthesiol,2012,5,11,,unresolved,,
+2098,Am Heart J 2005 Jan;149(1):e1,,,,,,unparsed_citation,,
+2099,"Am J Gastroenterol, 1993, 88: 208-11",Am J Gastroenterol,1993,88,208,8424422,s1,,
+2100,"Am J Trop Med Hyg, 1983, 32: 886-90",Am J Trop Med Hyg,1983,32,886,6349401,s1,,no_oa
+2101,Anaesth Pain Intens Care 22(1): 16–25,,,,,,unparsed_citation,,
+2102,Ann Oncol 2013 Apr;24(4):1032-7,Ann Oncol,2013,24,1032,23235801,s1,,no_oa
+2103,Brain 2015 Nov;138(Pt 11):3400-12,,,,,,unparsed_citation,,
+2104,Breast 2013 Oct;22(5):650-6 ,Breast,2013,22,650,23958375,s1,,no_oa
+2105,"Breast Cancer (Dove Med Press), 2013, 5: 37-42",Breast Cancer (Dove Med Press),2013,5,37,24648756,s1,3929329,downloaded
+2106,Breast Cancer Res Treat 2010 Jun;121(2):379-87,Breast Cancer Res Treat,2010,121,379,20390343,s1,,no_oa
+2107,Breast Cancer Res Treat 2010 May;121(1):121-31,Breast Cancer Res Treat,2010,121,121,20339913,s1,2855860,downloaded
+2108,Breast Cancer Res Treat 2010 Sep;123(2):463-9,Breast Cancer Res Treat,2010,123,463,20652398,s1,,no_oa
+2109,Breast Cancer Res Treat 2012 May;133(1):227-36,Breast Cancer Res Treat,2012,133,227,22234519,s1,,no_oa
+2110,Breast Cancer Res Treat 2013 Feb;137(3):755-66,Breast Cancer Res Treat,2013,137,755,23283526,s1,,no_oa
+2111,Can J Anaesth 1993 May;40(5 Pt 1):444-7,,,,,,unparsed_citation,,
+2112,Cancer 1992 Nov 1;70(9):2281-7,Cancer,1992,70,2281,1394057,s1,,no_oa
+2113,Cancer 1994 Mar 15;73(6):1562-8,Cancer,1994,73,1562,8156482,s1,,no_oa
+2114,Cancer 1996 Jan 15;77(2):245-50,Cancer,1996,77,245,8625230,s1,,no_oa
+2115,Cancer 2004 Apr 15;100(8):1639-45 ,Cancer,2004,100,1639,15073851,s1,,no_oa
+2116,Cancer 2014 Jun 15;120(12):1838-46,Cancer,2014,120,1838,24706489,s1,4298760,download_error
+2117,Cancer 2015 Mar 15;121(6):883-92,Cancer,2015,121,883,25377507,s1,,no_oa
+2119,Cancer Chemother Pharmacol 2007 Jun;60(1):143-50,Cancer Chemother Pharmacol,2007,60,143,17031643,s1,,no_oa
+2120,Cancer Chemother Pharmacol 2012 May;69(5):1197-204,Cancer Chemother Pharmacol,2012,69,1197,22249272,s1,,no_oa
+2121,Cancer Chemother Pharmacol 2014 Feb;73(2):389-96,Cancer Chemother Pharmacol,2014,73,389,24322377,s1,,no_oa
+2122,Cancer Chemother Pharmacol 2015 Mar;75(3):569-77,Cancer Chemother Pharmacol,2015,75,569,25575764,s1,,no_oa
+2123,Cancer Med 2015 Jan;4(1):16-26,Cancer Med,2015,4,16,25165041,s1,4312114,downloaded
+2124,Cancer Med 2018 Apr;7(4):1043-1055,Cancer Med,2018,7,1043,29533000,s1,5911578,downloaded
+2125,Cancer Prev Res (Phila) 2011 Aug;4(8):1181-9,Cancer Prev Res (Phila),2011,4,1181,21685235,s1,,no_oa
+2126,Cancer Sci 2016 Dec;107(12):1843-1850,Cancer Sci,2016,107,1843,27712015,s1,5198953,downloaded
+2127,"Cancer, 2013, 119: 339-47",Cancer,2013,119,339,22811009,s1,,no_oa
+2128,Cardiovasc Diabetol 2013 Apr 8;12:59,Cardiovasc Diabetol,2013,12,59,23565740,s1,3637086,downloaded
+2131,Cardiovasc Drugs Ther 2016 Oct;30(5):473-483,Cardiovasc Drugs Ther,2016,30,473,27618825,s1,5055560,downloaded
+2133,Chin J Hosp Pharm 2007;27:1277–1278,Chin J Hosp Pharm,2007,27,1277,,unresolved,,
+2134,Chin Med J (Engl) 2008 Apr 20;121(8):687-90,Chin Med J (Engl),2008,121,687,18701019,s1,,
+2135,"Chin Med J (Engl), 2012, 125: 1845-51",Chin Med J (Engl),2012,125,1845,22884040,s1,,
+2136,Circ J 2012;76(9):2104-11,Circ J,2012,76,2104,22664783,s1,,downloaded
+2138,Circulation 1999 Mar 30;99(12):1540-7,Circulation,1999,99,1540,10096928,s1,,no_oa
+2139,Circulation 2000 Sep 26;102(13):1503-10,Circulation,2000,102,1503,11004140,s1,,no_oa
+2140,Circulation 2006 Jul 4;114(1):48-54,Circulation,2006,114,48,16801459,s1,,no_oa
+2141,Circulation 2008 Jun 10;117(23):3010-9,Circulation,2008,117,3010,18506008,s1,,no_oa
+2142,Circulation 2010 Mar 16;121(10):1176-87,Circulation,2010,121,1176,20194881,s1,,no_oa
+2144,"Circulation, 1997, 96: 404-7",Circulation,1997,96,404,9244203,s1,,no_oa
+2146,"Circulation, 2002, 105: 2646-52",Circulation,2002,105,2646,12045171,s1,,no_oa
+2147,"Circulation, 2002, 106: 2428-33",Circulation,2002,106,2428,12417538,s1,,no_oa
+2149,"Circulation, 2006, 113: 427-37",Circulation,2006,113,427,16415377,s1,,no_oa
+2150,"Circulation, 2013, 127: 96-103",Circulation,2013,127,96,23183941,s1,4450764,no_open_pdf
+2151,Clin Breast Cancer 2015 Feb;15(1):8-15,Clin Breast Cancer,2015,15,8,25218708,s1,,no_oa
+2152,Clin Cancer Res 2010 Feb 15;16(4):1307-14,Clin Cancer Res,2010,16,1307,20145166,s1,,no_oa
+2153,Clin Cancer Res 2012 Sep 1;18(17):4841-9,Clin Cancer Res,2012,18,4841,22893628,s1,,no_oa
+2154,Clin Cancer Res 2013 Jan 1;19(1):215-24,Clin Cancer Res,2013,19,215,23136195,s1,,no_oa
+2155,Clin Cancer Res 2014 Aug 15;20(16):4240-50 ,Clin Cancer Res,2014,20,4240,24919569,s1,4371780,download_error
+2156,"Clin Cancer Res, 2012, 18: 555-67",Clin Cancer Res,2012,18,555,22048237,s1,3549298,no_open_pdf
+2157,Clin Colorectal Cancer 2015 Jun;14(2):72-80,Clin Colorectal Cancer,2015,14,72,25982297,s1,,no_oa
+2158,Clin Colorectal Cancer 2015 Sep;14(3):162-9,Clin Colorectal Cancer,2015,14,162,25861836,s1,,no_oa
+2159,Clin Drug Investig 2001 21(4): 243–255 https://doiorg/102165/00044011-200121040-00002,,,,,,unparsed_citation,,
+2160,Clin Drug Investig 2004;24(6):333-41,Clin Drug Investig,2004,24,333,17516720,s1,,no_oa
+2161,"Clin Drug Investig, 2008, 28: 625-34",Clin Drug Investig,2008,28,625,18783301,s1,,no_oa
+2162,"Clin Exp Pharmacol Physiol, 2009, 36: 554-8",Clin Exp Pharmacol Physiol,2009,36,554,19673939,s1,,no_oa
+2163,Clin Exp Rheumatol Mar-Apr 2003;21(2):193-8,Clin Exp Rheumatol,2003,21,193,12747273,s1,,
+2164,Clin Gastroenterol Hepatol 2004 Jul;2(7):542-53,Clin Gastroenterol Hepatol,2004,2,542,15224278,s1,,no_oa
+2165,Clin Gastroenterol Hepatol 2006 Jul;4(7):888-93,Clin Gastroenterol Hepatol,2006,4,888,16797249,s1,,no_oa
+2166,Clin Gastroenterol Hepatol 2006 Mar;4(3):325-34,Clin Gastroenterol Hepatol,2006,4,325,16527696,s1,,no_oa
+2167,Clin Gastroenterol Hepatol 2007 Feb;5(2):215-20,Clin Gastroenterol Hepatol,2007,5,215,17296530,s1,,no_oa
+2168,Clin Gastroenterol Hepatol 2007 Jan;5(1):95-102,Clin Gastroenterol Hepatol,2007,5,95,17234558,s1,,no_oa
+2169,Clin Gastroenterol Hepatol 2008 Dec;6(12):1370-7,Clin Gastroenterol Hepatol,2008,6,1370,18829392,s1,,no_oa
+2171,Clin Gastroenterol Hepatol 2014 Sep;12(9):1485-93e2,Clin Gastroenterol Hepatol,2014,12,1485,24480677,s1,,no_oa
+2172,Clin Genitourin Cancer 2012 Mar;10(1):6-14,Clin Genitourin Cancer,2012,10,6,22340631,s1,,no_oa
+2173,Clin Infect Dis 2004 Feb 1;38(3):377-83 ,Clin Infect Dis,2004,38,377,14727208,s1,,no_oa
+2174,Clin Infect Dis 2010 Jul 15;51(2):225-32,Clin Infect Dis,2010,51,225,20536366,s1,,no_oa
+2175,"Clin Infect Dis, 1998, 26: 611-9",Clin Infect Dis,1998,26,611,9524832,s1,,no_oa
+2176,"Clin Infect Dis, 2001, 33: 1447-54",Clin Infect Dis,2001,33,1447,11577374,s1,,no_oa
+2177,"Clin Infect Dis, 2005, 40: 358-65",Clin Infect Dis,2005,40,358,15668857,s1,,no_oa
+2178,"Clin Infect Dis, 2007, 45: 1462-9",Clin Infect Dis,2007,45,1462,17990229,s1,,no_oa
+2179,"Clin Infect Dis, 2008, 46: 1157-64",Clin Infect Dis,2008,46,1157,18444850,s1,,no_oa
+2180,Clin Lung Cancer 2003 Mar;4(5):288-93,Clin Lung Cancer,2003,4,288,14609446,s1,,no_oa
+2181,"Clin Microbiol Infect, 2016, 22: 565e1-9",,,,,,unparsed_citation,,
+2182,"Clin Orthop Relat Res, 2001, undefined: 130-43",,,,,,unparsed_citation,,
+2183,"Clin Otolaryngol Allied Sci, 2003, 28: 371-3",Clin Otolaryngol Allied Sci,2003,28,371,12871256,s1,,no_oa
+2184,Clin Pharmacol Ther 1987 Sep;42(3):254-9,Clin Pharmacol Ther,1987,42,254,2887327,s1,,no_oa
+2185,Clin Ther 2006 Jan;28(1):73-85,Clin Ther,2006,28,73,16490581,s1,,no_oa
+2188,Clin Ther 2012 Mar;34(3):580-92,Clin Ther,2012,34,580,22385927,s1,,no_oa
+2190,Clin Ther 2015 Jul 1;37(7):1493-502,Clin Ther,2015,37,1493,26101175,s1,,no_oa
+2191,Clin Ther Nov-Dec 1996;18(6):1213-24,Clin Ther,1996,18,1213,9001838,s1,,no_oa
+2193,"Clin Ther, 2013, 35: 431-9",Clin Ther,2013,35,431,23474153,s1,,no_oa
+2194,Clinical Research and Regulatory Affairs 2010;27:87–95,Clinical Research and Regulatory Affairs,2010,27,87,,unresolved,,
+2195,Clinical Research and Regulatory Affairs 2011;28(1): 14–21 (https://doiorg/103109/106013332010544315),,,,,,unparsed_citation,,
+2197,Congest Heart Fail May-Jun 2010;16(3):111-7,Congest Heart Fail,2010,16,111,20557330,s1,,no_oa
+2199,"Crit Care Med, 2002, 30: 1237-41",Crit Care Med,2002,30,1237,12072674,s1,,no_oa
+2200,Curr Med Res Opin 2003;19(5):383-94,Curr Med Res Opin,2003,19,383,13678475,s1,,no_oa
+2201,Curr Med Res Opin 2007 Jun;23(6):1341-9,Curr Med Res Opin,2007,23,1341,17594775,s1,,no_oa
+2202,Curr Med Res Opin 2007 Mar;23(3):515-22,Curr Med Res Opin,2007,23,515,17355733,s1,,no_oa
+2203,Curr Med Res Opin 2008 Feb;24(2):537-50,Curr Med Res Opin,2008,24,537,18194595,s1,,no_oa
+2204,Curr Med Res Opin 2008 Jun;24(6):1669-82,Curr Med Res Opin,2008,24,1669,18462564,s1,,no_oa
+2205,Curr Med Res Opin 2010 Oct;26(10):2339-46,Curr Med Res Opin,2010,26,2339,20735290,s1,,no_oa
+2208,"Curr Med Res Opin, 1988, 11: 205-13",Curr Med Res Opin,1988,11,205,3063436,s1,,no_oa
+2210,"Curr Med Res Opin, 2004, 20: 911-8",Curr Med Res Opin,2004,20,911,15200750,s1,,no_oa
+2211,"Curr Med Res Opin, 2010, 26: 1277-84",Curr Med Res Opin,2010,26,1277,20367555,s1,,no_oa
+2212,"Curr Ther Res Clin Exp, 2009, 70: 185-96",Curr Ther Res Clin Exp,2009,70,185,24683229,s1,3967292,downloaded
+2213,"Dermatol Surg, 2005, 31: 257-62",Dermatol Surg,2005,31,257,15841623,s1,,no_oa
+2214,"Dermatol Surg, 2007, 33: S2-9",,,,,,unparsed_citation,,
+2215,"Dermatol Surg, 2007, 33: S51-9",,,,,,unparsed_citation,,
+2216,"Dermatol Surg, 2009, 35: 1893-901",Dermatol Surg,2009,35,1893,19549186,s1,,no_oa
+2217,"Dermatol Surg, 2010, 36: 102-8",Dermatol Surg,2010,36,102,20002637,s1,,no_oa
+2218,"Dermatol Surg, 2013, 39: 551-8",Dermatol Surg,2013,39,551,23379292,s1,,no_oa
+2219,"Dermatol Surg, 2013, 39: 891-9",Dermatol Surg,2013,39,891,23506308,s1,,no_oa
+2220,"Dermatol Surg, 2014, 40: 1181-90",Dermatol Surg,2014,40,1181,25347451,s1,,no_oa
+2221,"Dermatol Surg, 2015, 41: 102-12",Dermatol Surg,2015,41,102,25485803,s1,,no_oa
+2222,"Dermatol Surg, 2015, null: S56-63",,,,,,unparsed_citation,,
+2223,Diabet Med 2010 Mar;27(3):318-26,Diabet Med,2010,27,318,20536495,s1,,no_oa
+2224,"Diabet Med, 2013, 30: 1472-6",Diabet Med,2013,30,1472,23802840,s1,,no_oa
+2225,"Diabet Med, 2015, 32: 531-41",Diabet Med,2015,32,531,25381876,s1,,no_oa
+2226,Diabetes Care 1995 Aug;18(8):1113-23,Diabetes Care,1995,18,1113,7587846,s1,,no_oa
+2227,Diabetes Care 2005 Sep;28(9):2093-9,Diabetes Care,2005,28,2093,16123472,s1,,no_oa
+2228,Diabetes Care 2007 Aug;30(8):1979-87,Diabetes Care,2007,30,1979,17485570,s1,,no_oa
+2229,Diabetes Care 2008 Jan;31(1):30-5,Diabetes Care,2008,31,30,17947341,s1,,no_oa
+2230,Diabetes Care 2011 Sep;34(9):2015-22,Diabetes Care,2011,34,2015,21816980,s1,3161265,download_error
+2231,Diabetes Care 2013 Feb;36(2):237-44,Diabetes Care,2013,36,237,23033241,s1,3554278,no_open_pdf
+2232,Diabetes Care 2013 May;36(5):1304-11,Diabetes Care,2013,36,1304,23230096,s1,3631843,downloaded
+2234,"Diabetes Care, 2012, 35: 683-9",Diabetes Care,2012,35,683,22357185,s1,3308312,downloaded
+2235,"Diabetes Care, 2013, 36: 4015-21",Diabetes Care,2013,36,4015,24186878,s1,3836134,downloaded
+2238,"Diabetes Care, 2015, 38: 2018-24",Diabetes Care,2015,38,2018,26324329,s1,,no_oa
+2240,Diabetes Metab J 2011 Oct;35(5):529-35,Diabetes Metab J,2011,35,529,22111045,s1,3221029,downloaded
+2241,Diabetes Metab Res Rev 2014 Oct;30(7):582-9,Diabetes Metab Res Rev,2014,30,582,24459063,s1,,no_oa
+2242,"Diabetes Metab Res Rev, 2014, 30: 726-35",Diabetes Metab Res Rev,2014,30,726,24639432,s1,,no_oa
+2243,Diabetes Obes Metab 2007 Mar;9(2):166-74,Diabetes Obes Metab,2007,9,166,17300592,s1,,no_oa
+2244,Diabetes Obes Metab 2007 Mar;9(2):194-205,Diabetes Obes Metab,2007,9,194,17300595,s1,,no_oa
+2245,Diabetes Obes Metab 2007 Sep;9(5):733-45,Diabetes Obes Metab,2007,9,733,17593236,s1,,no_oa
+2246,Diabetes Obes Metab 2008 Aug;10(8):675-82,Diabetes Obes Metab,2008,10,675,18248490,s1,,no_oa
+2247,Diabetes Obes Metab 2009 Feb;11(2):167-76,Diabetes Obes Metab,2009,11,167,19125778,s1,,no_oa
+2248,Diabetes Obes Metab 2010 Sep;12(9):780-9,Diabetes Obes Metab,2010,12,780,20649630,s1,,no_oa
+2249,Diabetes Obes Metab 2011 Oct;13(10):947-54 ,Diabetes Obes Metab,2011,13,947,21733061,s1,,no_oa
+2250,Diabetes Obes Metab 2012 Dec;14(12):1145-54,Diabetes Obes Metab,2012,14,1145,22974280,s1,,no_oa
+2251,Diabetes Obes Metab 2012 Nov;14(11):1032-9,Diabetes Obes Metab,2012,14,1032,22690943,s1,,no_oa
+2252,Diabetes Obes Metab 2013 Dec;15(12):1111-9,Diabetes Obes Metab,2013,15,1111,23782529,s1,,no_oa
+2253,Diabetes Obes Metab 2013 Mar;15(3):252-7,Diabetes Obes Metab,2013,15,252,23039321,s1,,no_oa
+2254,Diabetes Obes Metab 2013 May;15(5):463-73,Diabetes Obes Metab,2013,15,463,23464594,s1,3654568,downloaded
+2255,Diabetes Obes Metab 2013 Sep;15(9):810-8,Diabetes Obes Metab,2013,15,810,23464664,s1,,no_oa
+2257,Diabetes Obes Metab 2017 Jun;19(6):892-896,Diabetes Obes Metab,2017,19,892,28058753,s1,,no_oa
+2258,"Diabetes Obes Metab, 2015, 17: 665-74",Diabetes Obes Metab,2015,17,665,25772548,s1,,no_oa
+2259,"Diabetes Obes Metab, 2015, 17: 849-58",Diabetes Obes Metab,2015,17,849,25912221,s1,5008205,downloaded
+2260,"Diabetes Obes Metab, 2015, 17: 974-83",Diabetes Obes Metab,2015,17,974,26179187,s1,5042083,downloaded
+2261,"Diabetes Obes Metab, 2015, 17: 994-1002",Diabetes Obes Metab,2015,17,994,26179754,s1,5042081,downloaded
+2263,"Diabetes Obes Metab, 2016, 18: 803-11",Diabetes Obes Metab,2016,18,803,27060930,s1,5084818,downloaded
+2267,Diabetes Res Clin Pract 1999 Mar;43(3):155-66,Diabetes Res Clin Pract,1999,43,155,10369424,s1,,no_oa
+2268,Diabetes Res Clin Pract 2009 Jan;83(1):106-16,Diabetes Res Clin Pract,2009,83,106,19097665,s1,,no_oa
+2269,Diabetes Res Clin Pract 2015 Jul;109(1):141-8,Diabetes Res Clin Pract,2015,109,141,26003889,s1,,no_oa
+2270,Diabetes Technol Ther 2013 Mar;15(3):214-22,Diabetes Technol Ther,2013,15,214,23427864,s1,,no_oa
+2271,Diabetes Ther 2015 Jun;6(2):127-42,Diabetes Ther,2015,6,127,25820927,s1,4478181,downloaded
+2272,Diabetol Metab Syndr 2016 Feb 27;8:15,Diabetol Metab Syndr,2016,8,15,26925169,s1,4769515,downloaded
+2274,Diabetologia 1996 Dec;39(12):1629-33,Diabetologia,1996,39,1629,8960854,s1,,downloaded
+2275,"Diabetologia, 2016, 59: 266-74",Diabetologia,2016,59,266,26577795,s1,4705137,downloaded
+2276,Dig Dis Sci 1987 Dec;32(12 Suppl):71S-75S,,,,,,unparsed_citation,,
+2277,"Dis Colon Rectum, 2000, 43: 333-7",Dis Colon Rectum,2000,43,333,10733114,s1,,no_oa
+2278,Drug Saf 2009;32(9):787-800,Drug Saf,2009,32,787,19670918,s1,,no_oa
+2279,Drugs 2009;69(5):549-65,Drugs,2009,69,549,19368417,s1,3580134,downloaded
+2280,Drugs Aging 2015 Jun;32(6):469-76,Drugs Aging,2015,32,469,26041585,s1,,no_oa
+2284,"Epilepsia, 2013, 54: 89-97",Epilepsia,2013,54,89,22813235,s3,,no_oa
+2285,"Epilepsia, 2014, 55: 38-46",Epilepsia,2014,55,38,24116853,s1,,no_oa
+2286,"Epilepsia, 2014, 55: 47-56",Epilepsia,2014,55,47,24256083,s1,,no_oa
+2287,"Epilepsia, 2014, 55: 57-66",Epilepsia,2014,55,57,24446953,s1,,no_oa
+2288,"Epilepsia, 2015, 56: 1890-8",Epilepsia,2015,56,1890,26471380,s1,,no_oa
+2289,"Epilepsia, 2016, 57: 210-21",Epilepsia,2016,57,210,26666500,s1,,no_oa
+2290,Eur Heart J 2015 May 14;36(19):1186-94,Eur Heart J,2015,36,1186,25687353,s1,4430683,downloaded
+2291,Eur Heart J 2015 Nov 14;36(43):2996-3003 ,Eur Heart J,2015,36,2996,26330422,s1,4644253,downloaded
+2292,"Eur Heart J, 1999, 20: 121-7",Eur Heart J,1999,20,121,10099908,s1,,no_oa
+2293,Eur J Cancer 2012 Nov;48(16):3082-92,Eur J Cancer,2012,48,3082,22975218,s1,,no_oa
+2294,Eur J Cancer 2013 Dec;49(18):3763-72,Eur J Cancer,2013,49,3763,23953056,s1,,no_oa
+2295,Eur J Cancer 2013 May;49(7):1609-18,Eur J Cancer,2013,49,1609,23265705,s1,,no_oa
+2296,Eur J Cancer 2013 Nov;49(17):3609-15,Eur J Cancer,2013,49,3609,23899530,s1,,no_oa
+2297,Eur J Cancer 2013 Sep;49(14):2995-3002,Eur J Cancer,2013,49,2995,23810466,s1,,no_oa
+2299,"Eur J Cancer, 2011, 47: 2331-40",Eur J Cancer,2011,47,2331,21802939,s1,,no_oa
+2300,"Eur J Cancer, 2013, 49: 1609-18",Eur J Cancer,2013,49,1609,23265705,s1,,no_oa
+2301,"Eur J Cancer, 2014, 50: 2072-81",Eur J Cancer,2014,50,2072,24915778,s1,,no_oa
+2302,"Eur J Cancer, 2015, 51: 1212-20",Eur J Cancer,2015,51,1212,25892646,s1,,no_oa
+2303,Eur J Clin Microbiol Infect Dis 2001 Jul;20(7):445-51,Eur J Clin Microbiol Infect Dis,2001,20,445,11561799,s1,,no_oa
+2304,"Eur J Clin Microbiol Infect Dis, 1998, 17: 309-12",Eur J Clin Microbiol Infect Dis,1998,17,309,9721958,s1,,no_oa
+2305,"Eur J Haematol, 2016, 96: 602-9",Eur J Haematol,2016,96,602,26216048,s1,,no_oa
+2307,Eur J Vasc Endovasc Surg 2005 Apr;29(4):403-11,Eur J Vasc Endovasc Surg,2005,29,403,15749042,s1,,no_oa
+2308,Eur Neuropsychopharmacol 2005 Jan;15(1):111-7,Eur Neuropsychopharmacol,2005,15,111,15572280,s1,,no_oa
+2309,Eur Psychiatry 2006 Jan;21(1):34-40,Eur Psychiatry,2006,21,34,16360311,s1,,no_oa
+2310,"Eur Psychiatry, 2007, 22: 395-403",Eur Psychiatry,2007,22,395,17482432,s1,,no_oa
+2311,Eur Respir J 2003 Dec;22(6):912-9 ,Eur Respir J,2003,22,912,14680078,s1,,no_oa
+2312,Eur Respir J 2004 Sep;24(3):353-9 ,Eur Respir J,2004,24,353,15358690,s1,,no_oa
+2313,Eur Respir J 2008 Sep;32(3):619-28,Eur Respir J,2008,32,619,18448495,s1,,no_oa
+2314,Eur Respir J 2013 Dec;42(6):1622-32,Eur Respir J,2013,42,1622,23682110,s1,,no_oa
+2315,"Eur Respir J, 2011, 37: 164-72",Eur Respir J,2011,37,164,20562124,s1,,no_oa
+2316,Eur Urol 2007 Jul;52(1):134-41,Eur Urol,2007,52,134,17207911,s1,,no_oa
+2317,Exp Clin Endocrinol Diabetes 2008 Jan;116(1):6-13,Exp Clin Endocrinol Diabetes,2008,116,6,18095238,s1,,no_oa
+2318,Exp Dermatol 2015 Jul;24(7):529-35,Exp Dermatol,2015,24,529,25828362,s1,4676308,downloaded
+2319,"Eye (Lond), 2017, 31: 389-394",Eye (Lond),2017,31,389,27768119,s1,5350357,downloaded
+2320,Front Psychiatry 2016 Jan 21;7:2,Front Psychiatry,2016,7,2,26834651,s1,4720778,downloaded
+2321,"Gastric Cancer, 2015, 18: 168-76",Gastric Cancer,2015,18,168,24557418,s1,4544634,downloaded
+2322,"Gastroenterol Hepatol Bed Bench, 2013, 6: 195-201",Gastroenterol Hepatol Bed Bench,2013,6,195,24834272,s1,4017518,downloaded
+2325,Gastroenterology  2016 Feb;150(2):380-8e4,Gastroenterology,2016,150,380,26632520,s1,,no_oa
+2326,Gastroenterology 1974 May;66(5):916-22,Gastroenterology,1974,66,916,4597093,s1,,
+2327,Gastroenterology 1987 Jun;92(6):1894-8,Gastroenterology,1987,92,1894,3569765,s1,,no_oa
+2328,Gastroenterology 1992 Aug;103(2):363-8,Gastroenterology,1992,103,363,1634054,s1,,no_oa
+2329,Gastroenterology 1993 Aug;105(2):367-72,Gastroenterology,1993,105,367,8335191,s1,,no_oa
+2331,Gastroenterology 1994 Jun;106(6):1429-35,Gastroenterology,1994,106,1429,8194687,s1,,no_oa
+2332,Gastroenterology 1995 Sep;109(3):774-82,Gastroenterology,1995,109,774,7657105,s1,,no_oa
+2333,Gastroenterology 1996 Jan;110(1):45-51,Gastroenterology,1996,110,45,8536887,s1,,no_oa
+2334,Gastroenterology 1996 Mar;110(3):688-93,Gastroenterology,1996,110,688,8608877,s1,,no_oa
+2335,Gastroenterology 1997 Apr;112(4):1069-77,Gastroenterology,1997,112,1069,9097988,s1,,no_oa
+2336,Gastroenterology 1997 Aug;113(2):383-9,Gastroenterology,1997,113,383,9247454,s1,,no_oa
+2337,Gastroenterology 1999 Jul;117(1):58-64,Gastroenterology,1999,117,58,10381910,s1,,no_oa
+2338,Gastroenterology 1999 Oct;117(4):761-9,Gastroenterology,1999,117,761,10500056,s1,,no_oa
+2339,Gastroenterology 1999 Sep;117(3):527-35,Gastroenterology,1999,117,527,10464128,s1,,no_oa
+2340,Gastroenterology 2000 Dec;119(6):1461-72,Gastroenterology,2000,119,1461,11113067,s1,,no_oa
+2341,Gastroenterology 2000 Dec;119(6):1473-82,Gastroenterology,2000,119,1473,11113068,s1,,no_oa
+2342,Gastroenterology 2001 Aug;121(2):268-74,Gastroenterology,2001,121,268,11487536,s1,,no_oa
+2343,Gastroenterology 2001 May;120(6):1330-8,Gastroenterology,2001,120,1330,11313302,s1,,no_oa
+2344,Gastroenterology 2001 Nov;121(5):1088-94,Gastroenterology,2001,121,1088,11677200,s1,,no_oa
+2345,Gastroenterology 2003 Aug;125(2):380-8,Gastroenterology,2003,125,380,12891539,s1,,no_oa
+2346,Gastroenterology 2004 Apr;126(4):989-96; discussion 947,,,,,,unparsed_citation,,
+2347,Gastroenterology 2005 Sep;129(3):807-18,Gastroenterology,2005,129,807,16143120,s1,,no_oa
+2348,Gastroenterology 2006 Apr;130(4):1054-61,Gastroenterology,2006,130,1054,16618399,s1,,no_oa
+2349,Gastroenterology 2006 Feb;130(2):323-33; quiz 591,,,,,,unparsed_citation,,
+2350,Gastroenterology 2007 Jan;132(1):52-65,Gastroenterology,2007,132,52,17241859,s1,,no_oa
+2351,Gastroenterology 2007 Jan;132(1):66-75; quiz 432-3,,,,,,unparsed_citation,,
+2352,Gastroenterology 2007 Jan;132(1):76-86,Gastroenterology,2007,132,76,17241861,s1,,no_oa
+2353,Gastroenterology 2007 May;132(5):1672-83,Gastroenterology,2007,132,1672,17484865,s1,,no_oa
+2354,Gastroenterology 2008 Mar;134(3):688-95,Gastroenterology,2008,134,688,18325386,s1,2276587,no_open_pdf
+2355,Gastroenterology 2008 Oct;135(4):1130-41,Gastroenterology,2008,135,1130,18706417,s1,,no_oa
+2361,Gastroenterology 2013 Jul;145(1):149-157e2,Gastroenterology,2013,145,149,23528626,s1,,no_oa
+2362,Gastroenterology 2013 Oct;145(4):766-74e1,Gastroenterology,2013,145,766,23770132,s1,,no_oa
+2367,Gastroenterology 2017 Jul;153(1):77-86e6,Gastroenterology,2017,153,77,28390867,s1,,no_oa
+2368,"Gastroenterology, 2007, 132: 1726-39",Gastroenterology,2007,132,1726,17484870,s1,7094421,downloaded
+2369,Gut 1998 Apr;42(4):493-6,Gut,1998,42,493,9616309,s1,1727061,downloaded
+2370,Gut 2003 Jul;52(7):998-1002,Gut,2003,52,998,12801957,s1,1773722,downloaded
+2371,Gut 2003 Sep; 52(9): 1286–1290,Gut,2003,52,1286,12912859,s1,1773804,downloaded
+2372,Gut 2004 Oct;53(10):1485-93,Gut,2004,53,1485,15361500,s1,1774244,downloaded
+2373,Gut 2005 Jul;54(7):960-5,Gut,2005,54,960,15951542,s1,1774619,downloaded
+2374,Gut 2006 Aug;55(8):1131-7,Gut,2006,55,1131,16507585,s1,1856291,downloaded
+2375,Gut 2006 Aug;55(8):1138-44,Gut,2006,55,1138,16492717,s1,1856289,downloaded
+2376,Gut 2006 Nov;55(11):1568-74,Gut,2006,55,1568,16603634,s1,1860086,downloaded
+2377,Gut 2006 Sep;55(9):1255-62,Gut,2006,55,1255,16484504,s1,1860021,no_open_pdf
+2378,Gut 2007 Sep;56(9):1232-9,Gut,2007,56,1232,17299059,s1,2701613,downloaded
+2380,Gut 2009 Oct;58(10):1354-62,Gut,2009,58,1354,19505878,s1,,no_oa
+2381,Gut 2010 Jun;59(6):760-6,Gut,2010,59,760,20551461,s1,,no_oa
+2382,Gut 2011 Aug;60(8):1068-75,Gut,2011,60,1068,21317177,s1,,no_oa
+2383,Gut 2011 Jun;60(6):780-7,Gut,2011,60,780,21209123,s1,,no_oa
+2385,Gut 2012 Dec;61(12):1693-700,Gut,2012,61,1693,22595313,s1,4902107,no_open_pdf
+2386,Gut 2013 Aug;62(8):1122-30,Gut,2013,62,1122,22717454,s1,3711369,downloaded
+2387,Gut 2014 Mar;63(3):433-41,Gut,2014,63,433,23436336,s1,3933176,downloaded
+2389,Int Clin Psychopharmacol 2015,,,,,,unparsed_citation,,
+2390,"Int J Clin Pract, 2003, 57: 467-74",Int J Clin Pract,2003,57,467,12918884,s1,,
+2391,Int J Gynecol Cancer Sep-Oct 2008;18(5):1013-9,Int J Gynecol Cancer,2008,18,1013,17986242,s1,,no_oa
+2392,"International Journal of Atherosclerosis, 2007, 2(1)",,,,,,unparsed_citation,,
+2393,J Am Acad Child Adolesc Psychiatry 2011 Apr;50(4):395-405,J Am Acad Child Adolesc Psychiatry,2011,50,395,21421179,s1,,no_oa
+2394,J Anaesthesiol Clin Pharmacol 2005;21(4):413–8,J Anaesthesiol Clin Pharmacol,2005,21,413,,unresolved,,
+2395,J Clin Oncol 2006 Jul 1;24(19):3121-7,J Clin Oncol,2006,24,3121,16754935,s1,,no_oa
+2396,J Clin Oncol 2008 Dec 1;26(34):5544-52,J Clin Oncol,2008,26,5544,18955454,s1,2651098,downloaded
+2397,J Clin Oncol 2009 Nov 20;27(33):5538-46,J Clin Oncol,2009,27,5538,19786658,s1,,no_oa
+2398,J Clin Oncol 2010 Apr 1;28(10):1756-65,J Clin Oncol,2010,28,1756,20194844,s1,,no_oa
+2399,J Clin Oncol 2010 Aug 1;28(22):3562-9,J Clin Oncol,2010,28,3562,20606083,s1,,no_oa
+2400,"J Natl Cancer Inst, 2014, 106: undefined",,,,,,unparsed_citation,,
+2401,JAMA Oncol 2017 Nov 1;3(11):1520-1528,JAMA Oncol,2017,3,1520,28687830,s1,5710193,no_open_pdf
+2402,"Journal of Modern Oncology, 2008",,,,,,unparsed_citation,,
+2403,Lancet Oncol 2006 May;7(5):379-91,Lancet Oncol,2006,7,379,16648042,s1,,no_oa
+2404,N Engl J Med 2002 Jan 24;346(4):235-42,N Engl J Med,2002,346,235,11807147,s1,,no_oa
+2405,N Engl J Med 2007 May 10;356(19):1915-27,N Engl J Med,2007,356,1915,17494925,s1,,
+2406,N Engl J Med 2007 May 10;356(19):1928-43,N Engl J Med,2007,356,1928,17494926,s1,,no_oa
+2407,N Engl J Med 2012 Mar 29;366(13):1181-9 ,N Engl J Med,2012,366,1181,22455412,s1,,no_oa
+2408,Oncologist 2010;15(2):122-9,Oncologist,2010,15,122,20156908,s1,3227947,downloaded
+2409,Pediatr Infect Dis J 2007 Mar;26(3):201-9,Pediatr Infect Dis J,2007,26,201,17484215,s1,,no_oa
+2410,Rev Med Inst Mex Seguro Soc Mar-Apr 2015;53(2):142-8,Rev Med Inst Mex Seguro Soc,2015,53,142,25760742,s1,,
+2412,"Shaanxi Oncology Medicine, 2002",,,,,,unparsed_citation,,
+2416,"中国药业, 2015(7)",,,,,,unparsed_citation,,
+2417,"中国医药导报, 2012, 09(025):102-104",,,,,,unparsed_citation,,

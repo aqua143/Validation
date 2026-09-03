@@ -1088,3 +1088,398 @@ https://scikit-learn.org/stable/model_persistence.html#security-maintainability-
 2026-09-02 05:01:58,342 INFO evaluate: wrote /Users/vihaan/RCT-Reviewer-Validation/validation_results/report.md
 2026-09-02 05:01:58,342 INFO evaluate: wrote /Users/vihaan/RCT-Reviewer-Validation/validation_results/master_summary.csv
 ((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % 
+
+
+
+
+
+
+
+===================================================================================
+
+
+
+
+
+
+Last login: Fri Sep  4 00:05:08 on ttys005
+vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % source .venv/bin/activate
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % export S2_API_KEY=s2k-fgN9aTYMyPnMBkXB7HZNVv2pJzr7AYC8MFGC8OXi
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com
+another instance appears to be running (found /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/.lock). If none is, delete the lock file and rerun.
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com
+
+another instance appears to be running (found /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/.lock). If none is, delete the lock file and rerun.
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % export S2_API_KEY=s2k-fgN9aTYMyPnMBkXB7HZNVv2pJzr7AYC8MFGC8OXi
+
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % python evaluate_tian.py --unpaywall-email vihaansahu143@gmail.com
+=== phase: resolve ===
+resume: 1955 citations already resolved
+resolution done: 1820/1955 with PMID (93.1%)
+=== phase: pmcid ===
+  batch 1: 1815 PMIDs total, 2 PMC records so far
+  batch 2: 1815 PMIDs total, 14 PMC records so far
+  batch 3: 1815 PMIDs total, 24 PMC records so far
+  batch 4: 1815 PMIDs total, 39 PMC records so far
+  batch 5: 1815 PMIDs total, 49 PMC records so far
+  batch 6: 1815 PMIDs total, 71 PMC records so far
+  batch 7: 1815 PMIDs total, 91 PMC records so far
+  batch 8: 1815 PMIDs total, 112 PMC records so far
+  batch 9: 1815 PMIDs total, 142 PMC records so far
+  batch 10: 1815 PMIDs total, 165 PMC records so far
+  batch 11: 1815 PMIDs total, 195 PMC records so far
+  batch 12: 1815 PMIDs total, 226 PMC records so far
+  batch 13: 1815 PMIDs total, 266 PMC records so far
+  batch 14: 1815 PMIDs total, 298 PMC records so far
+  batch 15: 1815 PMIDs total, 330 PMC records so far
+  batch 16: 1815 PMIDs total, 370 PMC records so far
+  batch 17: 1815 PMIDs total, 417 PMC records so far
+  batch 18: 1815 PMIDs total, 423 PMC records so far
+  batch 19: 1815 PMIDs total, 424 PMC records so far
+PMCID conversion: 427/1815 PMIDs have a PMC record
+=== phase: download ===
+427 of 1955 trials have a PMC record
+  [ERR] 1 PMC3442260: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  -- 1/427 handled, 0 usable so far
+  [--] 38 PMC4134127: not open-access (HTTP 500, application/json;charset)
+  [--] 77 PMC5259561: not open-access (HTTP 500, application/json;charset)
+  [--] 124 PMC4790106: not open-access (HTTP 500, application/json;charset)
+  -- 26/427 handled, 22 usable so far
+  [--] 402 PMC3400721: not open-access (HTTP 500, application/json;charset)
+  [--] 424 PMC4656068: not open-access (HTTP 500, application/json;charset)
+  [--] 466 PMC5455807: not open-access (HTTP 500, application/json;charset)
+  [OK] 588 PMC4886538 (183 KB)
+  [--] 677 PMC4426225: not open-access (HTTP 500, application/json;charset)
+  [--] 680 PMC4172321: not open-access (HTTP 500, application/json;charset)
+  [--] 706 PMC4527951: not open-access (HTTP 500, application/json;charset)
+  [--] 719 PMC5175486: not open-access (HTTP 500, application/json;charset)
+  [--] 789 PMC5880727: not open-access (HTTP 500, application/json;charset)
+  [OK] 794 PMC3612594 (223 KB)
+  [--] 807 PMC4418931: not open-access (HTTP 500, application/json;charset)
+  [--] 808 PMC5635424: not open-access (HTTP 500, application/json;charset)
+  [--] 817 PMC5705936: not open-access (HTTP 500, application/json;charset)
+  [--] 818 PMC4681400: not open-access (HTTP 500, application/json;charset)
+  [--] 819 PMC4667942: not open-access (HTTP 500, application/json;charset)
+  [--] 829 PMC4681400: not open-access (HTTP 500, application/json;charset)
+  [--] 835 PMC4128024: not open-access (HTTP 500, application/json;charset)
+  [--] 839 PMC5570613: not open-access (HTTP 500, application/json;charset)
+  -- 126/427 handled, 106 usable so far
+  [--] 844 PMC3471149: not open-access (HTTP 500, application/json;charset)
+  [--] 861 PMC4124884: not open-access (HTTP 500, application/json;charset)
+  [--] 867 PMC5564292: not open-access (HTTP 500, application/json;charset)
+  [OK] 890 PMC3306831 (424 KB)
+  [--] 891 PMC3042231: not open-access (HTTP 500, application/json;charset)
+  [--] 892 PMC5630525: not open-access (HTTP 500, application/json;charset)
+  [--] 894 PMC3618988: not open-access (HTTP 500, application/json;charset)
+  [--] 904 PMC5485847: not open-access (HTTP 500, application/json;charset)
+  [--] 912 PMC4640209: not open-access (HTTP 500, application/json;charset)
+  [ERR] 917 PMC3184851: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [--] 918 PMC6886237: not open-access (HTTP 500, application/json;charset)
+  [--] 922 PMC3914416: not open-access (HTTP 500, application/json;charset)
+  [--] 934 PMC3159415: not open-access (HTTP 404, application/json;charset)
+  [OK] 942 PMC3438402 (196 KB)
+  [ERR] 943 PMC5017904: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [--] 946 PMC5719487: not open-access (HTTP 500, application/json;charset)
+  [--] 947 PMC5972549: not open-access (HTTP 500, application/json;charset)
+  [--] 949 PMC4300953: not open-access (HTTP 500, application/json;charset)
+  [--] 959 PMC2746027: not open-access (HTTP 500, application/json;charset)
+  [--] 973 PMC3121313: not open-access (HTTP 500, application/json;charset)
+  [--] 975 PMC2966972: not open-access (HTTP 500, application/json;charset)
+  [--] 978 PMC5744258: not open-access (HTTP 500, application/json;charset)
+  [--] 984 PMC9004487: not open-access (HTTP 500, application/json;charset)
+  [--] 985 PMC3164797: not open-access (HTTP 500, application/json;charset)
+  [--] 986 PMC4096941: not open-access (HTTP 500, application/json;charset)
+  [--] 1002 PMC3944935: not open-access (HTTP 500, application/json;charset)
+  [--] 1004 PMC3699713: not open-access (HTTP 404, application/json;charset)
+  [--] 1018 PMC3818400: not open-access (HTTP 500, application/json;charset)
+  [--] 1028 PMC3242358: not open-access (HTTP 500, application/json;charset)
+  [--] 1029 PMC3771701: not open-access (HTTP 500, application/json;charset)
+  [--] 1042 PMC5750086: not open-access (HTTP 500, application/json;charset)
+  [--] 1051 PMC5706778: not open-access (HTTP 500, application/json;charset)
+  [--] 1080 PMC5705202: not open-access (HTTP 500, application/json;charset)
+  [--] 1081 PMC5705192: not open-access (HTTP 500, application/json;charset)
+  [--] 1128 PMC5648545: not open-access (HTTP 500, application/json;charset)
+  [--] 1162 PMC4284815: not open-access (HTTP 500, application/json;charset)
+  [--] 1164 PMC3549297: not open-access (HTTP 500, application/json;charset)
+  [--] 1208 PMC5698905: not open-access (HTTP 500, application/json;charset)
+  [OK] 1210 PMC3888598 (2055 KB)
+  [--] 1211 PMC5698905: not open-access (HTTP 500, application/json;charset)
+  -- 226/427 handled, 169 usable so far
+  [--] 1277 PMC6886121: not open-access (HTTP 500, application/json;charset)
+  [OK] 1299 PMC3747923 (839 KB)
+  [OK] 1311 PMC4728977 (687 KB)
+  [--] 1313 PMC3268553: not open-access (HTTP 500, application/json;charset)
+  -- 251/427 handled, 192 usable so far
+  [--] 1324 PMC5584549: not open-access (HTTP 500, application/json;charset)
+  [--] 1369 PMC4208619: not open-access (HTTP 500, application/json;charset)
+  [--] 1442 PMC4312616: not open-access (HTTP 500, application/json;charset)
+  [--] 1482 PMC4459134: not open-access (HTTP 500, application/json;charset)
+  [--] 1484 PMC5828967: not open-access (HTTP 500, application/json;charset)
+  [--] 1520 PMC7193684: not open-access (HTTP 500, application/json;charset)
+  [--] 1534 PMC5744258: not open-access (HTTP 500, application/json;charset)
+  [--] 1537 PMC4722809: not open-access (HTTP 500, application/json;charset)
+  [--] 1543 PMC4134521: not open-access (HTTP 500, application/json;charset)
+  [--] 1548 PMC5698004: not open-access (HTTP 500, application/json;charset)
+  [--] 1556 PMC5705195: not open-access (HTTP 500, application/json;charset)
+  [--] 1563 PMC4083508: not open-access (HTTP 500, application/json;charset)
+  [--] 1566 PMC3220999: not open-access (HTTP 500, application/json;charset)
+  [--] 1581 PMC2324066: not open-access (HTTP 500, application/json;charset)
+  [--] 1617 PMC6325637: not open-access (HTTP 500, application/json;charset)
+  [--] 1618 PMC8288034: not open-access (HTTP 500, application/json;charset)
+  [--] 1623 PMC9792409: not open-access (HTTP 500, application/json;charset)
+  [--] 1627 PMC4985288: not open-access (HTTP 500, application/json;charset)
+  [--] 1629 PMC5131636: not open-access (HTTP 500, application/json;charset)
+  [--] 1633 PMC4010094: not open-access (HTTP 500, application/json;charset)
+  [--] 1638 PMC3401076: not open-access (HTTP 500, application/json;charset)
+  [--] 1643 PMC2714258: not open-access (HTTP 500, application/json;charset)
+  -- 301/427 handled, 220 usable so far
+  [--] 1660 PMC5024713: not open-access (HTTP 500, application/json;charset)
+  [--] 1663 PMC5125250: not open-access (HTTP 500, application/json;charset)
+  [--] 1692 PMC4878938: not open-access (HTTP 500, application/json;charset)
+  [--] 1695 PMC4366116: not open-access (HTTP 500, application/json;charset)
+  [--] 1699 PMC3596060: not open-access (HTTP 404, application/json;charset)
+  [--] 1700 PMC3819942: not open-access (HTTP 500, application/json;charset)
+  [--] 1705 PMC3090685: not open-access (HTTP 500, application/json;charset)
+  [--] 1762 PMC6126546: not open-access (HTTP 500, application/json;charset)
+  [--] 1776 PMC3669518: not open-access (HTTP 404, application/json;charset)
+  [--] 1783 PMC3225192: not open-access (HTTP 500, application/json;charset)
+  [--] 1800 PMC3488187: not open-access (HTTP 404, application/json;charset)
+  [OK] 1816 PMC4777611 (238 KB)
+  [--] 1831 PMC5817485: not open-access (HTTP 404, application/json;charset)
+  [--] 1832 PMC5817971: not open-access (HTTP 404, application/json;charset)
+  [--] 1833 PMC4249701: not open-access (HTTP 500, application/json;charset)
+  [--] 1847 PMC5500219: not open-access (HTTP 500, application/json;charset)
+  [--] 1852 PMC4193613: not open-access (HTTP 500, application/json;charset)
+  [--] 1858 PMC2914575: not open-access (HTTP 500, application/json;charset)
+  [ERR] 1869 PMC4782199: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [OK] 1870 PMC3388559 (366 KB)
+  [OK] 1871 PMC3341944 (384 KB)
+  [OK] 1872 PMC3188940 (567 KB)
+  -- 326/427 handled, 227 usable so far
+  [OK] 1873 PMC2538761 (133 KB)
+  [OK] 1874 PMC2360722 (130 KB)
+  [OK] 1875 PMC2395326 (118 KB)
+  [OK] 1876 PMC2394313 (133 KB)
+  [OK] 1877 PMC2747545 (132 KB)
+  [OK] 1878 PMC2363341 (61 KB)
+  [OK] 1879 PMC2150421 (683 KB)
+  [OK] 1884 PMC1664473 (924 KB)
+  [OK] 1885 PMC1325128 (118 KB)
+  [ERR] 1886 PMC3502550: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [OK] 1887 PMC3095543 (221 KB)
+  [OK] 1888 PMC115849 (340 KB)
+  [OK] 1889 PMC5006426 (1152 KB)
+  [OK] 1890 PMC4449604 (948 KB)
+  [OK] 1891 PMC3164634 (493 KB)
+  [OK] 1893 PMC4260975 (776 KB)
+  [--] 1894 PMC3012532: not open-access (HTTP 404, application/json;charset)
+  [OK] 1904 PMC5347954 (1137 KB)
+  [OK] 1906 PMC5725733 (318 KB)
+  [OK] 1909 PMC5132116 (366 KB)
+  [OK] 1910 PMC5132065 (368 KB)
+  [OK] 1947 PMC352669 (730 KB)
+  [OK] 1948 PMC351998 (719 KB)
+  [OK] 1955 PMC5264214 (777 KB)
+  [OK] 1956 PMC4893099 (1122 KB)
+  -- 351/427 handled, 250 usable so far
+  [OK] 1957 PMC4392224 (2506 KB)
+  [OK] 1958 PMC4431348 (1502 KB)
+  [OK] 1959 PMC4316868 (1036 KB)
+  [OK] 1963 PMC3002766 (207 KB)
+  [OK] 1964 PMC1955127 (174 KB)
+  [ERR] 1965 PMC1755135: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [OK] 1966 PMC5561371 (908 KB)
+  [OK] 1967 PMC4893095 (1841 KB)
+  [OK] 1968 PMC4392200 (1718 KB)
+  [OK] 1969 PMC4392313 (1845 KB)
+  [OK] 1970 PMC3913295 (1782 KB)
+  [OK] 1972 PMC3086081 (234 KB)
+  [OK] 1974 PMC1955093 (350 KB)
+  [OK] 1975 PMC1754857 (92 KB)
+  [OK] 1979 PMC7360144 (251 KB)
+  [OK] 1983 PMC4478975 (193 KB)
+  [OK] 1984 PMC6267942 (513 KB)
+  [--] 1997 PMC4855243: not open-access (HTTP 500, text/html)
+  [OK] 2025 PMC4226056 (971 KB)
+  [OK] 2069 PMC5089609 (429 KB)
+  [OK] 2070 PMC4755132 (213 KB)
+  [OK] 2088 PMC5690310 (608 KB)
+  [OK] 2089 PMC3694319 (320 KB)
+  [OK] 2091 PMC2696607 (359 KB)
+  [OK] 2105 PMC3929329 (318 KB)
+  -- 376/427 handled, 273 usable so far
+  [OK] 2107 PMC2855860 (289 KB)
+  [ERR] 2116 PMC4298760: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [OK] 2123 PMC4312114 (551 KB)
+  [OK] 2124 PMC5911578 (252 KB)
+  [OK] 2126 PMC5198953 (649 KB)
+  [OK] 2128 PMC3637086 (194 KB)
+  [OK] 2131 PMC5055560 (577 KB)
+  [--] 2150 PMC4450764: not open-access (HTTP 500, application/json;charset)
+  [ERR] 2155 PMC4371780: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [--] 2156 PMC3549298: not open-access (HTTP 500, application/json;charset)
+  [OK] 2212 PMC3967292 (119 KB)
+  [ERR] 2230 PMC3161265: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [--] 2231 PMC3554278: not open-access (HTTP 500, text/html)
+  [OK] 2232 PMC3631843 (349 KB)
+  [OK] 2234 PMC3308312 (739 KB)
+  [OK] 2235 PMC3836134 (443 KB)
+  [OK] 2240 PMC3221029 (219 KB)
+  [OK] 2254 PMC3654568 (592 KB)
+  [OK] 2259 PMC5008205 (312 KB)
+  [OK] 2260 PMC5042083 (331 KB)
+  [OK] 2261 PMC5042081 (353 KB)
+  [OK] 2263 PMC5084818 (528 KB)
+  [OK] 2271 PMC4478181 (616 KB)
+  [OK] 2272 PMC4769515 (928 KB)
+  [OK] 2275 PMC4705137 (411 KB)
+  -- 401/427 handled, 292 usable so far
+  [OK] 2279 PMC3580134 (235 KB)
+  [OK] 2290 PMC4430683 (339 KB)
+  [OK] 2291 PMC4644253 (329 KB)
+  [OK] 2318 PMC4676308 (931 KB)
+  [OK] 2319 PMC5350357 (420 KB)
+  [OK] 2320 PMC4720778 (734 KB)
+  [OK] 2321 PMC4544634 (765 KB)
+  [OK] 2322 PMC4017518 (68 KB)
+  [--] 2354 PMC2276587: not open-access (HTTP 500, application/json;charset)
+  [OK] 2368 PMC7094421 (598 KB)
+  [OK] 2369 PMC1727061 (106 KB)
+  [OK] 2370 PMC1773722 (70 KB)
+  [OK] 2371 PMC1773804 (136 KB)
+  [OK] 2372 PMC1774244 (185 KB)
+  [OK] 2373 PMC1774619 (151 KB)
+  [OK] 2374 PMC1856291 (276 KB)
+  [OK] 2375 PMC1856289 (529 KB)
+  [OK] 2376 PMC1860086 (998 KB)
+  [--] 2377 PMC1860021: not open-access (HTTP 500, text/html)
+  [ERR] 2378 PMC2701613: HTTPSConnectionPool(host='europepmc.org', port=443): Read timed out. (read timeout=60)
+  [--] 2385 PMC4902107: not open-access (HTTP 500, application/json;charset)
+  [OK] 2386 PMC3711369 (643 KB)
+  [OK] 2387 PMC3933176 (717 KB)
+  [OK] 2396 PMC2651098 (197 KB)
+  [--] 2401 PMC5710193: not open-access (HTTP 404, application/json;charset)
+  -- 426/427 handled, 312 usable so far
+  [OK] 2408 PMC3227947 (675 KB)
+download done: 313 usable PDFs for 427 PMC trials
+=== phase: expand ===
+expand: 1507 trials without a PMC PDF
+  DOIs resolved: 100/1502
+  DOIs resolved: 200/1502
+  DOIs resolved: 300/1502
+  DOIs resolved: 400/1502
+  DOIs resolved: 500/1502
+  DOIs resolved: 600/1502
+  DOIs resolved: 700/1502
+  DOIs resolved: 800/1502
+  DOIs resolved: 900/1502
+  DOIs resolved: 1000/1502
+  DOIs resolved: 1100/1502
+  DOIs resolved: 1200/1502
+  DOIs resolved: 1300/1502
+  DOIs resolved: 1400/1502
+  DOIs resolved: 1500/1502
+  DOIs resolved: 1502/1502
+  -- 50/1507 expanded, 313 usable total
+  [OK] 173 via Unpaywall DOI 10.3899/jrheum.131226 (1187 KB)
+  [OK] 356 via Unpaywall DOI 10.3899/jrheum.150613 (2138 KB)
+  [OK] 357 via Unpaywall DOI 10.3899/jrheum.130945 (1156 KB)
+  [OK] 358 via Unpaywall DOI 10.3899/jrheum.081316 (211 KB)
+  [OK] 359 via Unpaywall DOI 10.3899/jrheum.080814 (344 KB)
+  [OK] 360 via Unpaywall DOI 10.3899/jrheum.081207 (285 KB)
+  [OK] 379 via Unpaywall DOI 10.1136/jnnp-2011-300148 (393 KB)
+  -- 100/1507 expanded, 320 usable total
+  -- 150/1507 expanded, 320 usable total
+  -- 200/1507 expanded, 320 usable total
+  [OK] 562 via Unpaywall DOI 10.1200/JCO.2015.66.3468 (925 KB)
+  [OK] 564 via Unpaywall DOI 10.1200/JCO.2016.71.7629 (847 KB)
+  -- 250/1507 expanded, 322 usable total
+  [OK] 613 via Unpaywall DOI 10.1111/j.1469-7610.2012.02569.x (267 KB)
+  [OK] 655 via Unpaywall DOI 10.3122/jabfm.2012.04.110309 (610 KB)
+  -- 300/1507 expanded, 324 usable total
+  -- 350/1507 expanded, 324 usable total
+  -- 400/1507 expanded, 324 usable total
+  [OK] 911 via Unpaywall DOI 10.1056/NEJMoa1606774 (316 KB)
+  -- 450/1507 expanded, 325 usable total
+  [OK] 913 via Unpaywall DOI 10.1272/jnms.71.92 (82 KB)
+  [OK] 939 via Unpaywall DOI 10.1192/bjp.179.6.514 (131 KB)
+  -- 500/1507 expanded, 327 usable total
+  [OK] 1009 via Unpaywall DOI 10.3855/jidc.4594 (673 KB)
+  -- 550/1507 expanded, 328 usable total
+  -- 600/1507 expanded, 328 usable total
+  -- 650/1507 expanded, 328 usable total
+  -- 700/1507 expanded, 328 usable total
+  [OK] 1355 via Unpaywall DOI 10.1136/annrheumdis-2012-201411 (576 KB)
+  [OK] 1358 via Unpaywall DOI 10.1007/s00125-014-3360-3 (376 KB)
+  -- 750/1507 expanded, 330 usable total
+  [OK] 1441 via Unpaywall DOI 10.1002/pros.23236 (819 KB)
+  -- 800/1507 expanded, 331 usable total
+  -- 850/1507 expanded, 331 usable total
+  -- 900/1507 expanded, 331 usable total
+  -- 950/1507 expanded, 331 usable total
+  [OK] 1690 via Unpaywall DOI 10.1016/S0140-6736(17)30570-6 (573 KB)
+  [OK] 1700 via Unpaywall DOI 10.1016/S0140-6736(12)61857-1 (347 KB)
+  -- 1000/1507 expanded, 333 usable total
+  -- 1050/1507 expanded, 333 usable total
+  -- 1100/1507 expanded, 333 usable total
+  [OK] 1857 via Unpaywall DOI 10.1192/bjp.bp.113.134213 (186 KB)
+  [OK] 1886 via Unpaywall DOI 10.1186/1471-2466-12-67 (573 KB)
+  -- 1150/1507 expanded, 335 usable total
+  [OK] 1901 via Unpaywall DOI 10.7314/apjcp.2014.15.20.8797 (320 KB)
+  [OK] 1908 via Unpaywall DOI 10.1002/art.39473 (335 KB)
+  -- 1200/1507 expanded, 337 usable total
+  -- 1250/1507 expanded, 337 usable total
+  -- 1300/1507 expanded, 337 usable total
+  [OK] 2136 via Unpaywall DOI 10.1253/circj.cj-12-0454 (851 KB)
+  -- 1350/1507 expanded, 338 usable total
+  [OK] 2274 via Unpaywall DOI 10.1007/s001250050626 (51 KB)
+  -- 1400/1507 expanded, 339 usable total
+  -- 1450/1507 expanded, 339 usable total
+  [OK] 2378 via Unpaywall DOI 10.1136/gut.2006.106781 (388 KB)
+expand done: 340 usable PDFs in total (PMC + Unpaywall + Semantic Scholar) of 1955 trials
+=== phase: analyze ===
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+2026-09-04 02:02:55,216 - rct_reviewer.ml.bias_robot - INFO - Loading Bias models...
+  25 PDFs analysed
+  50 PDFs analysed
+  75 PDFs analysed
+  100 PDFs analysed
+  125 PDFs analysed
+  150 PDFs analysed
+  175 PDFs analysed
+  200 PDFs analysed
+  225 PDFs analysed
+  250 PDFs analysed
+  275 PDFs analysed
+  300 PDFs analysed
+analysis done: 312 new PDFs judged
+=== phase: compare ===
+2026-09-04 02:11:14,995 - evaluate - INFO - wrote /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/figure_tier_e_human_concordance.png
+2026-09-04 02:11:15,046 - evaluate - INFO - wrote /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/figure_tier_e_human_concordance.svg
+2026-09-04 02:11:15,198 - evaluate - INFO - wrote /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/figure_tier_e_human_concordance.pdf
+report written: /Users/vihaan/RCT-Reviewer-Validation/validation_results_tian/tian_report.md
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % 
+
+
+
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % python evaluate_tian.py --phase control
+=== phase: control ===
+warning: The `fitz` API is deprecated and will be removed in future. Use `import pymupdf` instead.
+2026-09-04 03:27:23,927 - validation_shim - INFO - Keras stub modules installed (CNN ensemble never invoked)
+2026-09-04 03:27:24,959 - validation_shim - INFO - HashingVectorizer.__init__ patched: non_negative -> alternate_sign
+2026-09-04 03:27:25,236 - validation_shim - INFO - robotreviewer imported; DATA_ROOT -> /Users/vihaan/RCT-Reviewer-Validation/RCT-Reviewer/data
+  25 trials controlled
+  50 trials controlled
+  75 trials controlled
+  100 trials controlled
+  125 trials controlled
+  150 trials controlled
+  175 trials controlled
+  200 trials controlled
+  225 trials controlled
+  250 trials controlled
+  275 trials controlled
+  300 trials controlled
+control done: 313 trials re-judged with the original implementation
+control section written to report
+((.venv) ) vihaan@Vihaans-MacBook-Pro RCT-Reviewer-Validation % 
